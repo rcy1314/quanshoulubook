@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="<%- theme.robots %>">
+    <!-- 渲染优化 -->
+    <meta name="renderer" content="webkit">
+    <meta name="force-rendering" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="HandheldFriendly" content="True" >
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <title><%- page.resume_title %></title>
+    <% if (page.keywords){ %>
+      <meta name="keywords" content="<%- page.keywords %>">
+    <% } %>
+    <% if (page.description){ %>
+      <meta name="description" content="<%- page.description %>">
+    <% } %>
+
+    <!-- import meta -->
+    <% if (config.import && config.import.meta){ %>
+      <% (config.import.meta||[]).forEach(function(item){ %>
+        <%- item %>
+      <% }) %>
+    <% } %>
+    <!-- import link -->
+    <% if (config.import && config.import.link){ %>
+      <% (config.import.link||[]).forEach(function(item){ %>
+        <%- item %>
+      <% }) %>
+    <% } %>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.1/css/all.min.css">
+    <% if (theme.cdn.fancybox && theme.cdn.fancybox.css) { %>
+      <%- css(theme.cdn.fancybox.css) %>
+    <% } %>
+    <!-- style.css -->
+    <% if (theme.cdn.css && theme.cdn.css) { %>
+      <%- css(theme.cdn.css) %>
+    <% } else { %>
+      <%- css('css/page') %>
+    <% } %>
+  </head>
+  <body class="docs">
+    <div id="mobile-bar">
+      <a class="menu-button fas fa-bars"></a>
+      <h2 class="nav-title"><%- page.resume_title %></h2>
+      <% if (page.download) { %>
+        <a class="menu-button right fas fa-download" href="<%- page.download.url %>"></a>
+      <% } %>
+    </div>
+    <%- js(theme.cdn.vue) %>
+    <script>
+      Vue.config.productionTip = false
+      window.PAGE_TYPE = "resume"
+    </script>
+
+    <div id="main" class="fix-sidebar">
+      <%- body %>
+    </div>
+    <% if (theme.cdn.smooth_scroll) { %>
+      <%- js(theme.cdn.smooth_scroll) %>
+    <% } else { %>
+      <%- js(['js/smooth-scroll.min.js']) %>
+    <% } %>
+
+    <% if (theme.copyright) { %>
+      <footer id="footer">
+        <p><%- markdown(theme.copyright) %></p>
+      </footer>
+    <% } %>
+
+    <%- js(theme.cdn.jquery) %>
+    <% if (theme.cdn.common) { %>
+      <%- js(theme.cdn.common) %>
+    <% } else { %>
+      <%- js(['js/common.js']) %>
+    <% } %>
+    <% if (theme.cdn.escape) { %>
+      <%- js(theme.cdn.escape) %>
+    <% } else { %>
+      <%- js(['js/css.escape.js']) %>
+    <% } %>
+
+    <% if (theme.cdn.fancybox && theme.cdn.fancybox.js) { %>
+      <script src="<%- theme.cdn.fancybox.js %>"></script>
+      <script>
+        let LAZY_LOAD_IMAGE = "<%- config.lazyload %>";
+        $("body").find("fancybox").find("img").each(function () {
+            var element = document.createElement("a");
+            $(element).attr("data-fancybox", "gallery");
+            $(element).attr("href", $(this).attr("src"));
+             if (LAZY_LOAD_IMAGE) {
+               $(element).attr("href", $(this).attr("data-original"));
+             }
+            $(this).wrap(element);
+        });
+      </script>
+    <% } %>
+
+  </body>
+</html>
