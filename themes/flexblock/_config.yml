@@ -1,0 +1,86 @@
+# Header
+menu:
+  首页: /
+  友链: /links
+  关于: /about
+
+# 主页banner图
+banner: https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg
+
+# 站点通知信息
+notice: flex-block主题部分重构，详情查看https://github.com/miiiku/flex-block
+
+# 作者信息
+author:
+  name: Sukoshi
+  avatar: https://s.gravatar.com/avatar/2d6b803eea37de0257620d5fabee7e64?s=200&r=g&d=retro
+  description: 贵在坚持
+
+toc:
+  max_depth: 3 # 生成 TOC 的最大深度
+  min_depth: 2 # 生成 TOC 的最小深度
+
+comments:
+  enable: false
+  use: 'valine' # valine || disqus
+  # valine 评论
+  # docs: https://valine.js.org
+  # You can get your appid and appkey from https://leancloud.cn
+  # 这里appId和appKey一定一定要改成自己的，没有的话去https://leancloud.cn这个网站注册创建一个
+  valine:
+    appId: 
+    appKey: 
+    avatar: mm
+    placeholder: 随便说点什么叭～
+    notify: true
+    visitor: true
+    pageSize: 10
+  # disqus 评论
+  # docs: https://disqus.com/
+  disqus:
+    website: 
+    error: 如果你看不到评论，那么就真的看不到评论 w(゜Д゜)w
+
+# dplayer 视频播放
+# docs: http://dplayer.js.org/#/zh-Hans/
+dplayer:
+  enable: true
+  theme: "#b7daff"
+  autoplay: false
+  loop: false
+  mutex: true
+
+# aplayer 音频播放
+# docs: https://aplayer.js.org/#/zh-Hans/
+aplayer:
+  enable: true
+  theme: "#b7daff"
+  autoplay: false
+  loop: false
+  mutex: true
+  lrcType: 3
+
+# 国内备案信息
+beian: 
+
+# 谷歌分析
+google_analytics: 
+# gauges分析
+gauges_analytics: 
+# 百度分析
+baidu_analytics: 
+# 腾讯分析
+tencent_analytics: 
+# 站点ico
+favicon: /favicon.ico
+
+
+# Social Icon
+social_icon:
+  enable: true
+  icons:
+    ins     :
+    zhihu   :
+    weibo   : 
+    github  : https://github.com/miiiku/
+    twitter : https://twitter.com/guanquanhong
