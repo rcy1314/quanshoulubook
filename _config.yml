@@ -1,81 +1,72 @@
 # Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
 
 # Site
+title: NOISE自留地
+subtitle:
+description: 这里是NOISE的博客站，收录一些文章及记录一些有价值的事
+keywords: NOISE自留地，NOISE,博客站
+author: 这里收录一些文章及记录一些有价值的事
 language: zh-CN
+timezone:
 
-shortcut_icon: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
-favicon: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
-avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
-
-# 主题
-theme: resume
-theme_config:
-  robots: index,follow
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://resume.js.org
-# url: http://localhost:4000
+url: https://www.noisesite.cn
 root: /
-permalink: posts/:title/
+permalink: posts/:abbrlink/
+permalink_defaults:
+
+abbrlink:
+    alg: crc16   #算法： crc16(default) and crc32
+    rep: hex     #进制： dec(default) and hex: dec #输出进制：十进制和十六进制，默认为10进制。丨dec为十进制，hex为十六进制
+
+# Directory
+source_dir: source
+public_dir: public
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
-
-# Directory
-source_dir: src
-public_dir: public
-skip_render: README.md
-exclude: README.md
+i18n_dir: :lang
+skip_render:
 
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
-auto_spacing: false # Add spaces between asian characters and western characters
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
-max_open_file: 100
-multi_thread: true
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
+relative_link: false
+future: true
 highlight:
   enable: true
-  line_number: false
+  line_number: true
   auto_detect: false
-  tab_replace: '    '
-
+  tab_replace:
+  
+# Home page setting
+# path: Root path for your blogs index page. (default = '')
+# per_page: Posts displayed per page. (0 = disable pagination)
+# order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: 'index'
+  path: ''
   per_page: 10
   order_by: -date
-
+  
 # Category & Tag
 default_category: uncategorized
 category_map:
 tag_map:
 
-# Archives
-## 2: Enable pagination
-## 1: Disable pagination
-## 0: Fully Disable
-archive: 0
-category: 0
-tag: 0
-
-# Server
-## Hexo uses Connect as a server
-## You can customize the logger format as defined in
-## http://www.senchalabs.org/connect/logger.html
-port: 4000
-logger: false
-logger_format:
-
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: 'YYYY-MM-DD dddd'
+date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 
 # Pagination
@@ -83,90 +74,12 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
-# Disqus
-disqus_shortname:
-
 # Extensions
-## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
-## Themes: https://github.com/tommy351/hexo/wiki/Themes
-
-exclude_generator:
-
-# Markdown
-## https://github.com/chjj/marked
-markdown:
-  gfm: true
-  pedantic: false
-  sanitize: false
-  tables: true
-  breaks: true
-  smartLists: true
-  smartypants: true
-
-
-import:
-  meta:
-  - "<meta name='theme-color' content='#FFFFFF'>"
-  - "<meta name='msapplication-TileColor' content='#1BC3FB'>"
-  - "<meta name='msapplication-config' content='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/favicon/browserconfig.xml'>"
-  link:
-  - "<link rel='shortcut icon' type='image/x-icon' href='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/favicon/favicon.ico'>"
-  - "<link rel='icon' type='image/x-icon' sizes='32x32' href='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/favicon/favicon-32x32.png'>"
-  - "<link rel='apple-touch-icon' type='image/png' sizes='180x180' href='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/favicon/apple-touch-icon.png'>"
-  - "<link rel='mask-icon' color='#1BC3FB' href='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/favicon/safari-pinned-tab.svg'>"
-  - "<link rel='manifest' href='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/favicon/site.webmanifest'>"
-  # script:
-
-# Offline
-## Config passed to sw-precache
-## https://github.com/JLHwung/hexo-offline
-# offline config passed to sw-precache.
-offline:
-  maximumFileSizeToCacheInBytes: 10485760
-  staticFileGlobs:
-    - public/**/*.{js,html,css,png,jpg,gif,svg,eot,ttf,woff,woff2}
-  stripPrefix: public
-  verbose: true
-  runtimeCaching:
-    - urlPattern: /*
-      handler: cacheFirst
-      options:
-        origin: cdn.jsdelivr.net
-    - urlPattern: /*
-      handler: cacheFirst
-      options:
-        origin: cdnjs.cloudflare.com
-
-nofollow:
-  enable: true
-  exclude:
-    - xaoxuu.com
-
-
-# npm i hexo-neat
-neat_enable: true
-
-
-
-# 图片懒加载
-lazyload:
-  enable: true
-  onlypost: false
-  loadingImg: https://img.vim-cn.com/92/d570170f4f12e1ee829ca0e85a7dffeb77343a.svg
-
-
-# 百度统计key
-# baidu_analytics_key: cd037d28d6a6eaf5b81b7c9b024741cc
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+theme: again
 
 # Deployment
-## Docs: http://zespia.tw/hexo/docs/deployment.html
+## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  - type: git
-    repo: https://github.com/xaoxuu/resume.js.org.git
-    branch: master
-    message: update pages
-
-feed:
-  type: atom
-  path: atom.xml
-  limit: 20
+  type:
