@@ -1,0 +1,287 @@
+body {
+  margin: 0;
+  color: #b9b9b9;
+  display: flex;
+  background-color: #2D343B;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+#menu-outer {
+  position: fixed;
+  z-index: 10;
+  color: green;
+  background: #2D343B88;
+  top: 0;
+  width: 100%;
+  border-radius: 10px;
+  display: flex;
+  justify-content: flex-end;
+  height: 37px;
+  background-color: #2D343B55;
+  backdrop-filter: blur(5px) ;
+  box-shadow:  9px 9px 18px #121518, 
+               -9px -9px 18px #48535e;
+}
+
+#main {
+  color: #b9b9b9;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+
+// 侧边栏
+
+#aside-outer {
+  width: 20%;
+}
+
+aside {
+  width: 20%;
+  background-color: #2D343B;
+  position: fixed;
+  border-radius: 10px;
+  overflow-y: scroll;
+  top: 40px;
+  height :95%;
+  background: #2D343B;
+  box-shadow:  9px 9px 18px #121518, 
+             -9px -9px 18px #48535e;
+}
+
+aside ul
+  margin: 0
+  padding: 0px 5px 5px 20px
+
+aside #tree ul ul
+  display: none
+
+aside ul li
+  list-style: none
+
+aside ul li a
+  color: #999
+  text-decoration: none
+
+aside ul li a:hover 
+  color: #fff;
+  border-bottom: 1px solid #ccc;
+  cursor: pointer
+
+aside #tree .active a,
+aside #tree .active a:hover {
+    color: #41a8be;
+    border-bottom: 1px solid #41a8be;
+}
+
+aside #search
+  display: flex
+  justify-content: space-between
+  vertical-align: center 
+
+
+/* #################### 文章索引 #################### */
+
+aside #toc a.read{
+    color: #41a8be;
+    border-bottom: 0;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+
+aside #toc a{
+    color: #999;
+    border-bottom: 0;
+    -webkit-transition: 0.2s;
+    -moz-transition: 0.2s;
+    -ms-transition: 0.2s;
+    -o-transition: 0.2s;
+}
+
+aside #toc a:hover{
+    /*color: #87daff;*/
+    color: #e5c07b;
+    padding-left: 20px;
+    -webkit-transition: 0.1s;
+    -moz-transition: 0.1s;
+    -ms-transition: 0.1s;
+    -o-transition: 0.1s;
+}
+
+/* #################### 文章索引 #################### */
+
+.search-input
+  margin: 10px;
+  width: 80%;
+  border:0;
+  outline: none;
+  color: #ccc;
+  border-radius: 10px;
+  background: #2D343B;
+  box-shadow: inset 6px 6px 11px #171b1e, 
+            inset -6px -6px 11px #434d58;
+
+
+// 文章内容
+
+#content-outer {
+  width: 75%;
+  padding-left: 40px;
+  margin-right: 20px;
+  margin-top: 20px;
+  border-radius: 20px;
+  background: linear-gradient(145deg, #292f35, #30383f);
+  box-shadow:  7px 7px 14px #16191c, 
+             -7px -7px 14px #444f5a;
+}
+
+// 底部信息
+#bottom-outer {
+  width: 70%;
+  border-top: 1px dashed #ffffff88;
+  border-radius: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+// 链接
+
+a {
+  color: #00b5db;
+}
+
+
+//图片
+img {
+  margin: 5px;
+  border-radius: 10px;
+  background: #2D343B;
+  box-shadow: 5px 5px 5px #20252a, -5px -5px 5px #3a434c;
+  max-width :90%;
+}
+
+// 滚动条
+
+::-webkit-scrollbar {
+		  width: 15px;
+	} /* 这是针对缺省样式 (必须的) */
+
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+background: #224a53;
+box-shadow: inset 3px 3px 5px #12272c, 
+            inset -3px -3px 5px #469bae;
+	} /* 滚动条的滑轨背景颜色 */
+
+	::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: linear-gradient(145deg, #285762, #2f6875);
+    box-shadow:  3px 3px 5px #12272c;
+	} /* 滑块颜色 */
+
+	::-webkit-scrollbar-button {
+      height :0
+	} /* 滑轨两头的监听按钮颜色 */
+
+	::-webkit-scrollbar-corner {
+		  background-color: #2D343B;
+   } /* 横向滚动条和纵向滚动条相交处尖角的颜色 */
+
+.recent-post-item
+  width: 95%
+  margin-bottom: 30px
+  height 200px;
+  border-radius: 18px;
+  background: linear-gradient(145deg, #292f35, #30383f);
+  box-shadow:  7px 7px 20px #181c1f, 
+             -7px -7px 20px #424c57;
+  display: flex
+  justify-content: flex-start
+
+.recent-post-left{
+  width: 400px;
+  padding: 20px;
+}
+
+.recent-post-img{
+  position relative
+  height 100%
+}
+
+.recent-post-right
+  padding: 20px;
+  width: 100%;
+
+  
+.recent-post-title
+  padding: 10px
+  display: inline-block
+  text-decoration: none
+  font-size: 20px;
+  margin: 10px
+  border-radius: 10px;
+  background: #2D343B;
+  box-shadow:  5px 5px 10px #1c2025, 
+             -5px -5px 10px #3e4851;
+
+.recent-post-time
+  font-size: 13px;
+
+#menu-outer
+  display: flex
+  justify-content: flex-end
+
+.menu-button
+  margin-right: 20px
+  display: inline-block inline-block
+  text-decoration: none
+  padding-left: 20px
+  padding-right: 20px
+  padding-bottom: 3px
+  font-size: 15px;
+  border-radius: 0 0 10px 10px;
+  background: #2D343B;
+  box-shadow:  5px 5px 10px #1c2025, 
+             -5px -5px 10px #3e4851;
+
+
+/* #################### 自适应 #################### */
+
+@media screen and (max-width: 800px) {
+	aside {
+    width: 0%;
+	}
+
+	#content {
+		padding-left: 0;
+	}
+
+	canvas#live2dcanvas {
+		display: none;
+	}
+}
+
+/*竖屏*/
+@media all and (orientation : portrait) {
+
+	#aside-outer {
+		display: none;
+	}
+	#content-outer {
+    width: 100%;
+    margin: 20;
+    padding: 0;
+	}
+
+	canvas#live2dcanvas {
+		display: none;
+	}
+
+}
+
+/* #################### 自适应 #################### */

@@ -1,0 +1,45 @@
+
+# html lang
+language: en
+
+# main menu navigation
+menu:
+  Home: /
+  About: /about
+  Contact: /contact
+  Archives: /archives
+  Category: /categories
+
+# stylesheets loaded in the <head>
+stylesheets:
+- /lib/font-awesome-4.7.0/css/font-awesome.min.css  #字体图片库
+- /lib/highlight/styles/atom-one-dark  #字体高亮库
+- https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.css #katex
+- /css/again.css
+
+# scripts loaded in the end of the body
+scripts:
+- /lib/highlight/highlight.pack.js #代码高亮的js
+- /lib/jquery-3.4.1.min.js  #jQuery
+- /lib/jquery.pjax.js #pjax
+- /js/again.js
+
+markdown_it_plus:
+    highlight: true
+    html: true
+    xhtmlOut: true
+    breaks: true
+    langPrefix:
+    linkify: true
+    typographer:
+    quotes: “”‘’
+    pre_class: highlight
+
+# mermaid chart
+mermaid: ## mermaid url https://github.com/knsv/mermaid
+  enable: true  # default true
+  version: "7.1.2" # default v7.1.2
+  options:  # find more api options from https://github.com/knsv/mermaid/blob/master/src/mermaidAPI.js
+    #startOnload: true  // default true
+
+external_link: false
