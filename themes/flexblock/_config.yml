@@ -13,8 +13,8 @@ notice: 微信群组文档更新反馈请在企业微信文档表格中提交
 # 作者信息
 author:
   name: NOISE
-  avatar: https://p.pstatp.com/origin/pgc-image/d6c4dad395c74f9e997b2a0390c88b5b
-  description: 贵在坚持
+  avatar: https://p.pstatp.com/origin/pgc-image/d387c226e6a84ae191485a46fc24eeba
+  description: 学无止境
 
 toc:
   max_depth: 3 # 生成 TOC 的最大深度
@@ -72,7 +72,7 @@ baidu_analytics:
 # 腾讯分析
 tencent_analytics: 
 # 站点ico
-favicon: /favicon.ico
+favicon: https://p.pstatp.com/origin/pgc-image/d6c4dad395c74f9e997b2a0390c88b5b
 
 
 # Social Icon
