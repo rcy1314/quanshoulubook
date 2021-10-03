@@ -86,3 +86,25 @@ social_icon:
     github  : https://github.com/miiiku/
     twitter : https://twitter.com/guanquanhong
 
+#---------------------------
+# 页脚
+# Footer
+#---------------------------
+footer:
+  # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
+  # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
+  content: '
+    <div class="text-center py-1">   
+  <div>
+    <span>Copyright © 2021</span></a>
+    <a href="https://noisesite.cn" target="_blank" rel="nofollow noopener">
+     <span>Noise&自留地</span></a>    <br>
+  </div>
+  '
+
+
+  # 版权声明，会显示在每篇文章的结尾
+  # Copyright, will be displayed at the end of each post
+  copyright:
+    enable: true
+    content: '本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh" rel="nofollow noopener">CC BY-SA 4.0 协议</a> ，转载请注明出处！'

@@ -1,8 +1,12 @@
 ---
 title: 关于
-banner_img: https://p.pstatp.com/origin/pgc-image/564e75221e894cb09a663d88c31b257f
+cover: https://p.pstatp.com/origin/pgc-image/564e75221e894cb09a663d88c31b257f
 date: 2020-02-23 19:20:33
 layout: about
+enable: true
+avatar: /img/avatar.png
+name: "NOISE"
+intro: "走走停停，我们最终会遇见"
 ---
 
 <center>这里收录一些文章及记录一些有价值的事</center>
