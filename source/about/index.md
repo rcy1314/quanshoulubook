@@ -6,7 +6,7 @@ layout: about
 enable: true
 ---
 
-<center>这里收录一些文章及记录一些有价值的事</center>
+<center>这里收录资源干货全收录社群文档</center>
 
 
 
@@ -14,13 +14,13 @@ enable: true
 
 
 
-<center>永久域名【基于vercel】：https:/noiseblog.vercel.app</center>
+<center>永久域名【基于vercel】：https:/noisebook.vercel.app</center>
 
-<center>已添加解析域名：https://www.noisesite.cn</center>
+<center>已添加解析域名：待添加</center>
 
 
 
-<center>你可以在这里找到我的其他站点</center>
+<center>你可以在这里找到其他站点</center>
 
 <center> <a href="https://noisedh.cn/" target="_blank" class="btn btn-secondary col-lg-4">Noise网站导航</a></center>
 
