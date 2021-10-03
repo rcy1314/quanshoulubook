@@ -15,12 +15,12 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://quanshoulu.vercel.app
 root: /
-permalink: posts/:abbrlink/
+permalink: posts/:abbrlink.html  # 此处可以自己设置，也可以直接使用 /:abbrlink  posts也可改也可以去掉
+abbrlink:
+    alg: crc32   #算法： crc16(default) and crc32
+    rep: hex     #进制： dec(default) and hex
 permalink_defaults:
 
-abbrlink:
-    alg: crc16   #算法： crc16(default) and crc32
-    rep: hex     #进制： dec(default) and hex: dec #输出进制：十进制和十六进制，默认为10进制。丨dec为十进制，hex为十六进制
 
 # Directory
 source_dir: source
