@@ -2,6 +2,7 @@
 
 title: DIY信息阅读
 tags: [信息阅读]
+layout: page
 cover: https://p.pstatp.com/origin/pgc-image/00cdb4c712ea44b7a30833075b0c637d
 categories:
 - [技术文档]
