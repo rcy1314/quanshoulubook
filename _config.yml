@@ -7,13 +7,13 @@ title: 资源干货全收录文档
 subtitle:
 description: 这里是资源干货全收录社群文档收录站
 keywords: 资源干货全收录，社群,博客站
-author: 这里收录一些群组文章及记录一些有价值的事
+author: 这里收录一些微信群组文章及记录一些有价值的事
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://noisebook.vercel.app
+url: https://quanshoulu.vercel.app
 root: /
 permalink: posts/:abbrlink/
 permalink_defaults:
