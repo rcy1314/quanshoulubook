@@ -21,7 +21,6 @@ abbrlink:
     rep: hex     #进制： dec(default) and hex
 permalink_defaults:
 
-
 # Directory
 source_dir: source
 public_dir: public
