@@ -2,14 +2,12 @@
 menu:
   首页: /
   归档: /archives
-  分类: /categories
-  标签: /tags
   友链: /links
   关于: /about
-  留言: /message
+  说说: /message
 
 # 主页banner图
-banner: https://p.pstatp.com/origin/pgc-image/116c734024ad4164ae4b5115b9525fbe
+banner: https://p.pstatp.com/origin/pgc-image/764269d930fd4fd88320cdb0196a69fb
 
 # 站点通知信息
 notice: 微信群组文档更新反馈请在企业微信文档表格中提交
