@@ -2,10 +2,12 @@
 
 title: Mac 常用命令集合
 tags: [Mac命令]
-index_img: https://p.pstatp.com/origin/pgc-image/9fba4f96d534439e92699d845017d217
-banner_img: https://p.pstatp.com/origin/pgc-image/9fba4f96d534439e92699d845017d217
+cover: https://p.pstatp.com/origin/pgc-image/00cdb4c712ea44b7a30833075b0c637d
 categories:
 - [技术文档]
+layout: page
+aplayer: true
+dplayer: true
 date: 2021-09-15 10:00:00
 
 ---

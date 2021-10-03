@@ -1,10 +1,12 @@
 ---
 title: 新版AdobePremierePro2021中如何使用字幕工具及使用声音选项
 tags: [Premiere, PR，后期知识]
-index_img: https://p.pstatp.com/origin/pgc-image/d8fbded0e9604ce6900c24ae7ffef312
-banner_img: https://p.pstatp.com/origin/pgc-image/9c62f0733be64903ab4199029f49e7a7
+cover: https://p.pstatp.com/origin/pgc-image/00cdb4c712ea44b7a30833075b0c637d
 categories:
-- [后期知识]
+- [技术文档]
+layout: page
+aplayer: true
+dplayer: true
 date: 2021-09-17 10:00:00
 
 

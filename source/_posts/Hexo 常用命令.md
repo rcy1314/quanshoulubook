@@ -2,10 +2,12 @@
 
 title: Hexo 常用命令
 tags: [HEXO]
-index_img: https://p.pstatp.com/origin/pgc-image/dec8c9c9821347e2ac3c441b44b936dd
-banner_img: https://p.pstatp.com/origin/pgc-image/dec8c9c9821347e2ac3c441b44b936dd
+cover: https://p.pstatp.com/origin/pgc-image/00cdb4c712ea44b7a30833075b0c637d
 categories:
 - [技术文档]
+layout: page
+aplayer: true
+dplayer: true
 date: 2021-09-16 10:00:00
 
 ---

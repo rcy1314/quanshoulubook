@@ -2,11 +2,12 @@
 
 title: BT种子站汇总
 tags: [BT种子站]
-index_img: https://p.pstatp.com/origin/pgc-image/22a7075bcf4543079d8d8ec25ddac75b
-banner_img: https://p.pstatp.com/origin/pgc-image/22a7075bcf4543079d8d8ec25ddac75b
+cover: https://p.pstatp.com/origin/pgc-image/00cdb4c712ea44b7a30833075b0c637d
 categories:
 - [技术文档]
-date: 2021-09-21 10:00:00
+layout: page
+aplayer: true
+dplayer: true
 
 ---
 

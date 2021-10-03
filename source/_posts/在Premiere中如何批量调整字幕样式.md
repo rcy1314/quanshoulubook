@@ -1,8 +1,10 @@
 ---
 title: 在Premiere中如何批量调整字幕样式
 tags: [Premiere, PR，后期知识]
-index_img: https://p.pstatp.com/origin/pgc-image/0fe7e502e37249438dd3ba939ce9d6ab
-banner_img: https://p.pstatp.com/origin/pgc-image/0fe7e502e37249438dd3ba939ce9d6ab
+cover: https://p.pstatp.com/origin/pgc-image/00cdb4c712ea44b7a30833075b0c637d
+layout: page
+aplayer: true
+dplayer: true
 categories:
 - [后期知识]
 date: 2021-09-14 10:00:00
