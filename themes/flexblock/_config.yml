@@ -5,15 +5,15 @@ menu:
   关于: /about
 
 # 主页banner图
-banner: https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg
+banner: https://p.pstatp.com/origin/pgc-image/0777996932644385886e44fb6a13c684
 
 # 站点通知信息
-notice: flex-block主题部分重构，详情查看https://github.com/miiiku/flex-block
+notice: 微信群组文档更新反馈请在企业微信文档表格中提交
 
 # 作者信息
 author:
-  name: Sukoshi
-  avatar: https://s.gravatar.com/avatar/2d6b803eea37de0257620d5fabee7e64?s=200&r=g&d=retro
+  name: NOISE
+  avatar: https://p.pstatp.com/origin/pgc-image/d6c4dad395c74f9e997b2a0390c88b5b
   description: 贵在坚持
 
 toc:
@@ -21,15 +21,15 @@ toc:
   min_depth: 2 # 生成 TOC 的最小深度
 
 comments:
-  enable: false
+  enable: true
   use: 'valine' # valine || disqus
   # valine 评论
   # docs: https://valine.js.org
   # You can get your appid and appkey from https://leancloud.cn
   # 这里appId和appKey一定一定要改成自己的，没有的话去https://leancloud.cn这个网站注册创建一个
   valine:
-    appId: 
-    appKey: 
+    appId: PMd59BNMA9UejPKUQnXvTnBp-gzGzoHsz
+    appKey: BAESSxGaaul2Lrvs876IIObX
     avatar: mm
     placeholder: 随便说点什么叭～
     notify: true
@@ -77,7 +77,7 @@ favicon: /favicon.ico
 
 # Social Icon
 social_icon:
-  enable: true
+  enable: false
   icons:
     ins     :
     zhihu   :
