@@ -1,7 +1,8 @@
 ---
-title:
-  '[object Object]': null
-date:
-  '[object Object]': null
+title: 相关链接
 layout: links
+aplayer: true
+dplayer: true
 ---
+
+\- { "name" : "TG频道", "link" : "https://t.me/quanshoulu", "description" : "TG发布频道", "avatar" : "https://p.pstatp.com/origin/pgc-image/897e3bf2c109483e89c266a62e908da1" }
