@@ -18,14 +18,12 @@
       <p><a href="https://beian.miit.gov.cn" target="_blank"><%= theme.beian %></a></p>
     <% } %>
 
-    content: '
     <div class="text-center py-1">   
   <div>
     <span>Copyright © 2021</span></a>
     <a href="https://noisesite.cn" target="_blank" rel="nofollow noopener">
      <span>Noise&自留地</span></a>    <br>
   </div>
-  '
 
     <p>
       <a href="javascript:;" id="theme-light">🌞 浅色</a>
@@ -33,14 +31,7 @@
       <a href="javascript:;" id="theme-auto">🤖️ 自动</a>
     </p>
   </div>
-  # 自定义 <head> 节点中的 HTML 内容
-    # Customize <head> HTML content
-    custom_head: '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
-    '
-    
-    # 自定义底部 HTML 内容（位于 footer 上方），注意不要和 `post: custom` 配置冲突
-    # Customize the HTML content at the bottom (located above the footer), be careful not to conflict with `post: custom`
-    custom_html: '<!-- 音乐外放地址 --><!-- aplayer -->
+  
     </div>
     <div id="aplayer" class="aplayer" data-order="random" data-id="128460001" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="false" data-volume="0.8"></div>
     
@@ -52,5 +43,12 @@
         <script defer src="https://cdn.staticfile.org/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
         <script src="https://cdn.jsdelivr.net/gh/kaygb/kaygb@master/layer/layer.js"></script>
         <script src="https://cdn.jsdelivr.net/gh/kaygb/kaygb@master/js/v3.js"></script>
-    '
+    
+        <center>
+          <div>
+          <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+          <span id="busuanzi_container_site_uv" style='display:none'> 访客在线人数<span id="busuanzi_value_site_uv"></span>人</span>
+          <span id="busuanzi_container_site_pv" style='display:none'> 本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+          </div>
+          </center>
 </footer>
