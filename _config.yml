@@ -83,3 +83,61 @@ theme: flexblock
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+#---------------------------
+# 归档页
+# Archive Page
+#---------------------------
+archive:
+  banner_img: https://p.pstatp.com/origin/pgc-image/0777996932644385886e44fb6a13c684
+  banner_img_height: 60
+  banner_mask_alpha: 0.3
+  subtitle:
+
+
+#---------------------------
+# 分类页
+# Category Page
+#---------------------------
+category:
+  enable: true
+  banner_img: https://p.pstatp.com/origin/pgc-image/0777996932644385886e44fb6a13c684
+  banner_img_height: 60
+  banner_mask_alpha: 0.3
+  subtitle:
+
+  # 分类的排序字段，前面带减号是倒序，不带减号是正序
+  # Sort field for categories, with a minus sign is reverse order
+  # Options: length | name
+  order_by: "-length"
+
+  # 层级的折叠深度，0 是全部折叠，大于 0 后如果存在子分类则默认展开
+  # Collapse depth. If 0, all posts collapsed. If greater than 0, it will be expanded by default if there are subcategories
+  collapse_depth: 0
+
+  # 文章的排序字段，前面带减号是倒序，不带减号是正序
+  # Sort field for posts, with a minus sign is reverse order
+  # Options: date | title | or other field of front-matter
+  post_order_by: "-date"
+
+  # 单个分类中折叠展示文章数的最大值，超过限制会显示 More，0 则不限制
+  # The maximum number of posts in a single category. If the limit is exceeded, it will be displayed More. If 0 no limit
+  post_limit: 10
+
+
+#---------------------------
+# 标签页
+# Tag Page
+#---------------------------
+tag:
+  enable: true
+  banner_img: https://p.pstatp.com/origin/pgc-image/b6d5966427ae4f2bb4c78e0f65be5954
+  banner_img_height: 80
+  banner_mask_alpha: 0.3
+  subtitle:
+  tagcloud:
+    min_font: 15
+    max_font: 30
+    unit: px
+    start_color: "#BBBBEE"
+    end_color: "#337ab7"
