@@ -2,12 +2,12 @@
 
 title: Docker安装宝塔面板教程
 tags: [Docker, 宝塔面板]
-cover：https://www.nbmao.com/wp-content/uploads/2020/11/20201104232251-76e82.jpeg
+cover: https://www.nbmao.com/wp-content/uploads/2020/11/20201104232251-76e82.jpeg
 categories:
 - [技术文档]
-layout：page
-aplayer：true
-dplayer：true
+layout: page
+aplayer: true
+dplayer: true
 ---
 
 
