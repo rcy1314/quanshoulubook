@@ -9,13 +9,14 @@ menu:
 banner: https://p.pstatp.com/origin/pgc-image/3bff83e0c7124df1bf18525e942a3080
 
 # 站点通知信息
-notice: 微信群组文档更新反馈请在企业微信文档表格中提交
+notice: 微信群组文档更新反馈请在企业微信文档表格中提交，发布频道：https://t.me/quanshoulu，
+其它链接请在关于或友链中查看，收录文档仅展示部分社群文档
 
 # 作者信息
 author:
   name: NOISE
   avatar: https://p.pstatp.com/origin/pgc-image/d387c226e6a84ae191485a46fc24eeba
-  description: 学无止境
+  description: 热爱生活，忠于自己，付出每一帧每一秒，才能更懂得自己，更懂得生活
 
 toc:
   max_depth: 3 # 生成 TOC 的最大深度
