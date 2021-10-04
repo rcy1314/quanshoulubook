@@ -1,0 +1,92 @@
+<%
+var pageTitle = page.title || config.subtitle || '';
+if (is_archive()) pageTitle = 'Archives';
+if (is_tag()) pageTitle = 'Tag: ' + page.tag;
+if (is_category()) pageTitle = 'Category: ' + page.category;
+if (is_month()) pageTitle += ': ' + page.month + '/' + page.year;
+if (is_year()) pageTitle += ': ' + page.year;
+pageTitle += ' [ ' + config.title + ' ]';
+%>
+
+<!DOCTYPE html>
+<html lang="<%=config.language%>">
+
+<head>
+  <meta charset="UTF-8">
+  <title><%=pageTitle%></title>
+
+  <% if (theme.stylesheets !== undefined && theme.stylesheets.length > 0) { %>
+  <!-- stylesheets list from _config.yml -->
+  <% theme.stylesheets.forEach(url => { %>
+  <link rel="stylesheet" href="<%=url%>">
+  <% }); %>
+  <% } %>
+</head>
+
+<body>
+
+  <!-- menu -->
+  <div id="menu-outer">
+    <div id="menu-inner">
+      <% Object.keys(theme.menu).forEach(key => { %>
+      <a class="menu-button" href="<%=theme.menu[key]%>"><%=key%></a>
+      <% }); %>
+    </div>
+  </div>
+
+  <!-- 中间主体 -->
+  <div id="main">
+    <!-- 侧边栏 -->
+    <div id="aside-outer">
+      <aside>
+        <%- include('newaside.ejs') %>
+      </aside>
+    </div>
+    <!-- 文章内容 -->
+    <div id="content-outer">
+      <div id="content-inner">
+        <%- body %>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- 底部信息 -->
+  <div id="bottom-outer">
+    <div id="bottom-inner">
+      Site by <%=config.author%> using
+      <a href="http://hexo.io">hexo blog framework</a>.
+      <br>
+      <a href="<%=config.root%>">Home</a>
+    </div>
+  </div>
+
+
+  <% if (theme.scripts !== undefined && theme.scripts.length > 0) { %>
+  <!-- scripts list from theme config.yml -->
+  <% theme.scripts.forEach(url => { %>
+  <script src="<%=url%>"></script>
+  <% }); %>
+  <% } %>
+
+
+  <!-- 高亮脚本启动 -->
+  <script>hljs.initHighlightingOnLoad();</script>
+
+    <!-- 如果设置中mermaid选项打开 -->
+    <% if (theme.mermaid.enable) { %>
+    <!-- 引入mermaid脚本 -->
+    <div class=".pjax-reload">
+      <script src='https://unpkg.com/mermaid@<%= theme.mermaid.version %>/dist/mermaid.min.js'></script>
+    </div>
+    <!-- mermaid启动 -->
+    <script>
+      if (window.mermaid) {
+        mermaid.initialize({ theme: 'dark' });
+      }
+    </script>
+    <% } %>
+
+</body>
+
+</html>
