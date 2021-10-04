@@ -1,0 +1,50 @@
+<!-- footer container -->
+<footer id="footer" class="footer">
+  <div class="footer-container">
+    <% if (theme.social_icon.enable) { %>
+    <div class="social-icons">
+      <% for (var i in theme.social_icon.icons) { %>
+        <% if (theme.social_icon.icons[i]) { %>
+          <a href="<%= theme.social_icon.icons[i] %>" class="soft-size--primary soft-style--box" target="_blank" rel="noopener noreferrer">
+            <%- partial("../_svg/social-"+ i +".svg") %>
+          </a>
+        <% } %>
+      <% } %>
+    </div>
+    <% } %> 
+    <p>&copy; <%= date(new Date(), 'YYYY') %> <a href="/" target="_blank"><%= config.author %></a></p>
+
+    <% if (theme.beian) { %>
+      <p><a href="https://beian.miit.gov.cn" target="_blank"><%= theme.beian %></a></p>
+    <% } %>
+
+    <div class="text-center py-1">   
+  <div>
+    <p>
+      <a href="javascript:;" id="theme-light">🌞 浅色</a>
+      <a href="javascript:;" id="theme-dark">🌛 深色</a>
+      <a href="javascript:;" id="theme-auto">🤖️ 自动</a>
+    </p>
+  </div>
+    <span>TG © 2019-2021</span></a>
+    <a href="https://t.me/quanshoulu" target="_blank" rel="nofollow noopener">
+     <span>资源干货全收录</span></a>    <br>
+  </div>
+
+    
+  
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+    </div>
+    <div id="aplayer" class="aplayer" data-order="random" data-id="128460001" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="false" data-volume="0.8"></div>
+    
+        <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/meting@1.2.0/dist/Meting.min.js"></script>
+        <!-- end_aplayer -->
+        <script src="https://cdn.staticfile.org/popper.js/1.15.0/umd/popper.min.js"></script>
+        <script defer src="https://cdn.staticfile.org/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/kaygb/kaygb@master/layer/layer.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/kaygb/kaygb@master/js/v3.js"></script>
+    </div>  
+
+</footer>
