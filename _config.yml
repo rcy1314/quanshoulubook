@@ -15,13 +15,12 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://quanshoulu.vercel.app/
 root: /
-permalink: posts/:abbrlink/
-permalink_defaults:
-   lang: en
+# 可选 permalink: abbrlink 短链接模式
+permalink: :abbrlink/ #文章的永久链接 或者 permalink: posts/:abbrlink.html 如：http://localhost:4000/post/abaf7e89.html
+# abbrlink config
 abbrlink:
-    alg: crc16   #算法： crc16(default) and crc32
-    rep: hex     #进制： dec(default) and hex: dec #输出进制：十进制和十六进制，默认为10进制。丨dec为十进制，hex为十六进制
-
+  alg: crc32  #算法: crc16(default) and crc32
+  rep: hex    #进制: dec(default) and hex
 # Directory
 source_dir: source
 public_dir: public
