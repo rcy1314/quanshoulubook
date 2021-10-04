@@ -7,3 +7,5 @@ layout: messages
 
 
 
+<center>管理员站长：NOISE</center>
+
