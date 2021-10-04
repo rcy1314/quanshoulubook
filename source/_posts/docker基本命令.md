@@ -2,12 +2,10 @@
 
 title: docker基本命令
 tags: [Docker]
-cover: https://p.pstatp.com/origin/pgc-image/00cdb4c712ea44b7a30833075b0c637d
+index_img: https://p.pstatp.com/origin/pgc-image/8fc4d3cf59964cd2b39fa8068e394b59
+banner_img: https://p.pstatp.com/origin/pgc-image/8fc4d3cf59964cd2b39fa8068e394b59
 categories:
 - [技术文档]
-layout: page
-aplayer: true
-dplayer: true
 date: 2021-09-11 10:00:00
 
 ---

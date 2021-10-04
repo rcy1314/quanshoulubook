@@ -3,23 +3,24 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 资源干货全收录文档
+title: NOISE自留地
 subtitle:
-description: 这里是资源干货全收录社群文档收录站
-keywords: 资源干货全收录，社群,博客站
-author: 这里收录一些微信群组文章及记录一些有价值的事
+description: 这里是NOISE的博客站，收录一些文章及记录一些有价值的事
+keywords: NOISE自留地，NOISE,博客站
+author: 这里收录一些文章及记录一些有价值的事
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://quanshoulu.vercel.app
+url: https://www.noisesite.cn
 root: /
-permalink: posts/:abbrlink.html  # 此处可以自己设置，也可以直接使用 /:abbrlink  posts也可改也可以去掉
-abbrlink:
-    alg: crc32   #算法： crc16(default) and crc32
-    rep: hex     #进制： dec(default) and hex
+permalink: posts/:abbrlink/
 permalink_defaults:
+
+abbrlink:
+    alg: crc16   #算法： crc16(default) and crc32
+    rep: hex     #进制： dec(default) and hex: dec #输出进制：十进制和十六进制，默认为10进制。丨dec为十进制，hex为十六进制
 
 # Directory
 source_dir: source
@@ -76,15 +77,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: flexblock
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
-
-deploy:
-  type: git # 类型填git
-  repo: <https://github.com/rcy1314/quanshoulubook.git> # 你的Github仓库地址
-  branch: master # 分支名称。默认填写 master 如果您使用的是 GitHub ，程序会尝试自动检测。
-  message: # 提交信息可以自定义，不填的则默认为提交时间

@@ -2,12 +2,10 @@
 
 title: nginx通过反向代理实现未备案域名访问
 tags: [nginx, 宝塔面板,反向代理]
-cover: https://p.pstatp.com/origin/pgc-image/00cdb4c712ea44b7a30833075b0c637d
+index_img: https://p.pstatp.com/origin/pgc-image/0c0aa134f88645419f111ac743282ab3
+banner_img: https://p.pstatp.com/origin/pgc-image/0c0aa134f88645419f111ac743282ab3
 categories:
 - [技术文档]
-layout: page
-aplayer: true
-dplayer: true
 date: 2021-09-09 10:00:00
 
 ---

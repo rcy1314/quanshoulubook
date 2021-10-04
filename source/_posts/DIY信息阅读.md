@@ -2,10 +2,11 @@
 
 title: DIY信息阅读
 tags: [信息阅读]
-layout: page
-cover: https://p.pstatp.com/origin/pgc-image/00cdb4c712ea44b7a30833075b0c637d
+index_img: https://p.pstatp.com/origin/pgc-image/349ceab375ad4b47bed3c87b60a7054b
+banner_img: https://p.pstatp.com/origin/pgc-image/349ceab375ad4b47bed3c87b60a7054b
 categories:
 - [技术文档]
+date: 2021-09-19 10:00:00
 
 ---
 
