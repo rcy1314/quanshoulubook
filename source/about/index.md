@@ -13,7 +13,7 @@ layout: about
 
 
 
-<center>永久域名【基于vercel】：https://quanshoulubook.vercel.app</center>
+<center>永久域名【基于vercel】：https://quanshoulu.vercel.app</center>
 
 <center>已添加解析域名：待添加</center>
 
