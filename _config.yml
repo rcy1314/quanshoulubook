@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: NOISE自留地
+title: 资源干货全收录文档
 subtitle:
-description: 这里是NOISE的博客站，收录一些文章及记录一些有价值的事
-keywords: NOISE自留地，NOISE,博客站
-author: 这里收录一些文章及记录一些有价值的事
+description: 这里是资源干货全收录社群文档收录站
+keywords: 资源干货全收录，社群,博客站
+author: 这里收录一些微信群组文章及记录一些有价值的事
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.noisesite.cn
+url: https://gallant-perlman-25aa5f.netlify.app
 root: /
 permalink: posts/:abbrlink/
 permalink_defaults:
@@ -77,7 +77,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid
+theme: flexblock
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
