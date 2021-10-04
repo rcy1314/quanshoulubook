@@ -7,7 +7,7 @@ layout: about
 
 <center>这里收录资源干货全收录社群专用文章及记录一些有价值的事</center>
 
-
+<center>使用主题：<a href="https://github.com/miiiku/hexo-theme-flexblock" target="_blank" class="btn btn-secondary col-lg-4">flex-block</a></center>
 
 <center>本站域名</center>
 
