@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 资源干货全收录社群文档
+title: 资源干货全收录文档
 subtitle:
 description: 这里是资源干货全收录社群文档收录站
 keywords: 资源干货全收录，社群,博客站
@@ -13,14 +13,13 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://noisebook.vercel.app
+url: https://quanshoulu.vercel.app
 root: /
-permalink: posts/:abbrlink/
-permalink_defaults:
-
+permalink: posts/:abbrlink.html  # 此处可以自己设置，也可以直接使用 /:abbrlink  posts也可改也可以去掉
 abbrlink:
-    alg: crc16   #算法： crc16(default) and crc32
-    rep: hex     #进制： dec(default) and hex: dec #输出进制：十进制和十六进制，默认为10进制。丨dec为十进制，hex为十六进制
+    alg: crc32   #算法： crc16(default) and crc32
+    rep: hex     #进制： dec(default) and hex
+permalink_defaults:
 
 # Directory
 source_dir: source
@@ -83,3 +82,9 @@ theme: flexblock
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+deploy:
+  type: git # 类型填git
+  repo: <https://github.com/rcy1314/quanshoulubook.git> # 你的Github仓库地址
+  branch: master # 分支名称。默认填写 master 如果您使用的是 GitHub ，程序会尝试自动检测。
+  message: # 提交信息可以自定义，不填的则默认为提交时间
