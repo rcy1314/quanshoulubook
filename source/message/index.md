@@ -7,5 +7,5 @@ layout: messages
 
 
 
-<center>管理员站长：NOISE</center>
+<center>管理员站长：<a href="https://p.pstatp.com/origin/pgc-image/3dd407f33019414b9a37bf6f4987ede3" target="_blank" class="btn btn-secondary col-lg-4">NOISE</a></center>
 
