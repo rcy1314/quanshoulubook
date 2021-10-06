@@ -86,3 +86,6 @@ social_icon:
     github  : https://github.com/miiiku/
     twitter : https://twitter.com/guanquanhong
 
+# 本地搜索
+local_search:
+  enable: true
