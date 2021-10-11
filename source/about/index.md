@@ -5,9 +5,9 @@ date: 2020-02-23 19:20:33
 layout: about
 ---
 
-<center>这里收录资源干货全收录社群专用文章及记录一些有价值的事</center>
+<center>这里收录资源干货全收录曾经的文档及记录一些有价值的事</center>
 
-<center>不供养白嫖凑热闹及不参与维护还一堆要求的人</center>
+<center>因不供养白嫖凑热闹及不参与维护还一堆要求的人已停止维护</center>
 
 <center>本站域名</center>
 
@@ -17,9 +17,7 @@ layout: about
 
 
 
-<center>如需加入编辑或访问最新维护更新文档请联系管理员或通过群组之一取得联系</center>
 
-![](https://p.pstatp.com/origin/pgc-image/2a3feac808c4495ba987c6b10cd09ba3)
 
 
 
