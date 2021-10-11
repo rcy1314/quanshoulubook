@@ -5,9 +5,9 @@ date: 2020-02-23 19:20:33
 layout: about
 ---
 
-<center>这里收录资源干货全收录曾经的文档及记录一些有价值的事</center>
+<center>这里收录资源干货全收录曾经的文档</center>
 
-<center>因不供养白嫖凑热闹及不参与维护还一堆要求的人已停止维护</center>
+
 
 <center>本站域名</center>
 
