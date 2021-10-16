@@ -5,9 +5,9 @@ date: 2020-02-23 19:20:33
 layout: about
 ---
 
-<center>这里收录资源干货全收录曾经的文档</center>
+<center>这里是收录资源干货全收录文档的站点</center>
 
-
+<center>已公示的文档所有人可访问复制</center>
 
 <center>本站域名</center>
 
