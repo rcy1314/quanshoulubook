@@ -26,7 +26,7 @@ date: 2021-10-14 10:00:00
 ![](https://img10.360buyimg.com/ddimg/jfs/t1/197801/12/13812/235574/616d3b40Eea28905c/27aac19f40cdb962.png)
 ![](https://img13.360buyimg.com/ddimg/jfs/t1/156210/5/22972/161253/616d3b40E7c4e2f70/7242a8e22a5be64d.png)
 
-WIKI文档地址：https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx ，为了更好的体验，建议通过电脑浏览器访问 【仅参与编辑者可导出下载】
+WIKI文档地址：https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx ，为了更好的体验，建议通过电脑浏览器访问
 
 说明：登录即可参与编辑
 
