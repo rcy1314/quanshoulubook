@@ -9,4 +9,4 @@ dplayer: true
 
 
 
-<center>申请格式:站点名称+站点地址+站点描述+站点头像</center>
+<center>申请格式:站点名称+站点地址+站点描述</center>
