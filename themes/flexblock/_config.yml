@@ -9,7 +9,7 @@ menu:
 banner: https://p.pstatp.com/origin/pgc-image/3bff83e0c7124df1bf18525e942a3080
 
 # 站点通知信息
-notice: 群组文档已公示
+notice: 感谢曾付出和愿意参与分享的朋友
 
 # 作者信息
 author:
@@ -33,8 +33,8 @@ comments:
     appKey: BAESSxGaaul2Lrvs876IIObX
     avatar: mm
     placeholder: 随便说点什么叭～
-    notify: true
-    visitor: true
+    notify: false
+    visitor: false
     pageSize: 10
   # disqus 评论
   # docs: https://disqus.com/
