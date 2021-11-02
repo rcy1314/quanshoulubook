@@ -3,7 +3,7 @@
 title: BT种子站汇总
 urlname: bt
 tags: [BT种子站]
-cover: https://p.pstatp.com/origin/pgc-image/70cb571134ec41e4a9ba3aadec77df8f
+cover: https://pic.ioiox.com/images/2021/11/02/2eb7cd893751952053ed1b1bf5ffc436.jpg
 categories:
 - [网站收录]
 layout: page
