@@ -1,5 +1,9 @@
-- { "name" : "TG频道", "link" : "https://t.me/s/quanshoulu", "description" : "TG发布频道", "avatar" : "https://p.pstatp.com/origin/pgc-image/897e3bf2c109483e89c266a62e908da1" }
-- { "name" : "NV资源网", "link" : "https://noisevip.cn", "description" : "NV资源网", "avatar" : "https://p.pstatp.com/origin/pgc-image/897e3bf2c109483e89c266a62e908da1" }
-- { "name" : "导航站", "link" : "https://noisedh.cn", "description" : "NV资源网", "avatar" : "https://p.pstatp.com/origin/pgc-image/897e3bf2c109483e89c266a62e908da1" }
-- { "name" : "WIKI文档", "link" : "https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx ", "description" : "WIKI文档", "avatar" : "https://p.pstatp.com/origin/pgc-image/897e3bf2c109483e89c266a62e908da1" }
-- { "name" : "信息阅读feed", "link" : "https://qingbaoban.cn", "description" : "信息阅读feed", "avatar" : "https://p.pstatp.com/origin/pgc-image/897e3bf2c109483e89c266a62e908da1" }
+- { "name" : "TG频道", "link" : "https://t.me/s/quanshoulu", "description" : "TG发布频道", "avatar" : "https://cdn.jsdelivr.net/gh/rcy1314/tuchuang@main/NV/favicon-96x96.6ji28s87cpc0.webp" }
+- { "name" : "TG频道", "link" : "https://noisedh.cn", "description" : "Noise导航站", "avatar" : "https://cdn.jsdelivr.net/gh/rcy1314/tuchuang@main/NV/favicon-96x96.6ji28s87cpc0.webp" }
+- { "name" : "云盘资源库", "link" : "https://www.noiseyp.top, "description" : "NOISE云盘资源库", "avatar" : "https://cdn.jsdelivr.net/gh/rcy1314/tuchuang@main/NV/favicon-96x96.6ji28s87cpc0.webp" }
+- { "name" : "引导主页", "link" : "https://www.noisework.cn", "description" : "NOISE引导主页", "avatar" : "https://cdn.jsdelivr.net/gh/rcy1314/tuchuang@main/NV/favicon-96x96.6ji28s87cpc0.webp" }
+- { "name" : "NOISE知识效率集", "link" : "https://www.noisesite.cn", "description" : "NOISE知识效率集", "avatar" : "https://cdn.jsdelivr.net/gh/rcy1314/tuchuang@main/NV/favicon-96x96.6ji28s87cpc0.webp" }
+- { "name" : "NV资源网", "link" : "https://noisevip.cn", "description" : "NV资源网", "avatar" : "https://cdn.jsdelivr.net/gh/rcy1314/tuchuang@main/NV/favicon-96x96.6ji28s87cpc0.webp" }
+- { "name" : "NOISE导航站", "link" : "https://noisedh.cn", "description" : "NOISE导航站", "avatar" : "https://cdn.jsdelivr.net/gh/rcy1314/tuchuang@main/NV/favicon-96x96.6ji28s87cpc0.webp" }
+- { "name" : "【WIKI文档】", "link" : "https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx ", "description" : "WIKI文档", "avatar" : "https://cdn.jsdelivr.net/gh/rcy1314/tuchuang@main/NV/favicon-96x96.6ji28s87cpc0.webp" }
+- { "name" : "信息阅读feed", "link" : "https://feed-afd.pages.dev", "description" : "信息阅读feed", "avatar" : "https://cdn.jsdelivr.net/gh/rcy1314/tuchuang@main/NV/favicon-96x96.6ji28s87cpc0.webp" }
