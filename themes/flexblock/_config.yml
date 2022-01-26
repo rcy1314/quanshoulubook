@@ -1,12 +1,12 @@
 # Header
 menu:
   首页: /
-  友链: /links
-  关于: /about
+  关联站点: /links
+  关于本站: /about
 
 
 # 主页banner图
-banner: https://pic.ioiox.com/images/2021/11/02/0cd67b39fc4b1852a0d7506ff1a9a862.jpg
+banner: https://cdn.jsdelivr.net/gh/rcy1314/tuchuang@main/NV/0cd67b39fc4b1852a0d7506ff1a9a862.4btlx7rpwo60.webp
 
 # 站点通知信息
 notice: 感谢曾付出和愿意参与分享的朋友
@@ -14,7 +14,7 @@ notice: 感谢曾付出和愿意参与分享的朋友
 # 作者信息
 author:
   name: NOISE
-  avatar: https://pic.ioiox.com/images/2021/11/02/6565b68f0490f7c21a56ddddac4813d4.jpg
+  avatar: https://cdn.jsdelivr.net/gh/rcy1314/tuchuang@main/NV/6565b68f0490f7c21a56ddddac4813d4.6t9rxdojb5k0.webp
   description: 热爱生活，忠于自己，付出每一帧每一秒，才能更懂得自己，更懂得生活
 
 toc:
@@ -33,8 +33,8 @@ comments:
     appKey: BAESSxGaaul2Lrvs876IIObX
     avatar: mm
     placeholder: 随便说点什么叭～
-    notify: false
-    visitor: false
+    notify: true
+    visitor: true
     pageSize: 10
   # disqus 评论
   # docs: https://disqus.com/
@@ -83,8 +83,8 @@ social_icon:
     ins     :
     zhihu   :
     weibo   : 
-    github  : https://github.com/miiiku/
-    twitter : https://twitter.com/guanquanhong
+    github  : 
+    twitter : 
 
 # 本地搜索
 local_search:
