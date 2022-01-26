@@ -13,9 +13,9 @@ layout: about
 
 <center>已添加解析域名：<a href="http://www.quanshouludoc.cn" target="_blank" class="btn btn-secondary col-lg-4">【quanshouludoc】</center>
 
-<center>永久域名：<a href="https://quanshoulu.vercel.app" target="_blank" class="btn btn-secondary col-lg-4">【基于vercel】</center>
+<center>永久域名1：<a href="https://quanshoulu.vercel.app" target="_blank" class="btn btn-secondary col-lg-4">【基于vercel】</center>
 
-
+<center>永久域名2：<a href="https://gallant-perlman-25aa5f.netlify.app" target="_blank" class="btn btn-secondary col-lg-4">【基于Nwtlify】</center>
 
 
 
