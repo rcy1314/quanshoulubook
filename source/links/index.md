@@ -3,6 +3,7 @@ title: 相关链接
 layout: links
 aplayer: true
 dplayer: true
+comments: true
 ---
 
 <center>这里是与站点相关的友链，申请请私聊管理员</center>
