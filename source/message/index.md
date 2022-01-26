@@ -15,7 +15,7 @@ dplayer: true
 
 <center>感谢每位朋友</center>
 
-<center>管理员站长：<a href="https://p.pstatp.com/origin/pgc-image/3dd407f33019414b9a37bf6f4987ede3" target="_blank" class="btn btn-secondary col-lg-4">NOISE</a></center>
+<center>管理员站长：<a href="http://wpa.qq.com/msgrd?v=3&uin=1129159201&site=qq&menu=yes" class="btn btn-secondary col-lg-4">NOISE</a></center>
 
 {%  dplayer
     url="https://vdse.bdstatic.com//8355cbc6c2fe19c5ad280869218430f5.mp4"
