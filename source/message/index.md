@@ -1,6 +1,7 @@
 ---
 title: 说说
-layout: post
+layout: messages
+comments: true
 dplayer: true
 ---
 
