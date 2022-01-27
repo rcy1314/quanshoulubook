@@ -1,6 +1,6 @@
 ---
 title: 说说
-layout: messages
+layout: post
 dplayer: true
 ---
 
