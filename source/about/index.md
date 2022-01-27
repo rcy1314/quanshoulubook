@@ -8,9 +8,7 @@ layout: about
 
 <center>这里是收录曾总结的旧文档的站点</center>
 
-<center>以此来纪念过去曾付出过和分享过得朋友</center>
-
-<center>愿一切安好</center>
+<center>纪念在社群、论坛、共享文档中活跃和参与过的朋友而做的，如今参与的人越来越少了，有的变忙了，有的已在别的社群网站，有句话叫贵在坚持，这个站点是静态化的，不出意外的话会存在很久很久，如果有天你看到这些文字了，也许我还在等你回来。</center>
 
 <center>已添加解析域名：<a href="http://www.quanshouludoc.cn" target="_blank" class="btn btn-secondary col-lg-4">【quanshouludoc】</center>
 

@@ -1,7 +1,6 @@
 ---
 title: 说说
 layout: messages
-comments: true
 dplayer: true
 ---
 
