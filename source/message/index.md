@@ -5,9 +5,9 @@ comments: true
 dplayer: true
 ---
 
-<center>此文档已公示</center>
+<center>Efficiency book mark</center>
 
-<center>建立这篇博客文档的目的是为了纪念分享的朋友和备份WIKI文档的内容</center>
+<center>建立这篇博客文档的目的是为了纪念分享的朋友</center>
 
 <center>欢迎喜欢分享和乐于助人的朋友前来，不欢迎只会索取的无赖</center>
 

@@ -6,7 +6,7 @@ layout: about
 
 ---
 
-<center>这里是收录曾总结的旧文档的站点</center>
+<center>Efficiency book mark</center>
 
 <center>这个站点是静态化的，不出意外的话会存在很久很久，如果有天你看到,请善待它</center>
 
