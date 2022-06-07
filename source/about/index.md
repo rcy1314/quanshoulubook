@@ -14,7 +14,8 @@ layout: about
 
 
 
-<center>已添加解析域名：【到期后可能不会续费，请访问导航站或使用下方域名】<a href="http://www.quanshouludoc.cn" target="_blank" class="btn btn-secondary col-lg-4">【quanshouludoc】</center>
+<center>已添加解析域名：【到期后可能不会续费，请访问导航站或使用下方域名】
+   <center> <a href="http://www.quanshouludoc.cn" target="_blank" class="btn btn-secondary col-lg-4">【待更换域名】</center>
 
 
 
