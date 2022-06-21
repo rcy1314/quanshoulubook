@@ -8,9 +8,9 @@ layout: about
 
 <center>Efficiency book mark</center>
 
+<center>主站：www.noisedh.cn</center>
+
 <center>这个站点是静态化的，是导航站的另一个版本</center>
-
-
 
 
 
