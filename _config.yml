@@ -84,7 +84,7 @@ theme: flexblock
 deploy:
 - type: git
   repo:
-    gitHub: https://rcy1314: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@github.com/rcy1314/quanshoulubook.git
+    gitHub: https://rcy1314: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@github.com/rcy1314/quanshoulubook.git[,branch]
   # [,branch]为可选项，表示部署的分支
   #2020年10月后github新建仓库默认分支改为main
 
