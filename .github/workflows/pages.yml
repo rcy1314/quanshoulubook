@@ -1,32 +1,57 @@
-name: Pages
+# 当有改动推送到master分支时，启动Action
+name: 自动部署
 
 on:
   push:
     branches:
-      - main  # default branch
+      - main #2020年10月后github新建仓库默认分支改为main，注意更改
+
+  release:
+    types:
+      - published
 
 jobs:
-  pages:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Use Node.js 16.x
-        uses: actions/setup-node@v2
-        with:
-          node-version: '16'
-      - name: Cache NPM dependencies
-        uses: actions/cache@v2
-        with:
-          path: node_modules
-          key: ${{ runner.OS }}-npm-cache
-          restore-keys: |
-            ${{ runner.OS }}-npm-cache
-      - name: Install Dependencies
-        run: npm install
-      - name: Build
-        run: npm run build
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.PERSONAL_TOKEN }}
-          publish_dir: ./public
+    - name: 检查分支
+      uses: actions/checkout@v2
+      with:
+        ref: main #2020年10月后github新建仓库默认分支改为main，注意更改
+
+    - name: 安装 Node
+      uses: actions/setup-node@v1
+      with:
+        node-version: "12.x"
+
+    - name: 安装 Hexo
+      run: |
+        export TZ='Asia/Shanghai'
+        npm install hexo-cli -g
+
+    - name: 缓存 Hexo
+      uses: actions/cache@v1
+      id: cache
+      with:
+        path: node_modules
+        key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
+
+    - name: 安装依赖
+      if: steps.cache.outputs.cache-hit != 'true'
+      run: |
+        npm install --save
+
+    - name: 生成静态文件
+      run: |
+        hexo clean
+        hexo generate
+
+    - name: 部署
+      run: |
+        git config --global user.name "rcy1314"
+        git config --global user.email "1129159201@qq.com"
+        git clone https://github.com/rcy1314/quanshoulubook.git .deploy_git
+        # 此处务必用HTTPS链接。SSH链接可能有权限报错的隐患
+        # =====注意.deploy_git前面有个空格=====
+        # 这行指令的目的是clone博客静态文件仓库，防止Hexo推送时覆盖整个静态文件仓库，而是只推送有更改的文件
+        hexo deploy
