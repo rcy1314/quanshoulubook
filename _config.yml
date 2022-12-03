@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://quanshoulu.vercel.app/
+url: https://rcy1314.github.io/quanshoulubook
 root: /
 # 可选 permalink: abbrlink 短链接模式
 permalink: :urlname.html #文章的永久链接 或者 permalink: posts/:abbrlink.html 如：http://localhost:4000/post/abaf7e89.html
@@ -84,10 +84,10 @@ theme: flexblock
 deploy:
 - type: git
   repo:
-    gitHub: https://rcy1314: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@github.com/rcy1314/quanshoulubook.git[,branch]
+    gitHub: https://github.com/rcy1314/quanshoulubook.git
   # [,branch]为可选项，表示部署的分支
   #2020年10月后github新建仓库默认分支改为main
-
+     branch: gh-pages                                                                                 
 search:
   path: search.xml
   field: post
