@@ -3995,6 +3995,3190 @@
       </tags>
   </entry>
   <entry>
+    <title>电子书籍搜索站点收录</title>
+    <url>/dbook.html</url>
+    <content><![CDATA[<table>
+<thead>
+<tr>
+<th>站点名称</th>
+<th align="center">链接地址</th>
+<th align="center">备注信息</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>IPFS星际分享社区</td>
+<td align="center"><a href="https://ebook2.lorefree.com/">https://ebook2.lorefree.com/</a></td>
+<td align="center">中国首个应用去中心化技术（IPFS）储存的数字图书共享系统</td>
+</tr>
+<tr>
+<td>静然书屋</td>
+<td align="center"><a href="https://books.andrewjr.workers.dev/0:/">https://books.andrewjr.workers.dev/0:/</a></td>
+<td align="center">点击右上角菜单可以搜索</td>
+</tr>
+<tr>
+<td>书格</td>
+<td align="center"><a href="https://new.shuge.org/">https://new.shuge.org/</a></td>
+<td align="center">书籍库</td>
+</tr>
+<tr>
+<td>影印古籍</td>
+<td align="center"><a href="https://sou-yun.cn/eBookIndex.aspx/">https://sou-yun.cn/eBookIndex.aspx/</a></td>
+<td align="center">古籍资料</td>
+</tr>
+<tr>
+<td>计算机电子书</td>
+<td align="center"><a href="http://www.xz577.com/">http://www.xz577.com/</a></td>
+<td align="center">编程类电子书</td>
+</tr>
+<tr>
+<td>PDF之家</td>
+<td align="center"><a href="http://pdfzj.cn/">http://pdfzj.cn/</a></td>
+<td align="center">PDF下载</td>
+</tr>
+<tr>
+<td>好读</td>
+<td align="center"><a href="http://www.haodoo.net/">http://www.haodoo.net/</a></td>
+<td align="center">电子书下载</td>
+</tr>
+<tr>
+<td>itbook</td>
+<td align="center"><a href="https://itbook.download/">https://itbook.download/</a></td>
+<td align="center">电子书下载</td>
+</tr>
+<tr>
+<td>书问</td>
+<td align="center"><a href="https://www.bookask.com/">https://www.bookask.com/</a></td>
+<td align="center">书籍搜索</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>网站收录</category>
+      </categories>
+      <tags>
+        <tag>电子书籍搜索站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>科学上网</title>
+    <url>/vpn.html</url>
+    <content><![CDATA[<center>有关科学上网</center>
+
+<center>更新及维护请查看维护文档</center>
+
+<center>Clash 客户端 https://github.com/Fndroid/clash_for_windows_pkg/releases</center>
+
+<center>Clash Android 客户端
+https://github.com/Kr328/ClashForAndroid/releases
+</center>
+
+<center>Clash 汉化
+https://github.com/BoyceLig/Clash_Chinese_Patch/releases
+</center>
+
+<center>Qv2ray Windows/MacOS客户端
+https://github.com/Qv2ray/Qv2ray/releases</center>
+
+<center>v2rayN Windows客户端
+https://github.com/2dust/v2rayN/releases
+</center>
+
+<center>V2rayU MacOS 客户端
+https://github.com/yanue/V2rayU/releases
+</center>
+
+<center>V2rayU Android 客户端
+https://github.com/2dust/v2rayNG/releases</center>
+
+<center>ClashDotNetFramework
+https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/v1.0.4</center>
+
+
+
+
+
+<table>
+<thead>
+<tr>
+<th>订阅平台</th>
+<th align="center">地址链接</th>
+<th align="center">备注信息</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>自己搭建</td>
+<td align="center"><a href="https://github.com/zu1k/proxypool">https://github.com/zu1k/proxypool</a></td>
+<td align="center">节点池搭建</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://www.233660.xyz/">https://www.233660.xyz/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://sspool.nl/">https://sspool.nl/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://free.dswang.ga/">https://free.dswang.ga/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://fq.lonxin.net/">https://fq.lonxin.net/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://hm2019721.ml/">https://hm2019721.ml</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://github.com/skywolf627/VmessActions">https://github.com/skywolf627/VmessActions</a></td>
+<td align="center">通过GitHub的actions 自动采集节点 生成订阅信息</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://proxies.bihai.cf/">https://proxies.bihai.cf/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="http://emby.luoml.eu.org/">http://emby.luoml.eu.org/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://etproxypool.ga/">https://etproxypool.ga/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://free.kingfu.cf/">https://free.kingfu.cf/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://free886.herokuapp.com/">https://free886.herokuapp.com/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://fu.stgod.com/">https://fu.stgod.com/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://hello.stgod.com/">https://hello.stgod.com/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://hm2019721.ml/">https://hm2019721.ml/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://outseen.tk/">https://outseen.tk/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://proxy.51798.xyz/">https://proxy.51798.xyz/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://proxypool-guest997.herokuapp.com/">https://proxypool-guest997.herokuapp.com/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://proxypool.fly.dev/">https://proxypool.fly.dev/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://ss.dswang.ga:8443/">https://ss.dswang.ga:8443/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://sspool.herokuapp.com/">https://sspool.herokuapp.com/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://www.linbaoz.com/">https://www.linbaoz.com/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://zz.guicloud.xyz/">https://zz.guicloud.xyz/</a></td>
+<td align="center">节点池</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td align="center"><a href="https://github.com/skywolf627/VmessActions/raw/main/clash.yml">https://github.com/skywolf627/VmessActions/raw/main/clash.yml</a></td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td align="center"><a href="https://subcon.dlj.tf/sub?target=clashr&amp;new_name=true&amp;url=https://raw.fastgit.org/freefq/free/master/v2&amp;insert=false&amp;config=https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini">https://subcon.dlj.tf/sub?target=clashr&amp;new_name=true&amp;url=https%3A%2F%2Fraw.fastgit.org%2Ffreefq%2Ffree%2Fmaster%2Fv2&amp;insert=false&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini</a></td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td align="center"><a href="https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml">https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml</a></td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>ssr</td>
+<td align="center"><a href="https://raw.fastgit.org/freefq/free/master/ssr">https://raw.fastgit.org/freefq/free/master/ssr</a></td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>v2ray</td>
+<td align="center"><a href="https://raw.fastgit.org/freefq/free/master/v2">https://raw.fastgit.org/freefq/free/master/v2</a></td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td align="center"><a href="https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml">https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml</a></td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td align="center"><a href="https://proxypoolv2.tk/clash/config">https://proxypoolv2.tk/clash/config</a></td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td align="center"><a href="https://raw.githubusercontent.com/rcy1314/docsify/master/0507AM.yaml">https://raw.githubusercontent.com/rcy1314/docsify/master/0507AM.yaml</a></td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>免费节点汇总</td>
+<td align="center"><a href="https://zgq-inc.github.io/overthefirewall/">https://zgq-inc.github.io/overthefirewall/</a></td>
+<td align="center">客户端及订阅信息汇总</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td align="center"><a href="https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/free01.yml">https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/free01.yml</a></td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td align="center"><a href="https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/free02.yml">https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/free02.yml</a></td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td align="center"><a href="https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/free03.yml">https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/free03.yml</a></td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td align="center"><a href="https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/free04.yml">https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/free04.yml</a></td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td align="center">[<a href="https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--%20Iran-Direct%202.yml]">https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--%20Iran-Direct%202.yml]</a>(<a href="https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--">https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--</a> Iran-Direct 2.yml)</td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td align="center">[<a href="https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--Iran-Direct%201.yml]">https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--Iran-Direct%201.yml]</a>(<a href="https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--Iran-Direct">https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--Iran-Direct</a> 1.yml)</td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td align="center"><a href="https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml">https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml</a></td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>v2ray</td>
+<td align="center"><a href="https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt">https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt</a></td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td align="center"><a href="https://raw.githubusercontent.com/huaxinCLUB/NodeSpider/master/newYaml/mattkaydiary.yaml">https://raw.githubusercontent.com/huaxinCLUB/NodeSpider/master/newYaml/mattkaydiary.yaml</a></td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td align="center"><a href="https://raw.githubusercontent.com/huaxinCLUB/NodeSpider/master/newYaml/newestWB.yaml">https://raw.githubusercontent.com/huaxinCLUB/NodeSpider/master/newYaml/newestWB.yaml</a></td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td align="center"><a href="https://raw.githubusercontent.com/huaxinCLUB/NodeSpider/master/newYaml/newestYT.yaml">https://raw.githubusercontent.com/huaxinCLUB/NodeSpider/master/newYaml/newestYT.yaml</a></td>
+<td align="center">订阅地址</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td align="center"><a href="https://raw.githubusercontent.com/oosooa/123/main/clash">https://raw.githubusercontent.com/oosooa/123/main/clash</a></td>
+<td align="center">订阅地址</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th align="center">节点订阅转换</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><a href="https://sub.tsutsu.cc/">https://sub.tsutsu.cc/</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://id9.cc/">https://id9.cc</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://sub.tsutsu.cc/">https://sub.tsutsu.cc</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://sub.weleven11.com/">https://sub.weleven11.com</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://www.con8.tk/">https://www.con8.tk/</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://sub.bihai.ml/">https://sub.bihai.ml/</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/clash.yml">如：   https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/clash.yml</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://sub.mcwy.cloud/">https://sub.mcwy.cloud/</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://bianyuan.xyz/">https://bianyuan.xyz/</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://acl4ssr-sub.github.io/">https://acl4ssr-sub.github.io/</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://subcon.dlj.tf/">https://subcon.dlj.tf/</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://subconv.ml/">https://subconv.ml/</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://sub.v1.mk/">https://sub.v1.mk/</a></td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th align="center">付费机场推荐</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">大机场（最便宜，需代理登陆）<a href="https://大机场.com/">https://xn--mesr8b36x.com/</a></td>
+</tr>
+<tr>
+<td align="center">天航（价格适中）<a href="https://大机场.com/">https://xn--mesr8b36x.com/</a></td>
+</tr>
+<tr>
+<td align="center">潜艇（比较便宜）<a href="https://qianting666.com/auth/register?code=S0wn">https://qianting666.com/auth/register?code=S0wn</a></td>
+</tr>
+<tr>
+<td align="center">BITEB：<a href="https://biteb.me/">https://biteb.me</a> 便宜机场，有TG频道</td>
+</tr>
+<tr>
+<td align="center">流媒体（价格适中）https://流媒体.net/#/login</td>
+</tr>
+<tr>
+<td align="center">walless:<a href="https://portal.wallless.xyz/">https://portal.wallless.xyz</a></td>
+</tr>
+<tr>
+<td align="center">羊圈（价格贵但稳）<a href="https://www.mielink.com/index">https://www.mielink.com/index</a></td>
+</tr>
+<tr>
+<td align="center">50G/月：<a href="https://fly.xxl123.fun/#/register?code=oKtFmrcX">https://fly.xxl123.fun/#/register?code=oKtFmrcX</a></td>
+</tr>
+<tr>
+<td align="center">23.33G/233天：<a href="https://v2.bujidao.org/auth/register?code=P5th">https://v2.bujidao.org/auth/register?code=P5th</a></td>
+</tr>
+<tr>
+<td align="center">Element lite:<a href="https://lite.yuansu.app/">https://lite.yuansu.app</a>(30元月付不限流量，30元季付每月200G，88元永久）</td>
+</tr>
+<tr>
+<td align="center">闪电：<a href="https://sdyun.cc/auth/register?code=mK4u">https://sdyun.cc/auth/register?code=mK4u</a>  注册送10G，价格较便宜</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th align="center">节点订阅地址推荐</th>
+<th align="center"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">节点仓库</td>
+<td align="center"><a href="https://github.com/JACKUSR2089/v2ray-subscribed">https://github.com/JACKUSR2089/v2ray-subscribed</a></td>
+</tr>
+<tr>
+<td align="center">节点仓库</td>
+<td align="center"><a href="https://github.com/clashconfig/online">https://github.com/clashconfig/online</a></td>
+</tr>
+<tr>
+<td align="center">节点仓库</td>
+<td align="center"><a href="https://github.com/fly0426/fj">https://github.com/fly0426/fj</a></td>
+</tr>
+<tr>
+<td align="center">节点仓库</td>
+<td align="center"><a href="https://github.com/zyzmzyz/free-nodes">自由之梦</a></td>
+</tr>
+<tr>
+<td align="center">节点仓库</td>
+<td align="center"><a href="https://github.com/colatiger/v2ray-nodes">https://github.com/colatiger/v2ray-nodes</a></td>
+</tr>
+<tr>
+<td align="center">节点仓库</td>
+<td align="center"><a href="https://github.com/adiwzx/freenode">https://github.com/adiwzx/freenode</a></td>
+</tr>
+<tr>
+<td align="center">节点仓库</td>
+<td align="center"><a href="https://github.com/freefq/free">https://github.com/freefq/free</a></td>
+</tr>
+<tr>
+<td align="center">节点仓库</td>
+<td align="center"><a href="https://github.com/skywolf627/VmessActions">https://github.com/skywolf627/VmessActions</a></td>
+</tr>
+<tr>
+<td align="center">节点仓库</td>
+<td align="center"><a href="https://github.com/bujilangren/cangku/">不良人</a></td>
+</tr>
+<tr>
+<td align="center">节点仓库</td>
+<td align="center"><a href="https://github.com/huaxinCLUB/NodeSpider">huaxinCLU/NodeSpider</a></td>
+</tr>
+<tr>
+<td align="center">节点仓库</td>
+<td align="center"><a href="https://github.com/pojiezhiyuanjun/freev2">pojiezhiyuanjun/freev2</a></td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th align="center">订阅平台</th>
+<th align="center">地址链接</th>
+<th align="center">备注信息</th>
+<th align="left"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">V2ray+winXray订阅</td>
+<td align="center"><a href="http://1.15.119.250:8888/down/2PGF5R1oAbpY">http://1.15.119.250:8888/down/2PGF5R1oAbpY</a></td>
+<td align="center"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center">Clash</td>
+<td align="center"><a href="https://suo.yt/54A36Nq">https://suo.yt/54A36Nq</a></td>
+<td align="center"><a href="https://pub-api-1.bianyuan.xyz/sub?target=clash&amp;url=http://1.15.119.250:8888/down/2PGF5R1oAbpY&amp;insert=false">https://pub-api-1.bianyuan.xyz/sub?target=clash&amp;url=http%3A%2F%2F1.15.119.250%3A8888%2Fdown%2F2PGF5R1oAbpY&amp;insert=false</a></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center">Clash</td>
+<td align="center"><a href="https://drive.google.com/uc?export=download&amp;id=1Of4PaIcodbXTd9kEFu-bjPfG0NbcivPC">https://drive.google.com/uc?export=download&amp;id=1Of4PaIcodbXTd9kEFu-bjPfG0NbcivPC</a></td>
+<td align="center"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center">V2ray/Shadowrocket/Quantumult X</td>
+<td align="center"><a href="https://drive.google.com/uc?export=download&amp;id=1LGV3ejuVDOrNcNYX6aJg9EgbnRXkcmTY">https://drive.google.com/uc?export=download&amp;id=1LGV3ejuVDOrNcNYX6aJg9EgbnRXkcmTY</a></td>
+<td align="center"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center">V2ray</td>
+<td align="center"><a href="https://doc-08-54-docs.googleusercontent.com/docs/securesc/es99khpm7t8jmshjme18574s59hmd9b4/sful8v2a1m3uaie3plmffktdl3ft48k8/1627998450000/10188016012886987221/04891143713698803728/1K9dXRYbZgIze69SNxF9XbO80nuVsSgOz?e=download&amp;authuser=0">https://doc-08-54-docs.googleusercontent.com/docs/securesc/es99khpm7t8jmshjme18574s59hmd9b4/sful8v2a1m3uaie3plmffktdl3ft48k8/1627998450000/10188016012886987221/04891143713698803728/1K9dXRYbZgIze69SNxF9XbO80nuVsSgOz?e=download&amp;authuser=0</a></td>
+<td align="center"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center">Clash</td>
+<td align="center"><a href="https://doc-0c-54-docs.googleusercontent.com/docs/securesc/es99khpm7t8jmshjme18574s59hmd9b4/4v3o4nkhsnjnpsnun5jtig7994b23kob/1627998450000/10188016012886987221/04891143713698803728/1DMCWuRUrZWYiUXgf19W_VkzETML-EDyg?e=download&amp;authuser=0">https://doc-0c-54-docs.googleusercontent.com/docs/securesc/es99khpm7t8jmshjme18574s59hmd9b4/4v3o4nkhsnjnpsnun5jtig7994b23kob/1627998450000/10188016012886987221/04891143713698803728/1DMCWuRUrZWYiUXgf19W_VkzETML-EDyg?e=download&amp;authuser=0</a></td>
+<td align="center"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center">Clash</td>
+<td align="center"><a href="https://drive.google.com/uc?export=download&amp;id=1iMqtCNeiTUNDohlab11KuoUaIZbrSLtD">https://drive.google.com/uc?export=download&amp;id=1iMqtCNeiTUNDohlab11KuoUaIZbrSLtD</a></td>
+<td align="center"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center">V2ray</td>
+<td align="center"><a href="https://drive.google.com/uc?export=download&amp;id=1Q3poPrAspYVhrgBxWN-s_W8IPUSzW7_E">https://drive.google.com/uc?export=download&amp;id=1Q3poPrAspYVhrgBxWN-s_W8IPUSzW7_E</a></td>
+<td align="center"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center">V2ray/Shadowrocket/Quantumult X</td>
+<td align="center"><a href="https://drive.google.com/uc?export=download&amp;id=1Wy4HCD4aPH91MR75XwRqDXc9QyUDjGA0">https://drive.google.com/uc?export=download&amp;id=1Wy4HCD4aPH91MR75XwRqDXc9QyUDjGA0</a></td>
+<td align="center"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center">Clash</td>
+<td align="center"><a href="https://drive.google.com/uc?export=download&amp;id=1xOAlRzD9v1FA3cWorsg84wvZQ3Wrtafi">https://drive.google.com/uc?export=download&amp;id=1xOAlRzD9v1FA3cWorsg84wvZQ3Wrtafi</a></td>
+<td align="center"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center">Trojan/VLESS+TCP+XTLS/VMESS+WS+TLS</td>
+<td align="center"><a href="https://panel-transit-azure-f4s-hk.speedtestcustom.tk/">https://panel-transit-azure-f4s-hk.speedtestcustom.tk/</a></td>
+<td align="center"></td>
+<td align="left">公益中转</td>
+</tr>
+<tr>
+<td align="center">博客</td>
+<td align="center"><a href="https://www.mattkaydiary.com/">https://www.mattkaydiary.com/</a></td>
+<td align="center">每天更新免费节点</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center">CLASH</td>
+<td align="center"><a href="https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0824clash.yml">https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0824clash.yml</a></td>
+<td align="center"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center">CLASH</td>
+<td align="center"><a href="https://subcon.dlj.tf/sub?target=clash&amp;new_name=true&amp;url=vmess://eyJhZGQiOiI2Ny4yMS42OS4yMTgiLCJhaWQiOiI2NCIsImhvc3QiOiJ3d3cuMzUyOTUyOTEueHl6IiwiaWQiOiI2NzFmZTU2Zi1jMWUxLTRlM2UtOTFmZi05MWRkNTc2N2ZmMGYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2Zvb3RlcnMiLCJwb3J0Ijo0NDMsInBzIjo0OTQsInRscyI6InRscyIsInR5cGUiOiJkdGxzIiwidiI6IjIifQ==&amp;insert=false&amp;config=https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini">https://subcon.dlj.tf/sub?target=clash&amp;new_name=true&amp;url=vmess%3A%2F%2FeyJhZGQiOiI2Ny4yMS42OS4yMTgiLCJhaWQiOiI2NCIsImhvc3QiOiJ3d3cuMzUyOTUyOTEueHl6IiwiaWQiOiI2NzFmZTU2Zi1jMWUxLTRlM2UtOTFmZi05MWRkNTc2N2ZmMGYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2Zvb3RlcnMiLCJwb3J0Ijo0NDMsInBzIjo0OTQsInRscyI6InRscyIsInR5cGUiOiJkdGxzIiwidiI6IjIifQ%3D%3D&amp;insert=false&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini</a></td>
+<td align="center"></td>
+<td align="left"></td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th align="center">一键脚本系列</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">一键bbr加速脚本</td>
+</tr>
+<tr>
+<td align="center">bash &lt;(curl -s -L <a href="https://git.io/jin-bbr">https://git.io/jin-bbr</a>)</td>
+</tr>
+<tr>
+<td align="center">一键安装ss脚本</td>
+</tr>
+<tr>
+<td align="center">bash &lt;(curl -s -L <a href="https://git.io/jin-ss">https://git.io/jin-ss</a>)</td>
+</tr>
+<tr>
+<td align="center">一键安装ssR脚本</td>
+</tr>
+<tr>
+<td align="center">bash &lt;(curl -s -L <a href="https://git.io/jin-ssR">https://git.io/jin-ssR</a>)</td>
+</tr>
+<tr>
+<td align="center">一键安装brook脚本</td>
+</tr>
+<tr>
+<td align="center">bash &lt;(curl -s -L <a href="https://git.io/jin-brook">https://git.io/jin-brook</a>)</td>
+</tr>
+<tr>
+<td align="center">一键安装v2ray脚本</td>
+</tr>
+<tr>
+<td align="center">bash &lt;(curl -s -L <a href="https://git.io/jin-v2ray">https://git.io/jin-v2ray</a>)</td>
+</tr>
+<tr>
+<td align="center">一键安装wireguard脚本</td>
+</tr>
+<tr>
+<td align="center">bash &lt;(curl -s -L <a href="https://git.io/jin-wireguard">https://git.io/jin-wireguard</a>)</td>
+</tr>
+<tr>
+<td align="center">一键安装wireguard脚本(Ubuntu 16.04)/可视化web</td>
+</tr>
+<tr>
+<td align="center">bash &lt;(curl -s -L <a href="https://git.io/jin-wireguard_web">https://git.io/jin-wireguard_web</a>)</td>
+</tr>
+<tr>
+<td align="center">一键安装v2ray sprov-ui脚本</td>
+</tr>
+<tr>
+<td align="center">bash &lt;(curl -s -L <a href="https://git.io/sprov-ui">https://git.io/sprov-ui</a>)</td>
+</tr>
+<tr>
+<td align="center">一键安装wireguard脚本(Ubuntu 18.04更高)/可视化web</td>
+</tr>
+<tr>
+<td align="center">bash &lt;(curl -s -L <a href="https://raw.githubusercontent.com/Aiyuanjiang/oxmo/jin/subspace_install.sh">https://raw.githubusercontent.com/Aiyuanjiang/oxmo/jin/subspace_install.sh</a>)</td>
+</tr>
+<tr>
+<td align="center">一键安装V2ray+cdn</td>
+</tr>
+<tr>
+<td align="center">wget -N –no-check-certificate -q -O install.sh “<a href="https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh&quot;">https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh&quot;</a> &amp;&amp; chmod +x install.sh &amp;&amp; bash install.sh</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>分享安利</category>
+      </categories>
+      <tags>
+        <tag>科学上网</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>脚本类资源收录</title>
+    <url>/jiaoben.html</url>
+    <content><![CDATA[<center>脚本类资源收录</center>
+
+
+
+<table>
+<thead>
+<tr>
+<th>资源名称</th>
+<th align="left">链接地址</th>
+<th>获取途径</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>蓝墨云班课作业互评自动评满分</td>
+<td align="left"><a href="https://bbs.tampermonkey.net.cn/thread-465-1-1.html">https://bbs.tampermonkey.net.cn/thread-465-1-1.html</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>绕过限制搜索查看百度网盘资源</td>
+<td align="left"><a href="null">https://greasyfork.org/zh-CN/scripts/412173-绕过限制搜索查看百度网盘资源</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>超星学习通网课助手(考试专版)</td>
+<td align="left"><a href="null">https://greasyfork.org/zh-CN/scripts/418354-超星学习通网课助手-考试专版</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>超级视频助手：哔哩哔哩解锁大会员</td>
+<td align="left"><a href="null">https://greasyfork.org/zh-CN/scripts/418804-超级视频助手-哔哩哔哩解锁大会员-b站视频解析下载-a站视频解析下载-爱奇艺-腾讯-优酷-芒果等全网vip视频免费看破解去广告-免跳直接看-youtube-facebook等视频解析下载</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>百度网盘秒传链接</td>
+<td align="left"><a href="null">https://greasyfork.org/zh-CN/scripts/424574-秒传链接提取</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>ZFDev-百度网盘文件树视图</td>
+<td align="left"><a href="null">https://greasyfork.org/zh-CN/scripts/374408-zfdev-百度网盘文件树视图</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>动漫花园下载助手</td>
+<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/383159-dmhy-download-helper">https://greasyfork.org/zh-CN/scripts/383159-dmhy-download-helper</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>Github 增强 - 高速下载</td>
+<td align="left"><a href="null">https://greasyfork.org/zh-CN/scripts/412245-github-增强-高速下载</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>阿里云盘秒传</td>
+<td align="left"><a href="https://bbs.tampermonkey.net.cn/thread-427-1-1.html">https://bbs.tampermonkey.net.cn/thread-427-1-1.html</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>自动填写企业微信的疫情上报脚本</td>
+<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/397342-%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E7%9A%84%E7%96%AB%E6%83%85%E4%B8%8A%E6%8A%A5%E8%84%9A%E6%9C%AC">https://greasyfork.org/zh-CN/scripts/397342-自动填写企业微信的疫情上报脚本</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>hitsz 疫情打卡</td>
+<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/423018-hitsz-%E7%96%AB%E6%83%85%E6%89%93%E5%8D%A1">https://greasyfork.org/zh-CN/scripts/423018-hitsz-疫情打卡</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>突破天翼云下载限制脚本</td>
+<td align="left"><a href="https://github.com/oneNorth7/Cloud189_popper">https://github.com/oneNorth7/Cloud189_popper</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>douyin-autojs</td>
+<td align="left"><a href="https://github.com/unlimitbladeworks/douyin-autojs">https://github.com/unlimitbladeworks/douyin-autojs</a></td>
+<td>autojs</td>
+</tr>
+<tr>
+<td>知乎修改器</td>
+<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/423404-%E7%9F%A5%E4%B9%8E%E6%A0%B7%E5%BC%8F%E4%BF%AE%E6%94%B9%E5%99%A8">https://greasyfork.org/zh-CN/scripts/423404-知乎样式修改器</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>all-search 全搜</td>
+<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/397993-all-search-%E5%85%A8%E6%90%9C-%E4%B8%80%E4%B8%AA%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BF%AB%E6%8D%B7%E8%B7%B3%E8%BD%AC%E8%8F%9C%E5%8D%95-%E6%94%AF%E6%8C%81%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2%E8%87%AA%E5%AE%9A%E4%B9%89">https://greasyfork.org/zh-CN/scripts/397993-all-search-%E5%85%A8%E6%90%9C-%E4%B8%80%E4%B8%AA%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BF%AB%E6%8D%B7%E8%B7%B3%E8%BD%AC%E8%8F%9C%E5%8D%95-%E6%94%AF%E6%8C%81%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2%E8%87%AA%E5%AE%9A%E4%B9%89</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>高校考试网自动答题</td>
+<td align="left"><a href="https://bbs.tampermonkey.net.cn/thread-607-1-1.html">https://bbs.tampermonkey.net.cn/thread-607-1-1.html</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>去除各搜索引擎/常用网站的重定向</td>
+<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/11915-anti-redirect">https://greasyfork.org/zh-CN/scripts/11915-anti-redirect</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>谷粒-Chrome插件英雄榜</td>
+<td align="left"><a href="https://github.com/zhaoolee/ChromeAppHeroes">https://github.com/zhaoolee/ChromeAppHeroes</a></td>
+<td>谷歌插件</td>
+</tr>
+<tr>
+<td>链接助手</td>
+<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/422773-%E9%93%BE%E6%8E%A5%E5%8A%A9%E6%89%8B">https://greasyfork.org/zh-CN/scripts/422773-%E9%93%BE%E6%8E%A5%E5%8A%A9%E6%89%8B</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>Instagram 下载器</td>
+<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/406535-instagram-download-button">https://greasyfork.org/zh-CN/scripts/406535-instagram-download-button</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>豆瓣资源下载大师</td>
+<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/329484-%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD">https://greasyfork.org/zh-CN/scripts/329484-%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>Userscript+ 油猴脚本推荐</td>
+<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs">https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>【电脑 &amp; 手机 】VIP会员视频自动解析</td>
+<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/413063-%E7%94%B5%E8%84%91-%E6%89%8B%E6%9C%BA-%E5%85%A8%E7%BD%91%E5%94%AF%E4%B8%80%E5%85%A8%E8%87%AA%E5%8A%A8%E8%84%9A%E6%9C%AC-vip%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E8%87%AA%E5%8A%A8%E8%A7%A3%E6%9E%90">https://greasyfork.org/zh-CN/scripts/413063-%E7%94%B5%E8%84%91-%E6%89%8B%E6%9C%BA-%E5%85%A8%E7%BD%91%E5%94%AF%E4%B8%80%E5%85%A8%E8%87%AA%E5%8A%A8%E8%84%9A%E6%9C%AC-vip%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E8%87%AA%E5%8A%A8%E8%A7%A3%E6%9E%90</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>百度网盘下载助手</td>
+<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/418182-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%AE%80%E6%98%93%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B-%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%A4%8D%E6%B4%BB%E7%89%88">https://greasyfork.org/zh-CN/scripts/418182-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%AE%80%E6%98%93%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B-%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%A4%8D%E6%B4%BB%E7%89%88</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>bilibili视频下载</td>
+<td align="left"><a href="https://github.com.cnpmjs.org/injahow/bilibili-parse/raw/master/tools/bilibili-parse-download.user.js">https://github.com.cnpmjs.org/injahow/bilibili-parse/raw/master/tools/bilibili-parse-download.user.js</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>115转存优化版</td>
+<td align="left"><a href="https://gist.github.com/Nerver4Ever/953447c9ecd330ffc0861d4cbb839369/raw/5fa16752a370725fc45da182f462e74843875500/115%E8%BD%AC%E5%AD%98%E5%8A%A9%E6%89%8Bui%E4%BC%98%E5%8C%96%E7%89%88.user.js">https://gist.github.com/Nerver4Ever/953447c9ecd330ffc0861d4cbb839369/raw/5fa16752a370725fc45da182f462e74843875500/115%25E8%25BD%25AC%25E5%25AD%2598%25E5%258A%25A9%25E6%2589%258Bui%25E4%25BC%2598%25E5%258C%2596%25E7%2589%2588.user.js</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>ScriptCat脚本猫</td>
+<td align="left"><a href="https://scriptcat.org/">https://scriptcat.org/</a></td>
+<td>脚本大全</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>资源收录</category>
+      </categories>
+      <tags>
+        <tag>脚本类资源</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>自建云盘挂载站精选</title>
+    <url>/yunpanzhan.html</url>
+    <content><![CDATA[<center>自建云盘挂载站精选</center>
+
+<table>
+<thead>
+<tr>
+<th>自建云盘挂载站精选</th>
+<th align="center"></th>
+<th align="center"></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>站点名称</td>
+<td align="center">链接地址</td>
+<td align="center">密码</td>
+<td>备注信息（有无失效）</td>
+</tr>
+<tr>
+<td>4s云盘</td>
+<td align="center"><a href="https://file.ssss.fun/">https://file.ssss.fun/</a></td>
+<td align="center">无</td>
+<td>挂载的微软盘</td>
+</tr>
+<tr>
+<td>从零开始动漫分享站</td>
+<td align="center"><a href="https://m.cloud.189.cn/u/330783715">https://m.cloud.189.cn/u/330783715</a></td>
+<td align="center">无</td>
+<td>需要登录天翼云</td>
+</tr>
+<tr>
+<td>阿虚同学的储物间</td>
+<td align="center"><a href="https://axutongxue.com/">https://axutongxue.com/</a></td>
+<td align="center">无</td>
+<td>使用的为教育网盘，最低100一年</td>
+</tr>
+<tr>
+<td>FXXKMAKEDING</td>
+<td align="center"><a href="https://node4.mkdmirror.workers.dev/0:/">https://node4.mkdmirror.workers.dev/0:/</a></td>
+<td align="center"></td>
+<td>各类软件汇总</td>
+</tr>
+<tr>
+<td>时光新科技</td>
+<td align="center"><a href="https://pan.x-wan.top/">https://pan.x-wan.top/</a></td>
+<td align="center"></td>
+<td>软路由大全</td>
+</tr>
+<tr>
+<td>资源汇社区的资源库</td>
+<td align="center"><a href="http://ziyuanhuishequ.ys168.com/">http://ziyuanhuishequ.ys168.com/</a></td>
+<td align="center">qunyoufuli</td>
+<td>各类教程资源</td>
+</tr>
+<tr>
+<td>姿势网盘</td>
+<td align="center"><a href="https://cloud.zsxwz.com/#/onedrive">https://cloud.zsxwz.com/#/onedrive</a></td>
+<td align="center">无</td>
+<td>挂载的onedrive</td>
+</tr>
+<tr>
+<td>IDM分享吧</td>
+<td align="center"><a href="http://idman.ys168.com/">http://idman.ys168.com/</a></td>
+<td align="center">无</td>
+<td></td>
+</tr>
+<tr>
+<td>电影收集合集</td>
+<td align="center"><a href="https://cloud.189.cn/web/share?code=u6zaIvZRrEB3">https://cloud.189.cn/web/share?code=u6zaIvZRrEB3</a></td>
+<td align="center">无</td>
+<td>天翼云盘</td>
+</tr>
+<tr>
+<td>小7素材</td>
+<td align="center"><a href="http://zymf.ys168.com/">http://zymf.ys168.com/</a></td>
+<td align="center">无</td>
+<td>教育网盘推广公众号</td>
+</tr>
+<tr>
+<td>考公资料｜资料搬运工</td>
+<td align="center"><a href="https://www.kotan.cn/posts/e742576d.html">https://www.kotan.cn/posts/e742576d.html</a></td>
+<td align="center">无</td>
+<td>百度网盘</td>
+</tr>
+<tr>
+<td>Cosersets（coser图集）</td>
+<td align="center"><a href="https://www.cosersets.com/1/main">https://www.cosersets.com/1/main</a></td>
+<td align="center">无</td>
+<td>挂载云盘（可下载图集）</td>
+</tr>
+<tr>
+<td>文武科技柜</td>
+<td align="center"><a href="https://pan.wangdu.site/">https://pan.wangdu.site/</a></td>
+<td align="center">无</td>
+<td>百度网盘</td>
+</tr>
+<tr>
+<td>2022考研资料分享</td>
+<td align="center"><a href="https://www.yuque.com/qjl988/kyzl">https://www.yuque.com/qjl988/kyzl</a></td>
+<td align="center">无</td>
+<td>百度网盘</td>
+</tr>
+<tr>
+<td>Noise资源盘</td>
+<td align="center"><a href="https://noiseyp.top/">https://noiseyp.top</a></td>
+<td align="center">无</td>
+<td>25Tonedrive盘</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th>挂载云盘程序</th>
+<th align="center"></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>名称</td>
+<td align="center">链接</td>
+<td>备注</td>
+</tr>
+<tr>
+<td>ZPAN</td>
+<td align="center"><a href="https://saltbo.cn/zpan/">https://saltbo.cn/zpan/</a></td>
+<td>搭建文档</td>
+</tr>
+<tr>
+<td>zfile</td>
+<td align="center"><a href="http://docs.zhaojun.im/zfile/#/">http://docs.zhaojun.im/zfile/#/</a></td>
+<td>搭建文档</td>
+</tr>
+<tr>
+<td>Justlist</td>
+<td align="center"><a href="https://github.com/txperl/JustList">https://github.com/txperl/JustList</a></td>
+<td>开源地址</td>
+</tr>
+<tr>
+<td>alist</td>
+<td align="center"><a href="https://github.com/Xhofe/alist">https://github.com/Xhofe/alist</a></td>
+<td>开源地址</td>
+</tr>
+<tr>
+<td>Ashare</td>
+<td align="center"><a href="https://github.com/badyun/AShare">https://github.com/badyun/AShare</a></td>
+<td>开源地址</td>
+</tr>
+<tr>
+<td>Panlndex</td>
+<td align="center"><a href="https://github.com/libsgh/PanIndex">https://github.com/libsgh/PanIndex</a></td>
+<td>开源地址</td>
+</tr>
+<tr>
+<td>teambitionshare</td>
+<td align="center"><a href="https://github.com/BlueHtml/TeambitionShare.Net">https://github.com/BlueHtml/TeambitionShare.Net</a></td>
+<td>开源地址</td>
+</tr>
+<tr>
+<td>阿里云盘cli</td>
+<td align="center"><a href="https://github.com/wxy1343/aliyunpan">https://github.com/wxy1343/aliyunpan</a></td>
+<td>开源地址</td>
+</tr>
+<tr>
+<td>MultiDrive</td>
+<td align="center"><a href="https://github.com/aiguoli/MultiDrive">https://github.com/aiguoli/MultiDrive</a></td>
+<td>开源地址</td>
+</tr>
+<tr>
+<td>panlist</td>
+<td align="center"><a href="https://www.sitstars.com/archives/104/">https://www.sitstars.com/archives/104/</a></td>
+<td>搭建文档</td>
+</tr>
+<tr>
+<td>Andex</td>
+<td align="center"><a href="https://github.com/Ericwyn/Andex">https://github.com/Ericwyn/Andex</a></td>
+<td>开源地址</td>
+</tr>
+<tr>
+<td>JmalCloud</td>
+<td align="center"><a href="https://github.com/jamebal/jmal-cloud-view">https://github.com/jamebal/jmal-cloud-view</a></td>
+<td>开源地址</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>网站收录</category>
+      </categories>
+      <tags>
+        <tag>云盘挂载站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>源码类资源收录</title>
+    <url>/yuanma.html</url>
+    <content><![CDATA[<center>源码类资源收录</center>
+
+
+
+<table>
+<thead>
+<tr>
+<th>资源名称</th>
+<th align="center">链接地址</th>
+<th align="center">提取码</th>
+<th align="center">备注信息</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>恶搞小程序4合1</td>
+<td align="center"><a href="https://pan.baidu.com/s/1wHUkOD8bI7OWyH8VGq-b9A#0b31">https://pan.baidu.com/s/1wHUkOD8bI7OWyH8VGq-b9A#0b31</a></td>
+<td align="center">0b31</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>便携小空调源码</td>
+<td align="center"><a href="https://wwa.lanzoui.com/iE8ACp4malc">https://wwa.lanzoui.com/iE8ACp4malc</a></td>
+<td align="center">无</td>
+<td align="center">演示站<a href="http://kongtiao.qwqxk.cn/">http://kongtiao.qwqxk.cn</a></td>
+</tr>
+<tr>
+<td>表情包小程序完整版源码 后台API+前端</td>
+<td align="center"><a href="https://xiaogao.lanzoux.com/iMBo7oxn6of">https://xiaogao.lanzoux.com/iMBo7oxn6of</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>苏云技术导航源码附加后台</td>
+<td align="center"><a href="https://pan.baidu.com/s/1ESqCw7h2jrGDXx76SmuWjQ">https://pan.baidu.com/s/1ESqCw7h2jrGDXx76SmuWjQ</a></td>
+<td align="center">f8t3</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>狗屁不通文章生成器PHP版.</td>
+<td align="center"><a href="https://github.com/wqsacy/bullshit">https://github.com/wqsacy/bullshit</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>小霸王游戏机源码</td>
+<td align="center"><a href="https://kang.lanzoui.com/ixpUwpdeiid">https://kang.lanzoui.com/ixpUwpdeiid</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>91酷站PHP在线文字转语音合成源码</td>
+<td align="center"><a href="https://wwa.lanzoux.com/iewxdm0j8kj">https://wwa.lanzoux.com/iewxdm0j8kj</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>抖音互关源码 E4A源码含数据库</td>
+<td align="center"><a href="https://wwa.lanzoui.com/iacm0pe5r6h">https://wwa.lanzoui.com/iacm0pe5r6h</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>工商注册资质代办类网站源码</td>
+<td align="center"><a href="https://dpzyw.lanzoui.com/iNAAWp8no0f">https://dpzyw.lanzoui.com/iNAAWp8no0f</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>2021最新发卡网源码</td>
+<td align="center"><a href="https://dpzyw.lanzoui.com/iRbW3p9i7xc">https://dpzyw.lanzoui.com/iRbW3p9i7xc</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>asp.net快速开发框架(eFrameWork) v4.0.5</td>
+<td align="center"><a href="https://dpzyw.lanzoui.com/iVHo5p9v02h">https://dpzyw.lanzoui.com/iVHo5p9v02h</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>疫情防控-人员健康管理平台</td>
+<td align="center"><a href="https://github.com/2020NCOV/ncov-report">https://github.com/2020NCOV/ncov-report</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>疫情防控每日上报-小程序版本</td>
+<td align="center"><a href="https://github.com/2020NCOV/ncov-report-mini-program">https://github.com/2020NCOV/ncov-report-mini-program</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>营销号生成源码</td>
+<td align="center"><a href="https://www.lanzoui.com/iAEEfgmqc9a">https://www.lanzoui.com/iAEEfgmqc9a</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>摇杆红白机网页源码</td>
+<td align="center"><a href="https://07x.lanzoui.com/iIGgNphwjzi">https://07x.lanzoui.com/iIGgNphwjzi</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>网易云歌单下载源码</td>
+<td align="center"><a href="https://www.lanzoui.com/i8wbdze">https://www.lanzoui.com/i8wbdze</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>seo自动工具</td>
+<td align="center"><a href="https://tool.8kmm.com/tools/seoauto/">https://tool.8kmm.com/tools/seoauto/</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>王中王掌上游戏机网页源码</td>
+<td align="center"><a href="https://xiaogao.lanzoui.com/iKyzfptp68d">https://xiaogao.lanzoui.com/iKyzfptp68d</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>8090经典怀旧FC小霸王网页游戏机源码增强版</td>
+<td align="center"><a href="https://xiaogao.lanzoui.com/i6SSDpj1e8h">https://xiaogao.lanzoui.com/i6SSDpj1e8h</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td><a href="https://www.dnlt.cc/thread-19499-1-1.html">PHP短网址生成源码</a></td>
+<td align="center"><a href="https://www.lanzoux.com/i80lvhc">https://www.lanzoux.com/i80lvhc</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>新型冠状病毒肺炎疫情实时图PHP源码</td>
+<td align="center"><a href="https://pan.baidu.com/s/1VHV785cqOtRzeWfN_DE2pQ">https://pan.baidu.com/s/1VHV785cqOtRzeWfN_DE2pQ</a></td>
+<td align="center">f5f6</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>开源php短网址生成</td>
+<td align="center"><a href="https://github.com/xuhuai66/pt-dwz">https://github.com/xuhuai66/pt-dwz</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>copytranslator翻译器</td>
+<td align="center"><a href="https://github.com/CopyTranslator/CopyTranslator">https://github.com/CopyTranslator/CopyTranslator</a></td>
+<td align="center">无</td>
+<td align="center">主页<a href="https://copytranslator.gitee.io/">https://copytranslator.gitee.io/</a></td>
+</tr>
+<tr>
+<td>哔哩哔哩鬼畜好声音离线+弹幕</td>
+<td align="center"><a href="https://github.com/ldqk/kichiku.icu">https://github.com/ldqk/kichiku.icu</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>Windows 11 安装序列号 / 激活码</td>
+<td align="center">Windows 11 专业版序列号 / 密钥：VK7JG-NPHTM-C97JM-9MPGT-3V66T</td>
+<td align="center">Windows 11 家庭版序列号/ 密钥：YTMG3-N6DKC-DKB77-7M9GH-8HVX7</td>
+<td align="center">只可用于安装以及选择版本，并不能实现联网在线激活</td>
+</tr>
+<tr>
+<td>百度网盘在线解析</td>
+<td align="center"><a href="https://down.zerun.asia/">https://down.zerun.asia/</a></td>
+<td align="center">无</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>电商类采集系统</td>
+<td align="center"><a href="https://github.com/qwqcode/Nacollector">https://github.com/qwqcode/Nacollector</a></td>
+<td align="center">无</td>
+<td align="center">淘宝、天猫、苏宁、国美 等电商平台数据采集… 一键邀请 一键打包 账号登录获取Cookie 任务多线程</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>资源收录</category>
+      </categories>
+      <tags>
+        <tag>源码类资源</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>视频下载站收录</title>
+    <url>/videodown.html</url>
+    <content><![CDATA[<table>
+<thead>
+<tr>
+<th align="center">视频在线下载类目站推荐表</th>
+<th align="center"></th>
+<th align="center"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">站点名称</td>
+<td align="center">链接地址</td>
+<td align="center">备注信息</td>
+</tr>
+<tr>
+<td align="center">人人电影网</td>
+<td align="center"><a href="https://www.rrdyw.cc/">https://www.rrdyw.cc</a></td>
+<td align="center">提供百度盘、UC等途径下载</td>
+</tr>
+<tr>
+<td align="center">simplecd百度网盘搜索</td>
+<td align="center"><a href="http://www.simplecd.cc/">http://www.simplecd.cc/</a></td>
+<td align="center">BT下载站，可复制豆瓣ID IMDB等方式搜索下载</td>
+</tr>
+<tr>
+<td align="center">66网盘电影</td>
+<td align="center"><a href="https://www.6a6z.com/">https://www.6a6z.com/</a></td>
+<td align="center">提供百度云盘影视下载</td>
+</tr>
+<tr>
+<td align="center">变TUBE</td>
+<td align="center"><a href="https://www.biantube.com/">https://www.biantube.com/</a></td>
+<td align="center">自带youtube视频解析，把视频链接里的youtube改成biantube可免翻墙观看Youtube</td>
+</tr>
+<tr>
+<td align="center">youtube下载器</td>
+<td align="center"><a href="https://yt1s.com/zh-cn12">https://yt1s.com/zh-cn12</a></td>
+<td align="center">在线youtube解析下载</td>
+</tr>
+<tr>
+<td align="center">Yout</td>
+<td align="center"><a href="https://yout.com/">https://yout.com/</a></td>
+<td align="center">在线youtube解析下载</td>
+</tr>
+<tr>
+<td align="center">seedhub</td>
+<td align="center"><a href="http://seedhub.info/">http://seedhub.info</a></td>
+<td align="center">动漫影视种子下载站，支持4K种子</td>
+</tr>
+<tr>
+<td align="center">Savied</td>
+<td align="center"><a href="https://savieo.com/zh/">https://savieo.com/zh/</a></td>
+<td align="center">国外视频解析，在线youtube解析下载</td>
+</tr>
+<tr>
+<td align="center">唧唧</td>
+<td align="center"><a href="https://www.jijidown.com/">https://www.jijidown.com/</a></td>
+<td align="center">B站视频解析下载，可在线可软件</td>
+</tr>
+<tr>
+<td align="center">视频下载微博党</td>
+<td align="center"><a href="http://weibodang.cn/">http://weibodang.cn/</a></td>
+<td align="center">视频解析，在线视频解析下载</td>
+</tr>
+<tr>
+<td align="center">superparse</td>
+<td align="center"><a href="https://superparse.com/">https://superparse.com/</a></td>
+<td align="center">国外视频解析，在线youtube解析下载</td>
+</tr>
+<tr>
+<td align="center">savefrome</td>
+<td align="center"><a href="https://en.savefrom.net/25/">https://en.savefrom.net/25/</a></td>
+<td align="center">国外视频解析，在线youtube解析下载</td>
+</tr>
+<tr>
+<td align="center">工具箱</td>
+<td align="center"><a href="http://www.toolnb.com/tools/ins.html?no_https">http://www.toolnb.com/tools/ins.html?no_https</a></td>
+<td align="center">ins解析下载</td>
+</tr>
+<tr>
+<td align="center">reddit</td>
+<td align="center"><a href="https://www.reddit.tube/">https://www.reddit.tube/</a></td>
+<td align="center">国外视频解析</td>
+</tr>
+<tr>
+<td align="center">ouo工具</td>
+<td align="center"><a href="https://ouotool.com/dy">https://ouotool.com/dy</a></td>
+<td align="center">抖音在线去水印下载</td>
+</tr>
+<tr>
+<td align="center">fdown</td>
+<td align="center"><a href="https://www.fdown.net/index.php">https://www.fdown.net/index.php</a></td>
+<td align="center">国外视频解析,facebook下载</td>
+</tr>
+<tr>
+<td align="center">贝贝解析</td>
+<td align="center"><a href="https://xbeibeix.com/api/bilibili/">https://xbeibeix.com/api/bilibili/</a></td>
+<td align="center">B站视频解析下载，可在线可软件</td>
+</tr>
+<tr>
+<td align="center">小蜜蜂工具人</td>
+<td align="center"><a href="https://www.guoxingjun.com/">https://www.guoxingjun.com/</a></td>
+<td align="center">各类视频解析下载工具网页版</td>
+</tr>
+<tr>
+<td align="center">9itube</td>
+<td align="center"><a href="https://www.9itube.com/">https://www.9itube.com/</a></td>
+<td align="center">国外视频解析，在线youtube解析下载</td>
+</tr>
+<tr>
+<td align="center">DHTclub</td>
+<td align="center"><a href="https://www.dhtclub.com/">https://www.dhtclub.com/</a></td>
+<td align="center">完全免费的BT影视下载站</td>
+</tr>
+<tr>
+<td align="center">9xbuddy</td>
+<td align="center"><a href="https://9xbuddy.in/zh">https://9xbuddy.in/zh</a></td>
+<td align="center">限制级下载</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>网站收录</category>
+      </categories>
+      <tags>
+        <tag>视频下载</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>蓝奏云盘、软件站点汇总</title>
+    <url>/lanzou.html</url>
+    <content><![CDATA[<table>
+<thead>
+<tr>
+<th>云盘、软件汇总站点</th>
+<th align="center"></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>站点名称</td>
+<td align="center">链接地址</td>
+<td>密码</td>
+<td>备注信息（有无失效）</td>
+</tr>
+<tr>
+<td>黑客学习资料</td>
+<td align="center"><a href="https://www.lanzoui.com/b0ce8pmpc">https://www.lanzoui.com/b0ce8pmpc</a></td>
+<td>无</td>
+<td>PDF文件</td>
+</tr>
+<tr>
+<td>SOSO工具箱</td>
+<td align="center"><a href="https://sosotools.lanzoui.com/b015bjrji">https://sosotools.lanzoui.com/b015bjrji</a></td>
+<td>C90W</td>
+<td>办公表格工具</td>
+</tr>
+<tr>
+<td>北巷软件库</td>
+<td align="center"><a href="https://www.lanzoui.com/b325470">https://www.lanzoui.com/b325470</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>人工精选软件推荐</td>
+<td align="center"><a href="https://lanzoui.com/b756387">https://lanzoui.com/b756387</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>电脑软件</td>
+<td align="center"><a href="https://app.lanzoui.com/s/wp">https://app.lanzoui.com/s/wp</a></td>
+<td>无</td>
+<td>压缩文件</td>
+</tr>
+<tr>
+<td>果心豆腐酱</td>
+<td align="center"><a href="https://police.lanzoui.com/b015kfsoj">https://police.lanzoui.com/b015kfsoj</a></td>
+<td>无</td>
+<td>电脑软件抖音解析</td>
+</tr>
+<tr>
+<td>合集区</td>
+<td align="center"><a href="https://lanzoui.com/b908456">https://lanzoui.com/b908456</a></td>
+<td>无</td>
+<td>手机电脑软件汇总</td>
+</tr>
+<tr>
+<td>yoyodadada</td>
+<td align="center"><a href="https://yoyodadada.lanzoui.com/u/yoyodadada#6h71">https://yoyodadada.lanzoui.com/u/yoyodadada#6h71</a></td>
+<td>无</td>
+<td>手机电脑软件汇总</td>
+</tr>
+<tr>
+<td>B站多视频解析器</td>
+<td align="center"><a href="https://sqtb.lanzoui.com/b015c0ksh">https://sqtb.lanzoui.com/b015c0ksh</a></td>
+<td>无</td>
+<td>就一个软件，官方更新同步站</td>
+</tr>
+<tr>
+<td>无作为分享</td>
+<td align="center"><a href="https://lanzoui.com/u/wuzuowei">https://lanzoui.com/u/wuzuowei</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>精品资料电子书行业报告</td>
+<td align="center"><a href="https://wwx.lanzoux.com/b0cdvkdfa">https://wwx.lanzoux.com/b0cdvkdfa</a></td>
+<td>无</td>
+<td>一些资料</td>
+</tr>
+<tr>
+<td>公众号：黑科技玩机（实时更新）</td>
+<td align="center"><a href="https://www.lanzoui.com/b281858">https://www.lanzoui.com/b281858</a></td>
+<td>无</td>
+<td>手机电脑软件汇总</td>
+</tr>
+<tr>
+<td>比特工具</td>
+<td align="center"><a href="https://bitdock.lanzoui.com/b01592vva">https://bitdock.lanzoui.com/b01592vva</a></td>
+<td>无</td>
+<td>就一个软件，官方更新同步站</td>
+</tr>
+<tr>
+<td>建站源码</td>
+<td align="center"><a href="https://www.lanzoui.com/s/jz666">https://www.lanzoui.com/s/jz666</a></td>
+<td>无</td>
+<td>建站源码</td>
+</tr>
+<tr>
+<td>KinhDownUpdateData</td>
+<td align="center"><a href="https://lanzoui.com/s/KinhDown">https://lanzoui.com/s/KinhDown</a></td>
+<td>无</td>
+<td>KinhDown</td>
+</tr>
+<tr>
+<td>小白种草</td>
+<td align="center"><a href="https://lanzoui.com/b587435">https://lanzoui.com/b587435</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>Typecho插件</td>
+<td align="center"><a href="https://lanzoui.com/b967760">https://lanzoui.com/b967760</a></td>
+<td>无</td>
+<td>Typecho插件</td>
+</tr>
+<tr>
+<td>软件库软件游戏合集</td>
+<td align="center"><a href="https://lanzoui.com/u/rjk">https://lanzoui.com/u/rjk</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>软件合集</td>
+<td align="center"><a href="https://www.lanzoui.com/b098unlvi">https://www.lanzoui.com/b098unlvi</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>嗨分享软件合集</td>
+<td align="center"><a href="https://www.lanzoui.com/u/%E6%8B%BD%E6%8B%BD">https://www.lanzoui.com/u/%E6%8B%BD%E6%8B%BD</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>小轩VIP软件合集</td>
+<td align="center"><a href="https://www.lanzoui.com/b76826">https://www.lanzoui.com/b76826</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>软件合集</td>
+<td align="center"><a href="https://www.lanzoui.com/b098unlvi">https://www.lanzoui.com/b098unlvi</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>晓张软件大全破解合集</td>
+<td align="center"><a href="https://www.lanzoui.com/b368370">https://www.lanzoui.com/b368370</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>『BhVip』软件更新合集</td>
+<td align="center"><a href="https://www.lanzoui.com/u/%E5%BD%AA%E7%85%8CQQ1846055318">https://www.lanzoui.com/u/%E5%BD%AA%E7%85%8CQQ1846055318</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>搜题学习健身类软件合集</td>
+<td align="center"><a href="https://www.lanzoui.com/b0ejszlmf">https://www.lanzoui.com/b0ejszlmf</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>合集区</td>
+<td align="center"><a href="https://www.lanzoui.com/b908456">https://www.lanzoui.com/b908456</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>牛牛软件合集</td>
+<td align="center"><a href="https://www.lanzoui.com/u/36277009">https://www.lanzoui.com/u/36277009</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>小鹏软件合集</td>
+<td align="center"><a href="https://www.lanzoui.com/u/xiaopengi">https://www.lanzoui.com/u/xiaopengi</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>A分享-全网软件合集</td>
+<td align="center"><a href="https://www.lanzoui.com/b205552">https://www.lanzoui.com/b205552</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>软件分享合集</td>
+<td align="center"><a href="https://www.lanzoui.com/b00z6rhzg?t=0802">https://www.lanzoui.com/b00z6rhzg?t=0802</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>线报坊软件合集</td>
+<td align="center"><a href="https://www.lanzoui.com/b60364#987456">https://www.lanzoui.com/b60364#987456</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>破解游戏集合</td>
+<td align="center"><a href="https://www.lanzoui.com/b897234">https://www.lanzoui.com/b897234</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>精品软件</td>
+<td align="center"><a href="https://www.lanzoui.com/b069snbxg">https://www.lanzoui.com/b069snbxg</a></td>
+<td>无</td>
+<td>手机电脑软件汇总</td>
+</tr>
+<tr>
+<td>软件库直播软件大全</td>
+<td align="center"><a href="https://www.lanzoui.com/b05f641g#">https://www.lanzoui.com/b05f641g#</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>秋颜软件库</td>
+<td align="center"><a href="https://www.lanzoui.com/b341705">https://www.lanzoui.com/b341705</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>新世界软件合集</td>
+<td align="center"><a href="https://www.lanzoui.com/u/adminqizhu">https://www.lanzoui.com/u/adminqizhu</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>兜兜线报软件阁</td>
+<td align="center"><a href="https://www.lanzoui.com/b133841">https://www.lanzoui.com/b133841</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>牛牛软件合集</td>
+<td align="center"><a href="https://www.lanzoui.com/u/36277009">https://www.lanzoui.com/u/36277009</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>软件园旗下软件共享</td>
+<td align="center"><a href="https://www.lanzoui.com/u/anxin666">https://www.lanzoui.com/u/anxin666</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>霖淘购软件共享</td>
+<td align="center"><a href="https://www.lanzoui.com/b252370">https://www.lanzoui.com/b252370</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>小说漫画</td>
+<td align="center"><a href="https://www.lanzoui.com/b00taevfa">https://www.lanzoui.com/b00taevfa</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>破解版软件合集</td>
+<td align="center"><a href="https://lanzoui.com/b00f5v42d">https://lanzoui.com/b00f5v42d</a></td>
+<td>无</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>破解软件合集</td>
+<td align="center"><a href="https://zdjb.lanzoui.com/b010hxrdc">https://zdjb.lanzoui.com/b010hxrdc</a></td>
+<td>4pjc</td>
+<td>APK</td>
+</tr>
+<tr>
+<td>手机电脑破解软件</td>
+<td align="center"><a href="https://dazhong.lanzoui.com/b0ee9ctaj">https://dazhong.lanzoui.com/b0ee9ctaj</a></td>
+<td>无</td>
+<td>安卓手机 电脑软件</td>
+</tr>
+<tr>
+<td>安卓和少量电脑软件</td>
+<td align="center"><a href="https://zdjb.lanzoui.com/b00zmt4ne">https://zdjb.lanzoui.com/b00zmt4ne</a></td>
+<td>无</td>
+<td>APK 少量exe</td>
+</tr>
+<tr>
+<td>go破解全站app大全</td>
+<td align="center"><a href="https://gopojie.lanzoui.com/b00z78rib">https://gopojie.lanzoui.com/b00z78rib </a></td>
+<td>apaf</td>
+<td>go破解全站app大全</td>
+</tr>
+<tr>
+<td>公众号：BIM补给站</td>
+<td align="center"><a href="https://bimbjz.lanzoux.com/s/BJZ">https://bimbjz.lanzoux.com/s/BJZ</a></td>
+<td>无</td>
+<td>各类软件，win，苹果，安卓</td>
+</tr>
+<tr>
+<td>youtube 博主的</td>
+<td align="center"><a href="https://wny.lanzoui.com/b016pdopa">https://wny.lanzoui.com/b016pdopa</a></td>
+<td>4rxw</td>
+<td>手机电脑软件汇总</td>
+</tr>
+<tr>
+<td>百度/阿里/115 网盘秒传链接生成工具</td>
+<td align="center"><a href="https://asdqp.lanzoui.com/b08slkeli#h5wv">https://asdqp.lanzoui.com/b08slkeli#h5wv</a></td>
+<td>h5wv</td>
+<td></td>
+</tr>
+<tr>
+<td>安卓破解修改包整合</td>
+<td align="center"><a href="https://noise.lanzoui.com/b00ow5xpa">https://noise.lanzoui.com/b00ow5xpa</a></td>
+<td>密码:35go</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>网站收录</category>
+      </categories>
+      <tags>
+        <tag>蓝奏云盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>设计新媒体类网站指南</title>
+    <url>/shejidaohang.html</url>
+    <content><![CDATA[<table>
+<thead>
+<tr>
+<th align="center">设计、媒体制作类网站（无顺序排名）</th>
+<th align="center"></th>
+<th align="center"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">站点名称</td>
+<td align="center">链接地址</td>
+<td align="center">备注信息</td>
+</tr>
+<tr>
+<td align="center">零扣分C4D</td>
+<td align="center"><a href="http://www.kf00.com/">http://www.kf00.com/</a></td>
+<td align="center">C4D素材资源站</td>
+</tr>
+<tr>
+<td align="center">PS自学网</td>
+<td align="center"><a href="https://www.16xx8.com/">https://www.16xx8.com/</a></td>
+<td align="center">PS素材资源</td>
+</tr>
+<tr>
+<td align="center">CG爱好者</td>
+<td align="center"><a href="http://www.cgahz.com/">http://www.cgahz.com/</a></td>
+<td align="center">模版视频素材</td>
+</tr>
+<tr>
+<td align="center">韬客AE</td>
+<td align="center"><a href="https://www.talkae.com/">https://www.talkae.com/</a></td>
+<td align="center">AE模版、插件</td>
+</tr>
+<tr>
+<td align="center">TVtalk</td>
+<td align="center"><a href="https://www.tvtalk.cn/">https://www.tvtalk.cn/</a></td>
+<td align="center">影视制作行业交流</td>
+</tr>
+<tr>
+<td align="center">doyoudo</td>
+<td align="center"><a href="http://www.doyoudo.com/">http://www.doyoudo.com/</a></td>
+<td align="center">快速学习课程大全</td>
+</tr>
+<tr>
+<td align="center">汇同CG</td>
+<td align="center"><a href="https://www.htzyw.com/">https://www.htzyw.com/</a></td>
+<td align="center">CG类资源平台（AE模版等）</td>
+</tr>
+<tr>
+<td align="center">CAD吧</td>
+<td align="center"><a href="https://www.c4dba.com/">https://www.c4dba.com/</a></td>
+<td align="center">专业学习C4D平台</td>
+</tr>
+<tr>
+<td align="center">书生CG资源站</td>
+<td align="center"><a href="https://c4dsky.com/">https://c4dsky.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">CG资源网</td>
+<td align="center"><a href="https://www.cgzyw.com/">https://www.cgzyw.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">追影吧</td>
+<td align="center"><a href="https://www.aepr8.com/">https://www.aepr8.com/</a></td>
+<td align="center">AE模版、PR插件</td>
+</tr>
+<tr>
+<td align="center">后期资源网</td>
+<td align="center"><a href="https://www.vfx123.com/">https://www.vfx123.com/</a></td>
+<td align="center">FCPX资源站</td>
+</tr>
+<tr>
+<td align="center">明小子资源网</td>
+<td align="center"><a href="https://www.mingxiaozi.com/">https://www.mingxiaozi.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">PR模版网</td>
+<td align="center"><a href="https://prmuban.com/">https://prmuban.com/</a></td>
+<td align="center">PR插件、预设</td>
+</tr>
+<tr>
+<td align="center">CG自学网</td>
+<td align="center"><a href="https://www.cgzixue.cn/">https://www.cgzixue.cn/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">videoocoplilot中文站</td>
+<td align="center"><a href="https://videocopilot.net.cn/">https://videocopilot.net.cn/</a></td>
+<td align="center">AE模版、PR插件</td>
+</tr>
+<tr>
+<td align="center">菜鸟C4D</td>
+<td align="center"><a href="https://www.c4dcn.com/">https://www.c4dcn.com/</a></td>
+<td align="center">专业学习C4D平台</td>
+</tr>
+<tr>
+<td align="center">Lookae大众脸</td>
+<td align="center"><a href="https://www.lookae.com/">https://www.lookae.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">灵动网</td>
+<td align="center"><a href="https://www.ldvfx.com/">https://www.ldvfx.com/</a></td>
+<td align="center">影视后期加油站</td>
+</tr>
+<tr>
+<td align="center">shareae</td>
+<td align="center"><a href="http://www.shareae.cn/">http://www.shareae.cn/</a></td>
+<td align="center">AE模版、插件</td>
+</tr>
+<tr>
+<td align="center">西橘</td>
+<td align="center"><a href="http://www.cgdown.com/">http://www.cgdown.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">动态设计C4D</td>
+<td align="center"><a href="http://www.momentor.tv/">http://www.momentor.tv/</a></td>
+<td align="center">专业学习C4D平台</td>
+</tr>
+<tr>
+<td align="center">剪辑库</td>
+<td align="center"><a href="https://www.editku.com/">https://www.editku.com/</a></td>
+<td align="center">模版视频素材</td>
+</tr>
+<tr>
+<td align="center">CGUFO</td>
+<td align="center"><a href="https://www.cgufo.com/">https://www.cgufo.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">牛片网</td>
+<td align="center"><a href="https://www.6pian.cn/">https://www.6pian.cn/</a></td>
+<td align="center">视频制作项目交易</td>
+</tr>
+<tr>
+<td align="center">素材鱼</td>
+<td align="center"><a href="http://www.scyu.com/">http://www.scyu.com/</a></td>
+<td align="center">付费类模版素材网</td>
+</tr>
+<tr>
+<td align="center">包图网</td>
+<td align="center"><a href="https://ibaotu.com/">https://ibaotu.com/</a></td>
+<td align="center">付费类模版素材网</td>
+</tr>
+<tr>
+<td align="center">五分钱特效</td>
+<td align="center"><a href="https://www.vfxcool.com/">https://www.vfxcool.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">93CG网</td>
+<td align="center"><a href="https://www.93cg.com/">https://www.93cg.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">AE模版站</td>
+<td align="center"><a href="https://www.adobeae.com/">https://www.adobeae.com/</a></td>
+<td align="center">AE模版、插件</td>
+</tr>
+<tr>
+<td align="center">R站</td>
+<td align="center"><a href="https://www.btbat.com/">https://www.btbat.com/</a></td>
+<td align="center">三维类学习资源素材站</td>
+</tr>
+<tr>
+<td align="center">逍遥影视</td>
+<td align="center"><a href="https://www.vfxreel.net/">https://www.vfxreel.net/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">分享短视频</td>
+<td align="center"><a href="http://www.sharenice.net/">http://www.sharenice.net/</a></td>
+<td align="center">短视频搬运素材</td>
+</tr>
+<tr>
+<td align="center">影库创作</td>
+<td align="center"><a href="https://www.moviercool.com/">https://www.moviercool.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">绿幕素材</td>
+<td align="center"><a href="http://shijueju.com/">http://shijueju.com/</a></td>
+<td align="center">绿幕素材</td>
+</tr>
+<tr>
+<td align="center">点亮吧</td>
+<td align="center"><a href="http://www.dianliang8.com/">http://www.dianliang8.com</a></td>
+<td align="center">混剪视频素材站</td>
+</tr>
+<tr>
+<td align="center">动视素材</td>
+<td align="center"><a href="http://www.dongmv.com/">http://www.dongmv.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">CG资源站</td>
+<td align="center"><a href="https://www.cger.com/">https://www.cger.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">MACW</td>
+<td align="center"><a href="https://v.macw.com/">https://v.macw.com/</a></td>
+<td align="center">AE模版、MAC资源</td>
+</tr>
+<tr>
+<td align="center">橙创意后期</td>
+<td align="center"><a href="https://ccy-hq.com/">https://ccy-hq.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">视频制作资源库</td>
+<td align="center"><a href="http://przhuanchang.com/">http://przhuanchang.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">夏天CG资源站</td>
+<td align="center"><a href="https://videosummer.com/">https://videosummer.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">傲视网</td>
+<td align="center"><a href="http://www.aoao365.com/">http://www.aoao365.com/</a></td>
+<td align="center">视频模版站</td>
+</tr>
+<tr>
+<td align="center">CG素材网</td>
+<td align="center"><a href="https://www.cgsucai.com/">https://www.cgsucai.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">黑镜资源网</td>
+<td align="center"><a href="https://cg66.cn/">https://cg66.cn/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">帧资源</td>
+<td align="center"><a href="http://www.zhenzy.com/">http://www.zhenzy.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">PR自学网</td>
+<td align="center"><a href="http://www.przixue.com/">http://www.przixue.com/</a></td>
+<td align="center">PR模版、预设素材资源</td>
+</tr>
+<tr>
+<td align="center">PR素材网</td>
+<td align="center"><a href="https://www.prsucai.com/">https://www.prsucai.com/</a></td>
+<td align="center">PR模版、预设素材资源</td>
+</tr>
+<tr>
+<td align="center">云桥网络</td>
+<td align="center"><a href="http://www.yunqiaonet.com/">http://www.yunqiaonet.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">VFXcamp</td>
+<td align="center"><a href="https://www.vfxcamp.com/">https://www.vfxcamp.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">Vlog小站</td>
+<td align="center"><a href="https://www.vlogxz.com/">https://www.vlogxz.com/</a></td>
+<td align="center">短视频运营交流站</td>
+</tr>
+<tr>
+<td align="center">久爱后期网</td>
+<td align="center"><a href="https://www.freehpcg.com/">https://www.freehpcg.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">后期粉</td>
+<td align="center"><a href="https://wcoolae.com/">https://wcoolae.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">达芬奇模版网</td>
+<td align="center"><a href="https://drmuban.com/">https://drmuban.com/</a></td>
+<td align="center">达芬奇模版素材</td>
+</tr>
+<tr>
+<td align="center">CG志</td>
+<td align="center"><a href="https://cgzhi.com/">https://cgzhi.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">AE素材资源站</td>
+<td align="center"><a href="https://www.aeziyuan.com/">https://www.aeziyuan.com/</a></td>
+<td align="center">AE模版、插件</td>
+</tr>
+<tr>
+<td align="center">CGJOY</td>
+<td align="center"><a href="https://www.cgjoy.com/">https://www.cgjoy.com/</a></td>
+<td align="center">三维类学习资源素材站</td>
+</tr>
+<tr>
+<td align="center">零点网</td>
+<td align="center"><a href="https://www.2amok.com/">https://www.2amok.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">爱给网</td>
+<td align="center"><a href="https://www.aigei.com/">https://www.aigei.com/</a></td>
+<td align="center">综合类素材资源站</td>
+</tr>
+<tr>
+<td align="center">AEPOND</td>
+<td align="center"><a href="https://www.aepond.com/">https://www.aepond.com/</a></td>
+<td align="center">AE模版、PR插件</td>
+</tr>
+<tr>
+<td align="center">我要自学网</td>
+<td align="center"><a href="https://www.51zxw.net/">https://www.51zxw.net/</a></td>
+<td align="center">综合类教程资源站</td>
+</tr>
+<tr>
+<td align="center">影视工业网</td>
+<td align="center"><a href="https://107cine.com/">https://107cine.com/</a></td>
+<td align="center">影视工业网</td>
+</tr>
+<tr>
+<td align="center">优设</td>
+<td align="center"><a href="https://uiiiuiii.com/">https://uiiiuiii.com/</a></td>
+<td align="center">综合类设计素材教程资源站</td>
+</tr>
+<tr>
+<td align="center">一品素材网</td>
+<td align="center"><a href="https://www.yipinsucai.com/">https://www.yipinsucai.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">笔图网</td>
+<td align="center"><a href="https://bitu360.com/">https://bitu360.com/</a></td>
+<td align="center">办公素材资源站</td>
+</tr>
+<tr>
+<td align="center">CG学习资源网</td>
+<td align="center"><a href="http://iiidea.cn/">http://iiidea.cn/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">趣猫资源网</td>
+<td align="center"><a href="https://www.mgzyfx.com/">https://www.mgzyfx.com/</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">光影7号</td>
+<td align="center"><a href="http://www.video7cg.com/">http://www.video7cg.com</a></td>
+<td align="center">CG类资源平台</td>
+</tr>
+<tr>
+<td align="center">千图网</td>
+<td align="center"><a href="https://www.58pic.com/">https://www.58pic.com/</a></td>
+<td align="center">综合类素材资源站</td>
+</tr>
+<tr>
+<td align="center">千库网</td>
+<td align="center"><a href="https://588ku.com/">https://588ku.com/</a></td>
+<td align="center">综合类素材资源站</td>
+</tr>
+<tr>
+<td align="center">摄图网</td>
+<td align="center"><a href="https://699pic.com/">https://699pic.com/</a></td>
+<td align="center">综合类素材资源站</td>
+</tr>
+<tr>
+<td align="center">立体派</td>
+<td align="center"><a href="http://www.ltpmx.com/index.html">http://www.ltpmx.com/index.html</a></td>
+<td align="center">C4D模型素材</td>
+</tr>
+<tr>
+<td align="center">好知网</td>
+<td align="center"><a href="http://www.howzhi.com/">http://www.howzhi.com/</a></td>
+<td align="center">综合类教程资源站</td>
+</tr>
+<tr>
+<td align="center">花瓣</td>
+<td align="center"><a href="https://huaban.com/">https://huaban.com/</a></td>
+<td align="center">设计师灵感图库</td>
+</tr>
+<tr>
+<td align="center">pinterest</td>
+<td align="center"><a href="https://www.pinterest.com/">https://www.pinterest.com/</a></td>
+<td align="center">最好的（没有之一）设计师灵感图库</td>
+</tr>
+<tr>
+<td align="center">设计开开眼</td>
+<td align="center"><a href="https://www.designuuu.com/">https://www.designuuu.com/</a></td>
+<td align="center">设计作品鉴赏</td>
+</tr>
+<tr>
+<td align="center">520设计网</td>
+<td align="center"><a href="https://www.sj520.cn/">https://www.sj520.cn/</a></td>
+<td align="center">综合类设计素材教程资源站</td>
+</tr>
+<tr>
+<td align="center">时觉ME</td>
+<td align="center"><a href="http://shijue.me/">http://shijue.me/</a></td>
+<td align="center">设计作品分享、发现、售卖</td>
+</tr>
+<tr>
+<td align="center">Veer图库</td>
+<td align="center"><a href="https://www.veer.com/">https://www.veer.com/</a></td>
+<td align="center">正版商用图库</td>
+</tr>
+<tr>
+<td align="center">设计小咖</td>
+<td align="center"><a href="https://www.iamxk.com/">https://www.iamxk.com/</a></td>
+<td align="center">设计素材资源站</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>网站收录</category>
+      </categories>
+      <tags>
+        <tag>设计新媒体</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>软件类资源收录</title>
+    <url>/ruanjian.html</url>
+    <content><![CDATA[<center>软件类资源收录</center>
+
+<table>
+<thead>
+<tr>
+<th>资源链接共享表（请勿随意删除）失效资源请标记反馈后再删除–整理：资源干货收录群组</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>资源名称</td>
+<td>链接地址</td>
+<td>提取码</td>
+<td>备注信息</td>
+</tr>
+<tr>
+<td>cleanmymac x for mac(专业系统清理)免激活码 V4.0.4中文激活版</td>
+<td><a href="https://pan.baidu.com/s/1JZl4h2bxr-W61n0mBHDg9A">https://pan.baidu.com/s/1JZl4h2bxr-W61n0mBHDg9A</a></td>
+<td>w3fh</td>
+<td></td>
+</tr>
+<tr>
+<td>Adobe全家桶（含教程）</td>
+<td><a href="https://pan.baidu.com/s/1r_eKiR48MVpUVNV-wMFRqw">https://pan.baidu.com/s/1r_eKiR48MVpUVNV-wMFRqw</a></td>
+<td>k9b6</td>
+<td></td>
+</tr>
+<tr>
+<td>论文查重工具</td>
+<td><a href="https://pan.baidu.com/s/15CUEEpddoIjoHqwWVJC3lA">https://pan.baidu.com/s/15CUEEpddoIjoHqwWVJC3lA</a></td>
+<td>kyo2</td>
+<td></td>
+</tr>
+<tr>
+<td>各版本office破解</td>
+<td><a href="https://pan.baidu.com/s/1ubibLjjtLLCC_c01KKJ5ag">https://pan.baidu.com/s/1ubibLjjtLLCC_c01KKJ5ag</a></td>
+<td>wmtd</td>
+<td></td>
+</tr>
+<tr>
+<td>得到 APP 课程下载工具</td>
+<td><a href="https://github.com/yann0917/dedao-dl/releases/tag/v1.0.1">https://github.com/yann0917/dedao-dl/releases/tag/v1.0.1</a></td>
+<td>无</td>
+<td></td>
+</tr>
+<tr>
+<td>cdr软件安装包</td>
+<td><a href="https://share.weiyun.com/5wWM7Ca">https://share.weiyun.com/5wWM7Ca</a></td>
+<td>82xi</td>
+<td></td>
+</tr>
+<tr>
+<td>cdr插件合集</td>
+<td><a href="https://pan.baidu.com/s/1WfaKL_G1hZywjckDFwsL4A">https://pan.baidu.com/s/1WfaKL_G1hZywjckDFwsL4A</a></td>
+<td>n4f3</td>
+<td></td>
+</tr>
+<tr>
+<td>m3u8批量下载器</td>
+<td><a href="https://pan.baidu.com/s/1ASTs3UeTlytoZEn1i94mNw#list/path=%2F">https://pan.baidu.com/s/1ASTs3UeTlytoZEn1i94mNw#list/path=%2F</a></td>
+<td>dywy</td>
+<td></td>
+</tr>
+<tr>
+<td>高清杂志网杂志下载</td>
+<td><a href="https://www.lanzoui.com/iavakvc">https://www.lanzoui.com/iavakvc</a></td>
+<td>无</td>
+<td></td>
+</tr>
+<tr>
+<td>CrossOver for Mac v19.0.1</td>
+<td><a href="https://pan.baidu.com/s/1X8B3Knkx4elMmoWaOxut3g#list/path=%2F">https://pan.baidu.com/s/1X8B3Knkx4elMmoWaOxut3g#list/path=%2F</a></td>
+<td>rjbq</td>
+<td></td>
+</tr>
+<tr>
+<td>批量真人配音软件V2.6</td>
+<td><a href="https://wws.lanzoux.com/iaE8mfj34ja#5fpv">https://wws.lanzoux.com/iaE8mfj34ja#5fpv</a></td>
+<td>5fpv</td>
+<td></td>
+</tr>
+<tr>
+<td>科大讯飞语音合成系统 V5.0绿色便携版</td>
+<td><a href="https://cloud.189.cn/t/N326Vn2IjiQj">https://cloud.189.cn/t/N326Vn2IjiQj</a></td>
+<td>无</td>
+<td></td>
+</tr>
+<tr>
+<td>讯飞语音识别提取版</td>
+<td><a href="https://www.lanzoux.com/iy7g0fowgif">https://www.lanzoux.com/iy7g0fowgif</a></td>
+<td>无</td>
+<td></td>
+</tr>
+<tr>
+<td>云视助手-视频批量下载助手</td>
+<td><a href="https://nxzhdj.lanzoux.com/b0djkgire">https://nxzhdj.lanzoux.com/b0djkgire</a></td>
+<td>无</td>
+<td></td>
+</tr>
+<tr>
+<td>webdav小秘1.0.0</td>
+<td><a href="https://lightzhan.lanzoui.com/b015wjsri">https://lightzhan.lanzoui.com/b015wjsri</a></td>
+<td>无</td>
+<td></td>
+</tr>
+<tr>
+<td>百度网盘7天VIP理论无限获取</td>
+<td><a href="https://wwi.lanzoui.com/ivDCspgopoj">https://wwi.lanzoui.com/ivDCspgopoj</a></td>
+<td>密码：xej    解压码：小二君真帅</td>
+<td>pc软件，易语言爬取联合活动，官方白嫖最为致命</td>
+</tr>
+<tr>
+<td>微信视频号下载工具</td>
+<td><a href="https://noise.lanzoui.com/itbYxptz74f">https://noise.lanzoui.com/itbYxptz74f</a></td>
+<td>无</td>
+<td></td>
+</tr>
+<tr>
+<td>云萌Windows10激活工具</td>
+<td><a href="https://cmwtat.cloudmoe.com/cn.html">https://cmwtat.cloudmoe.com/cn.html</a></td>
+<td>无</td>
+<td></td>
+</tr>
+<tr>
+<td>蜜蜂短视频去水印</td>
+<td><a href="https://video.ciding.cc/">https://video.ciding.cc/</a></td>
+<td>无</td>
+<td>比较全面的短视频去水印工具。</td>
+</tr>
+<tr>
+<td>云视助手-视频批量下载助手</td>
+<td><a href="https://nxzhdj.lanzoux.com/b0djkgire">https://nxzhdj.lanzoux.com/b0djkgire</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>阿里云盘小白羊版v1.6.6</td>
+<td><a href="https://wwr.lanzoui.com/iSfdJpzctof">https://wwr.lanzoui.com/iSfdJpzctof</a></td>
+<td>无</td>
+<td>开源地址：<a href="https://github.com/liupan1890/aliyunpan">https://github.com/liupan1890/aliyunpan</a></td>
+</tr>
+<tr>
+<td>百度网盘7天VIP理论无限获取升级版</td>
+<td><a href="https://wwi.lanzoui.com/iUQwuq7rz9e">https://wwi.lanzoui.com/iUQwuq7rz9e</a></td>
+<td>解压码：资源研讨社</td>
+<td>增加了软件内看活动时间的功能，避免了多次试错码</td>
+</tr>
+<tr>
+<td>Bandizip v7.17 号称解压速度最快的压缩和解压缩文件管理器。</td>
+<td><a href="https://pan.baidu.com/s/1ueyq311qIvrGrlyboE7fNA">https://pan.baidu.com/s/1ueyq311qIvrGrlyboE7fNA</a></td>
+<td>ppsq</td>
+<td>安装后根目录下激活专业版补丁</td>
+</tr>
+<tr>
+<td>阿里后台批量发起订单辅助工具</td>
+<td><a href="https://pan.baidu.com/share/init?surl=BbG1GLzEOou7yd6GZDKVWw">https://pan.baidu.com/share/init?surl=BbG1GLzEOou7yd6GZDKVWw</a></td>
+<td>aC4K</td>
+<td></td>
+</tr>
+<tr>
+<td>鬼谷八荒+初始无敌存档+修改器</td>
+<td><a href="https://pan.baidu.com/s/1FsWW_YZhh8Cb7xYmTmg9wg"> https://pan.baidu.com/s/1FsWW_YZhh8Cb7xYmTmg9wg</a></td>
+<td>fhtz</td>
+<td></td>
+</tr>
+<tr>
+<td>抖音视频批量无水印解析和自动下载工具</td>
+<td><a href="https://github.com/X-Lucifer/Douyin/releases/tag/2.0">https://github.com/X-Lucifer/Douyin/releases/tag/2.0</a></td>
+<td>无</td>
+<td></td>
+</tr>
+<tr>
+<td>度盘扩容教程</td>
+<td><a href="https://pan.baidu.com/share/init?surl=7rNv69loiM1AfiN3w__BHw">https://pan.baidu.com/share/init?surl=7rNv69loiM1AfiN3w__BHw</a></td>
+<td>JG77</td>
+<td></td>
+</tr>
+<tr>
+<td>Office Tool Plus</td>
+<td><a href="https://otp.landian.vip/zh-cn/">https://otp.landian.vip/zh-cn/</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>KMS</td>
+<td><a href="https://kms.cangshui.net/">https://kms.cangshui.net/</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>番茄影视</td>
+<td>fq88.app</td>
+<td></td>
+<td>一个不错的影视软件</td>
+</tr>
+<tr>
+<td>电脑声音转文字、文字转语音、图片转文字、视频取字幕、翻译、等</td>
+<td><a href="https://pan.baidu.com/s/1dMcH9aHgTS1gZWzgfu_eVQ">https://pan.baidu.com/s/1dMcH9aHgTS1gZWzgfu_eVQ</a></td>
+<td>d658</td>
+<td></td>
+</tr>
+<tr>
+<td>皮茶熊APP（暂时只支持安卓 ios正在申请）</td>
+<td><a href="https://psinu-1306302283-cn-bj-01.hkg.meijutt.top/Server/APK/psinu-v2.apk">https://psinu-1306302283-cn-bj-01.hkg.meijutt.top/Server/APK/psinu-v2.apk</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>MT管理器</td>
+<td><a href="https://binmt.lanzoui.com/b01bivkzc">https://binmt.lanzoui.com/b01bivkzc</a></td>
+<td>安卓神器</td>
+<td></td>
+</tr>
+<tr>
+<td>电影先生</td>
+<td><a href="http://dyxs11.com/doc/app/">http://dyxs11.com/doc/app/</a></td>
+<td></td>
+<td>目前只支持安卓下载，也可在线网址观看</td>
+</tr>
+<tr>
+<td>波点音乐</td>
+<td><a href="https://h5app.kuwo.cn/m/bodian/download.html">https://h5app.kuwo.cn/m/bodian/download.html</a></td>
+<td></td>
+<td>tx出品、3000万＋曲库、免费、画面简洁、专属音乐短片</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>资源收录</category>
+      </categories>
+      <tags>
+        <tag>软件类资源</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>论坛社区汇总收录</title>
+    <url>/luntan.html</url>
+    <content><![CDATA[<table>
+<thead>
+<tr>
+<th>八神智能天下</th>
+<th><a href="http://zntx.cc/">http://zntx.cc/</a></th>
+<th>一个破解软件（游戏）的社区，注册不需要邀请码</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>独立开发者社区</td>
+<td><a href="https://w2solo.com/">https://w2solo.com/</a></td>
+<td>独立开发者社区</td>
+</tr>
+<tr>
+<td>吾爱破解论坛</td>
+<td><a href="https://www.52pojie.cn/">https://www.52pojie.cn</a></td>
+<td>老牌的站点,很强</td>
+</tr>
+<tr>
+<td>瑞客论坛</td>
+<td><a href="https://www.ruike1.com/">https://www.ruike1.com/</a></td>
+<td>综合类</td>
+</tr>
+<tr>
+<td>天下网吧论坛</td>
+<td><a href="https://bbs.txwb.com/">https://bbs.txwb.com/</a></td>
+<td>无盘技术</td>
+</tr>
+<tr>
+<td>外网论坛</td>
+<td><a href="https://www.tvsbook.com/forums/android-tv-app.3/">https://www.tvsbook.com/forums/android-tv-app.3/</a></td>
+<td>Android电视应用程序</td>
+</tr>
+<tr>
+<td>盘乐网</td>
+<td><a href="https://www.panle.net/">https://www.panle.net/</a></td>
+<td>百度资源论坛</td>
+</tr>
+<tr>
+<td>智能电视论坛</td>
+<td><a href="https://www.znds.com/">https://www.znds.com/</a></td>
+<td>智能电视</td>
+</tr>
+<tr>
+<td>全球主机交流</td>
+<td><a href="https://hostloc.com/">https://hostloc.com/</a></td>
+<td>服务器等综合类</td>
+</tr>
+<tr>
+<td>恩山无线论坛</td>
+<td><a href="https://www.right.com.cn/forum/">https://www.right.com.cn/forum/</a></td>
+<td>软路由</td>
+</tr>
+<tr>
+<td>爱快考论坛</td>
+<td><a href="http://aikuaikao.com/">http://aikuaikao.com/</a></td>
+<td>考试学习资料</td>
+</tr>
+<tr>
+<td>乐伊分享</td>
+<td><a href="https://www.dyroy.com/">https://www.dyroy.com/</a></td>
+<td>百度云资料</td>
+</tr>
+<tr>
+<td>CG分享网</td>
+<td><a href="https://www.cgfxw.com/">https://www.cgfxw.com/</a></td>
+<td>CG类资源</td>
+</tr>
+<tr>
+<td>大牛论坛</td>
+<td><a href="https://www.dnlt.cc/">https://www.dnlt.cc</a></td>
+<td>综合类技术论坛</td>
+</tr>
+<tr>
+<td>高清MP4粉（影视交流论坛）</td>
+<td><a href="http://www.mp4fan.org/">www.MP4FAN.org</a></td>
+<td>无</td>
+</tr>
+<tr>
+<td>AliYunpanso</td>
+<td><a href="http://aliyunpanso.cn:88/">http://aliyunpanso.cn:88/</a></td>
+<td>阿里云资源</td>
+</tr>
+<tr>
+<td>云盘资源分享</td>
+<td><a href="https://www.yunpan123.com/">https://www.yunpan123.com</a></td>
+<td>阿里云资源</td>
+</tr>
+<tr>
+<td>云盘资源分享</td>
+<td><a href="https://oook.xyz/">https://oook.xyz/</a></td>
+<td>阿里云资源</td>
+</tr>
+<tr>
+<td>秋无痕论坛</td>
+<td><a href="http://bbs.realqwh.cn/">http://bbs.realqwh.cn/</a></td>
+<td>综合类影视论坛</td>
+</tr>
+<tr>
+<td>精锐网络安全</td>
+<td><a href="http://bbs.anrlm.com:8888/">http://bbs.anrlm.com:8888/</a></td>
+<td>网络安全类论坛</td>
+</tr>
+<tr>
+<td>卡饭论坛</td>
+<td><a href="https://bbs.kafan.cn/">https://bbs.kafan.cn/</a></td>
+<td>杀毒软件</td>
+</tr>
+<tr>
+<td>DMZ社区</td>
+<td><a href="http://www.dmzshequ.com/">http://www.dmzshequ.com/</a></td>
+<td>it类资源论坛</td>
+</tr>
+<tr>
+<td>我爱分享论坛</td>
+<td><a href="https://bbs.52iss.com/">https://bbs.52iss.com</a></td>
+<td>综合类技术论坛</td>
+</tr>
+<tr>
+<td>FLY社区</td>
+<td><a href="http://www.0xy.cn/">http://www.0xy.cn/</a></td>
+<td>综合类技术论坛</td>
+</tr>
+<tr>
+<td>无忧启动论坛</td>
+<td><a href="http://wuyou.net/forum.php">http://wuyou.net/forum.php</a></td>
+<td>装机封装类综合</td>
+</tr>
+<tr>
+<td>流星社区</td>
+<td><a href="http://bbs.liuxingw.com/">http://bbs.liuxingw.com/</a></td>
+<td>安卓类综合门户</td>
+</tr>
+<tr>
+<td>油猴中文网</td>
+<td><a href="https://bbs.tampermonkey.net.cn/">https://bbs.tampermonkey.net.cn/</a></td>
+<td>油猴脚本</td>
+</tr>
+<tr>
+<td>万维论坛</td>
+<td><a href="https://www.rom100.com/">https://www.rom100.com/</a></td>
+<td>手机刷机固件大全</td>
+</tr>
+<tr>
+<td>醉里挑原创</td>
+<td><a href="http://www.9000xp.com/">http://www.9000xp.com/</a></td>
+<td>文学类综合论坛</td>
+</tr>
+<tr>
+<td>百度网盘论坛</td>
+<td><a href="http://www.baoshu8.com/">http://www.baoshu8.com/</a></td>
+<td>百度类资源社区</td>
+</tr>
+<tr>
+<td>有氧周末</td>
+<td><a href="http://zhoumovip.cn/">http://zhoumovip.cn/</a></td>
+<td>摄影类资源论坛</td>
+</tr>
+<tr>
+<td>摄设论坛</td>
+<td><a href="https://sszylt.com/forum.php">https://sszylt.com/forum.php</a></td>
+<td>摄影资源论坛</td>
+</tr>
+<tr>
+<td>百步塔</td>
+<td><a href="https://www.baibuta.com/">https://www.baibuta.com/</a></td>
+<td>考试类资源社区</td>
+</tr>
+<tr>
+<td>geekhub</td>
+<td><a href="https://www.geekhub.com/">https://www.geekhub.com/</a></td>
+<td>极客玩家社区</td>
+</tr>
+<tr>
+<td>小镜头大世界</td>
+<td><a href="https://www.xjtdsj.com/">https://www.xjtdsj.com/</a></td>
+<td>摄影类资源论坛</td>
+</tr>
+<tr>
+<td>答疑啦</td>
+<td><a href="https://www.dayila.net/">https://www.dayila.net/</a></td>
+<td>考试类资源社区</td>
+</tr>
+<tr>
+<td>精易社区</td>
+<td><a href="https://bbs.125.la/">https://bbs.125.la/</a></td>
+<td>易语言资源社区</td>
+</tr>
+<tr>
+<td>不错吧源码论坛</td>
+<td><a href="http://bbs.bcb5.com/">http://bbs.bcb5.com/</a></td>
+<td>源码论坛</td>
+</tr>
+<tr>
+<td>BT种子论坛</td>
+<td><a href="https://pt.btschool.club/torrents.php">https://pt.btschool.club/torrents.php</a></td>
+<td>BT种子资源</td>
+</tr>
+<tr>
+<td>姿势论坛</td>
+<td><a href="https://bbs.zsxwz.com/">https://bbs.zsxwz.com/</a></td>
+<td>姿势小王子</td>
+</tr>
+<tr>
+<td>飞天资源论坛</td>
+<td><a href="https://feitianwu7.com/forum.php">https://feitianwu7.com/forum.php</a></td>
+<td>PS论坛</td>
+</tr>
+<tr>
+<td>资源号</td>
+<td><a href="http://www.ziyuanhao.com/index.php">http://www.ziyuanhao.com/index.php</a></td>
+<td>影视资源为主</td>
+</tr>
+<tr>
+<td>电鸭社区</td>
+<td><a href="https://eleduck.com/">https://eleduck.com/</a></td>
+<td>远程工作者的家园</td>
+</tr>
+<tr>
+<td>虎扑社区</td>
+<td><a href="https://bbs.hupu.com/">https://bbs.hupu.com/</a></td>
+<td>NBA体坛</td>
+</tr>
+<tr>
+<td>虫部落</td>
+<td><a href="https://www.chongbuluo.com/">https://www.chongbuluo.com/</a></td>
+<td>综合类收录社区</td>
+</tr>
+<tr>
+<td>黑客派</td>
+<td><a href="https://ld246.com/">https://ld246.com/</a></td>
+<td>从小众走向大众的技术社区</td>
+</tr>
+<tr>
+<td>CSDN</td>
+<td><a href="https://www.csdn.net/">https://www.csdn.net/</a></td>
+<td>专业开发者社区</td>
+</tr>
+<tr>
+<td>V2EX</td>
+<td><a href="https://www.v2ex.com/">https://www.v2ex.com/</a></td>
+<td>专业开发者社区</td>
+</tr>
+<tr>
+<td>北大未名BBS</td>
+<td><a href="https://bbs.pku.edu.cn/">https://bbs.pku.edu.cn</a></td>
+<td>北京大学校园论坛</td>
+</tr>
+<tr>
+<td>豆瓣小组</td>
+<td><a href="https://www.douban.com/group/explore">https://www.douban.com/group/explore</a></td>
+<td>豆瓣官方社区</td>
+</tr>
+<tr>
+<td>老司机</td>
+<td><a href="https://www.laosiji.com/">https://www.laosiji.com/</a></td>
+<td>汽车人的社区网站</td>
+</tr>
+<tr>
+<td>先知社区</td>
+<td><a href="https://xz.aliyun.com/">https://xz.aliyun.com/</a></td>
+<td>网络安全类论坛</td>
+</tr>
+<tr>
+<td>ZOL论坛</td>
+<td><a href="https://bbs.zol.com.cn/">https://bbs.zol.com.cn/</a></td>
+<td>中关村在线论坛</td>
+</tr>
+<tr>
+<td>chiphell</td>
+<td><a href="https://www.chiphell.com/forum.php">https://www.chiphell.com/forum.php</a></td>
+<td>电脑类分享社区</td>
+</tr>
+<tr>
+<td>51CTO论坛</td>
+<td><a href="https://bbs.51cto.com/">https://bbs.51cto.com/</a></td>
+<td>51CTO技术论坛</td>
+</tr>
+<tr>
+<td>我爱卡</td>
+<td><a href="https://bbs.51credit.com/">https://bbs.51credit.com/</a></td>
+<td>信用卡类社区</td>
+</tr>
+<tr>
+<td>人民强国论坛</td>
+<td><a href="http://bbs1.people.com.cn/board/1.html">http://bbs1.people.com.cn/board/1.html</a></td>
+<td>强国论坛</td>
+</tr>
+<tr>
+<td>失业者联盟</td>
+<td><a href="http://losergogogo.com/">http://losergogogo.com/</a></td>
+<td>职场人和职场故事</td>
+</tr>
+<tr>
+<td>1024只猴子</td>
+<td><a href="https://1024.com/">https://1024.com/</a></td>
+<td>专业开发者码农社区</td>
+</tr>
+<tr>
+<td>Ruby China</td>
+<td><a href="https://ruby-china.org/">https://ruby-china.org/</a></td>
+<td>专业开发者码农社区</td>
+</tr>
+<tr>
+<td>Emacs China</td>
+<td><a href="https://emacs-china.org/">https://emacs-china.org</a></td>
+<td>开发者技术类论坛</td>
+</tr>
+<tr>
+<td>CocoaChina</td>
+<td><a href="https://emacs-china.org/">https://emacs-china.org</a></td>
+<td>开发者技术类论坛</td>
+</tr>
+<tr>
+<td>AMZ123</td>
+<td><a href="https://www.amz123.com/forum-8.htm">https://www.amz123.com/forum-8.htm</a></td>
+<td>亚马逊跨境交流</td>
+</tr>
+<tr>
+<td>派代网</td>
+<td><a href="https://www.paidai.com/">https://www.paidai.com/</a></td>
+<td>电商类社区</td>
+</tr>
+<tr>
+<td>交易者联盟</td>
+<td><a href="http://jiaoyizhe.com/">http://jiaoyizhe.com/</a></td>
+<td>老牌社区</td>
+</tr>
+<tr>
+<td>开源中国</td>
+<td><a href="https://www.oschina.net/">https://www.oschina.net/</a></td>
+<td>专业开发者码农社区</td>
+</tr>
+<tr>
+<td>超级玩家社区</td>
+<td><a href="https://bbs.sgamer.com/">https://bbs.sgamer.com/</a></td>
+<td>游戏社区</td>
+</tr>
+<tr>
+<td>幕布精选社区</td>
+<td><a href="https://mubu.com/explore">https://mubu.com/explore</a></td>
+<td>知识分享交流</td>
+</tr>
+<tr>
+<td>乐愚社区</td>
+<td><a href="https://bbs.leyuz.net/">https://bbs.leyuz.net/</a></td>
+<td>综合类交流论坛</td>
+</tr>
+<tr>
+<td>小木虫</td>
+<td><a href="http://muchong.com/bbs/">http://muchong.com/bbs/</a></td>
+<td>综合类交流论坛</td>
+</tr>
+<tr>
+<td>AIQ</td>
+<td><a href="https://www.6aiq.com/">https://www.6aiq.com/</a></td>
+<td>人工智能技术社区</td>
+</tr>
+<tr>
+<td>穷游论坛</td>
+<td><a href="https://bbs.qyer.com/">https://bbs.qyer.com/</a></td>
+<td>穷游者的论坛</td>
+</tr>
+<tr>
+<td>看雪论坛</td>
+<td><a href="https://www.kanxue.com/">https://www.kanxue.com/</a></td>
+<td>技术交流论坛</td>
+</tr>
+<tr>
+<td>牛客网讨论区</td>
+<td><a href="https://www.nowcoder.com/discuss">https://www.nowcoder.com/discuss</a></td>
+<td>求职者交流</td>
+</tr>
+<tr>
+<td>segmentFault思否</td>
+<td><a href="https://segmentfault.com/">https://segmentfault.com/</a></td>
+<td>综合类交流论坛</td>
+</tr>
+<tr>
+<td>资源大享</td>
+<td><a href="https://www.vipsrc.com/">https://www.vipsrc.com/</a></td>
+<td>软件源码类论坛</td>
+</tr>
+<tr>
+<td>南+ South Plus</td>
+<td><a href="https://www.spring-plus.net/">https://www.spring-plus.net/</a></td>
+<td>老司机交流</td>
+</tr>
+<tr>
+<td>阿里小站</td>
+<td><a href="https://pan.yuankongjian.com/">https://pan.yuankongjian.com/</a></td>
+<td>阿里云盘资源共享论坛</td>
+</tr>
+<tr>
+<td>天翼小站</td>
+<td><a href="https://yun.hei521.cn/">https://yun.hei521.cn/</a></td>
+<td>天翼及阿里云盘资源</td>
+</tr>
+<tr>
+<td>点拨论坛</td>
+<td><a href="https://www.dianbo.org/">https://www.dianbo.org/</a></td>
+<td>视频、光盘、技术类老牌</td>
+</tr>
+<tr>
+<td>医学资料吧</td>
+<td><a href="https://www.yxzlb.com/">https://www.yxzlb.com/</a></td>
+<td>医学类论坛</td>
+</tr>
+<tr>
+<td>医学论坛网</td>
+<td><a href="http://www.cmt.com.cn/">http://www.cmt.com.cn/</a></td>
+<td>医学类论坛</td>
+</tr>
+<tr>
+<td>deepfacelap中文论坛</td>
+<td><a href="https://dfldata.xyz/forum.php">https://dfldata.xyz/forum.php</a></td>
+<td>学习deepfacelap的最佳站点</td>
+</tr>
+<tr>
+<td>KubeSphere 开源社区</td>
+<td><a href="https://kubesphere.com.cn/forum/">https://kubesphere.com.cn/forum/</a></td>
+<td>专业开发者码农社区</td>
+</tr>
+<tr>
+<td>色影无忌论坛</td>
+<td><a href="https://forum.xitek.com/">https://forum.xitek.com/</a></td>
+<td>摄影类资源论坛</td>
+</tr>
+<tr>
+<td>hassbian</td>
+<td><a href="https://bbs.hassbian.com/">https://bbs.hassbian.com</a></td>
+<td>智能家居技术论坛</td>
+</tr>
+<tr>
+<td>爱好论坛</td>
+<td><a href="https://www.aihao.cc/">https://www.aihao.cc/</a></td>
+<td>WIN系统密匙不断更</td>
+</tr>
+<tr>
+<td>51testing论坛</td>
+<td><a href="http://bbs.51testing.com/forum.php">http://bbs.51testing.com/forum.php</a></td>
+<td>专业软件测试论坛</td>
+</tr>
+<tr>
+<td>ubuntu论坛</td>
+<td><a href="https://forum.ubuntu.org.cn/">https://forum.ubuntu.org.cn/</a></td>
+<td>ubuntu系统的一切</td>
+</tr>
+<tr>
+<td>吉他中国论坛</td>
+<td><a href="https://bbs.guitarchina.com/">https://bbs.guitarchina.com/</a></td>
+<td>吉他中国论坛</td>
+</tr>
+<tr>
+<td>北极星电力论坛</td>
+<td><a href="http://www.bjxbbs.com.cn/forum.php">http://www.bjxbbs.com.cn/forum.php</a></td>
+<td>电气电网技术</td>
+</tr>
+<tr>
+<td>野火论坛</td>
+<td><a href="https://firebbs.cn/">https://firebbs.cn/</a></td>
+<td>STM32开发资料</td>
+</tr>
+<tr>
+<td>一牛网论坛</td>
+<td><a href="https://bbs.16rd.com/">https://bbs.16rd.com/</a></td>
+<td>综合技术芯片类论坛</td>
+</tr>
+<tr>
+<td>微软极客社区</td>
+<td><a href="https://bbs.pcbeta.com/">https://bbs.pcbeta.com/</a></td>
+<td>综合类系统OS技术社区</td>
+</tr>
+<tr>
+<td>自学IT吧</td>
+<td><a href="http://www.zxit8.com/">http://www.zxit8.com/</a></td>
+<td>IT技术交流论坛</td>
+</tr>
+<tr>
+<td>ITgood论坛</td>
+<td><a href="http://www.itgood.vip/forum.php">http://www.itgood.vip/forum.php</a></td>
+<td>IT技术交流论坛</td>
+</tr>
+<tr>
+<td>ITPUB论坛</td>
+<td><a href="http://www.itpub.net/forum-44-1.html">http://www.itpub.net/forum-44-1.html</a></td>
+<td>IT技术交流论坛</td>
+</tr>
+<tr>
+<td>xiuno开源程序交流论坛</td>
+<td><a href="https://xiunobbs.cn/">https://xiunobbs.cn/</a></td>
+<td>xiuno开源程序交流论坛</td>
+</tr>
+<tr>
+<td>云析IT论坛</td>
+<td><a href="https://yunqit.com/">https://yunqit.com/</a></td>
+<td>xiuno IT交流论坛</td>
+</tr>
+<tr>
+<td>NOTEWEB</td>
+<td><a href="https://www.noteweb.top/">https://www.noteweb.top/</a></td>
+<td>xiuno IT交流论坛</td>
+</tr>
+<tr>
+<td>自学编程吧</td>
+<td><a href="https://zxbc8.com/">https://zxbc8.com</a></td>
+<td>IT技术交流论坛</td>
+</tr>
+<tr>
+<td>真全栈程序员</td>
+<td><a href="https://www.fstcode.com/">https://www.fstcode.com/</a></td>
+<td>IT技术交流论坛</td>
+</tr>
+<tr>
+<td>程序员源码论坛</td>
+<td><a href="http://www.cx1314.cn/">http://www.cx1314.cn/</a></td>
+<td>IT技术交流论坛</td>
+</tr>
+<tr>
+<td>百度盘影视类资源论坛</td>
+<td><a href="https://8yunpan.com/">https://8yunpan.com</a></td>
+<td>百度盘影视类资源论坛</td>
+</tr>
+<tr>
+<td>网盘世界吧</td>
+<td><a href="http://www.wpsj8.com/">http://www.wpsj8.com/</a></td>
+<td>网盘综合类类资源论坛</td>
+</tr>
+<tr>
+<td>百度云分享论坛</td>
+<td><a href="https://www.aixuge.com/">https://www.aixuge.com/</a></td>
+<td>百度盘影视类资源论坛</td>
+</tr>
+<tr>
+<td>云资源分享论坛</td>
+<td><a href="http://www.yunpandu.com/">http://www.yunpandu.com/</a></td>
+<td>百度盘影视类资源论坛</td>
+</tr>
+<tr>
+<td>云资源分享论坛</td>
+<td><a href="https://www.wpfx8.com/">https://www.wpfx8.com/</a></td>
+<td>网盘综合类类资源论坛</td>
+</tr>
+<tr>
+<td>112网盘社区</td>
+<td><a href="http://www.112pan.com/">http://www.112pan.com/</a></td>
+<td>网盘综合类类资源论坛</td>
+</tr>
+<tr>
+<td>共享琵琶行</td>
+<td><a href="https://www.ppxclub.com/">https://www.ppxclub.com/</a></td>
+<td>综合类资源交流论坛</td>
+</tr>
+<tr>
+<td>教育盘论坛</td>
+<td><a href="https://jiaoyupan.com/">https://jiaoyupan.com/</a></td>
+<td>综合类教育考试交流论坛</td>
+</tr>
+<tr>
+<td>西西论坛</td>
+<td><a href="https://www.zhanxixi.com/">https://www.zhanxixi.com/</a></td>
+<td>百度盘影视类资源论坛</td>
+</tr>
+<tr>
+<td>吾爱程序猿</td>
+<td><a href="https://www.52programer.com/">https://www.52programer.com/</a></td>
+<td>IT技术交流论坛</td>
+</tr>
+<tr>
+<td>90云盘网论坛</td>
+<td><a href="http://90yp.com/">http://90yp.com/</a></td>
+<td>网盘综合类类资源论坛</td>
+</tr>
+<tr>
+<td>屌丝论坛</td>
+<td><a href="https://assbbs.com/">https://assbbs.com/</a></td>
+<td>嗯….</td>
+</tr>
+<tr>
+<td>创意分享论坛</td>
+<td><a href="https://www.fenxiangzq.com/">https://www.fenxiangzq.com/</a></td>
+<td>站长交流社区</td>
+</tr>
+<tr>
+<td>终点论坛</td>
+<td><a href="https://bbs.zdfx.net/">https://bbs.zdfx.net</a></td>
+<td>ACG游戏社区</td>
+</tr>
+<tr>
+<td>Dice分享社区</td>
+<td><a href="http://dice.baimianxiao.cn/">http://dice.baimianxiao.cn/</a></td>
+<td>一个新论坛</td>
+</tr>
+<tr>
+<td>HIFI音乐论坛</td>
+<td><a href="https://sacdr.net/forum.php">https://sacdr.net/forum.php</a></td>
+<td>HIFI音乐交流论坛</td>
+</tr>
+<tr>
+<td>后浪论坛</td>
+<td><a href="https://bbs.dhzy.fun/">https://bbs.dhzy.fun/</a></td>
+<td>综合类交流论坛</td>
+</tr>
+<tr>
+<td>VIP分享网论坛</td>
+<td><a href="https://bbs.vipfenxiang.com/">https://bbs.vipfenxiang.com/</a></td>
+<td>VIP分享账号论坛</td>
+</tr>
+<tr>
+<td>天天资源吧</td>
+<td><a href="https://www.ttsf6.com/">https://www.ttsf6.com/</a></td>
+<td>综合类交流论坛</td>
+</tr>
+<tr>
+<td>4414论坛</td>
+<td><a href="https://www.4414.cn/">https://www.4414.cn/</a></td>
+<td>站长交流社区</td>
+</tr>
+<tr>
+<td>站长门户圈</td>
+<td><a href="https://bbs.downzz.com/">https://bbs.downzz.com/</a></td>
+<td>站长交流社区</td>
+</tr>
+<tr>
+<td>落伍者交流社区</td>
+<td><a href="https://www.im286.net/">https://www.im286.net</a></td>
+<td>站长交流社区</td>
+</tr>
+<tr>
+<td>苹果站长论坛</td>
+<td><a href="https://www.bbspg.com/">https://www.bbspg.com</a></td>
+<td>苹果CMS站长论坛</td>
+</tr>
+<tr>
+<td>资源岛论坛</td>
+<td><a href="https://bbs.xktpx.com/">https://bbs.xktpx.com/</a></td>
+<td>综合类交流论坛</td>
+</tr>
+<tr>
+<td>品品品</td>
+<td><a href="http://www.pinmuch.com/">http://www.pinmuch.com/</a></td>
+<td>电子书类论坛</td>
+</tr>
+<tr>
+<td>free学习论坛</td>
+<td><a href="http://bbs.hrfree.cn/">http://bbs.hrfree.cn/</a></td>
+<td>HR专业学习论坛</td>
+</tr>
+<tr>
+<td>资源巴巴</td>
+<td><a href="https://www.ziyuanbaba.com/">https://www.ziyuanbaba.com/</a></td>
+<td>综合类资源下载交流论坛</td>
+</tr>
+<tr>
+<td>百度云电影论坛</td>
+<td><a href="http://www.chchzh.com/">http://www.chchzh.com</a></td>
+<td>百度盘影视类资源论坛</td>
+</tr>
+<tr>
+<td>东西资源论坛</td>
+<td><a href="http://www.dxzylt.net/">http://www.dxzylt.net/</a></td>
+<td>音乐HIFI类资源论坛</td>
+</tr>
+<tr>
+<td>久爱论坛</td>
+<td><a href="https://www.jizy8.com/">https://www.jizy8.com/</a></td>
+<td>游戏辅助类论坛</td>
+</tr>
+<tr>
+<td>溜达TXT电子书论坛</td>
+<td><a href="https://www.ldtxt.net/">https://www.ldtxt.net/</a></td>
+<td>TXT电子书论坛</td>
+</tr>
+<tr>
+<td>TXT电子书论坛</td>
+<td><a href="https://www.zm233.net/">https://www.zm233.net/</a></td>
+<td>TXT电子书论坛</td>
+</tr>
+<tr>
+<td>泡泡TXT电子书论坛</td>
+<td><a href="https://www.pp233.net/">https://www.pp233.net/</a></td>
+<td>TXT电子书论坛</td>
+</tr>
+<tr>
+<td>随心破解论坛</td>
+<td><a href="http://sxpojie.cn/">http://sxpojie.cn</a></td>
+<td>游戏辅助类论坛</td>
+</tr>
+<tr>
+<td>破走论坛</td>
+<td><a href="https://www.pozou.com/">https://www.pozou.com/</a></td>
+<td>游戏辅助类论坛</td>
+</tr>
+<tr>
+<td>周五论坛</td>
+<td><a href="https://zhouwu123.com/">https://zhouwu123.com</a></td>
+<td>游戏辅助类论坛</td>
+</tr>
+<tr>
+<td>MAC用户论坛</td>
+<td><a href="https://learnku.com/mac">https://learnku.com/mac</a></td>
+<td>MAC用户论坛</td>
+</tr>
+<tr>
+<td>MAC树交流社区</td>
+<td><a href="https://www.appleshu.net/forum.php">https://www.appleshu.net/forum.php</a></td>
+<td>MAC用户论坛</td>
+</tr>
+<tr>
+<td>三维3D技术论坛</td>
+<td><a href="http://www.narkii.com/club/">http://www.narkii.com/club/</a></td>
+<td>三维3D技术论坛</td>
+</tr>
+<tr>
+<td>视界论坛</td>
+<td><a href="https://bbs.outfu.com/">https://bbs.outfu.com/</a></td>
+<td>阿里云盘资源</td>
+</tr>
+<tr>
+<td>恩山无线论坛</td>
+<td><a href="https://www.right.com.cn/">https://www.right.com.cn/</a></td>
+<td>硬件学习</td>
+</tr>
+<tr>
+<td>pipecraft社区</td>
+<td><a href="https://discuss.cn.pipecraft.net/">https://discuss.cn.pipecraft.net/</a></td>
+<td>RSS综合讨论社区</td>
+</tr>
+<tr>
+<td>抛砖问答</td>
+<td><a href="https://pzwd.net/">https://pzwd.net/</a></td>
+<td>非商业性质的，独立的，开放的，程序员的问答社区</td>
+</tr>
+<tr>
+<td>HiFiNi</td>
+<td><a href="https://www.hifini.com/">https://www.hifini.com/</a></td>
+<td>HiFiNi 是一个由音乐爱好者维护的分享平台, 旨在解决问题互帮互助</td>
+</tr>
+<tr>
+<td>聚客盒</td>
+<td><a href="https://jukebox.pipecraft.net/">https://jukebox.pipecraft.net/</a></td>
+<td>聚客盒 - 聚合程序员博客的宝盒，是一个非商业性质的，独立的，开放的，程序员社区。</td>
+</tr>
+<tr>
+<td>搬砖技术社区</td>
+<td><a href="https://0xffff.one/">https://0xffff.one/</a></td>
+<td>0xffff.</td>
+</tr>
+<tr>
+<td>摸鱼派</td>
+<td><a href="https://fishpi.cn/">https://fishpi.cn</a></td>
+<td>一个属于程序员的摸鱼社区</td>
+</tr>
+<tr>
+<td>非人类论坛</td>
+<td><a href="https://loc.cc/">https://loc.cc</a></td>
+<td>域名爱好者的论坛</td>
+</tr>
+<tr>
+<td>阿里云网盘资源免费分享论坛</td>
+<td><a href="https://alifree.net/">https://alifree.net/</a></td>
+<td>阿里云网盘资源分享论坛</td>
+</tr>
+<tr>
+<td>云盘分享论坛</td>
+<td><a href="https://www.ypshare.com/">https://www.ypshare.com/</a></td>
+<td>资源分享论坛，推荐书籍区</td>
+</tr>
+<tr>
+<td>excelhome</td>
+<td><a href="https://club.excelhome.net/">https://club.excelhome.net/</a></td>
+<td>专业的Excel学习论坛</td>
+</tr>
+<tr>
+<td>萝卜头论坛</td>
+<td><a href="https://bbs.luobotou.org/">https://bbs.luobotou.org</a></td>
+<td>软件IT论坛</td>
+</tr>
+<tr>
+<td>吾爱知道</td>
+<td><a href="http://www.qkoufu.com/">http://www.qkoufu.com</a></td>
+<td>问答社区</td>
+</tr>
+<tr>
+<td>独目不成林</td>
+<td><a href="https://bbs.5mmm.top/">https://bbs.5mmm.top</a></td>
+<td>考研课程类论坛</td>
+</tr>
+<tr>
+<td>批处理之家</td>
+<td><a href="http://www.bathome.net/">http://www.bathome.net</a></td>
+<td>BAT及power shell技术讨论</td>
+</tr>
+<tr>
+<td>G2怀旧论坛</td>
+<td><a href="https://www.g2hj.com/">https://www.g2hj.com</a></td>
+<td>影视资源论坛</td>
+</tr>
+<tr>
+<td>网盘分享吧</td>
+<td><a href="https://www.wpfx8.com/">https://www.wpfx8.com</a></td>
+<td>网盘资源论坛</td>
+</tr>
+<tr>
+<td>云中漫步</td>
+<td><a href="https://www.yunzmb.com/">https://www.yunzmb.com</a></td>
+<td>影视资源论坛</td>
+</tr>
+<tr>
+<td>慢慢游社区</td>
+<td><a href="https://www.mmybt.com/">https://www.mmybt.com</a></td>
+<td>影视资源论坛</td>
+</tr>
+<tr>
+<td>hd高清乐园</td>
+<td><a href="https://www.hdsay.net/">https://www.hdsay.net</a></td>
+<td>影视资源论坛</td>
+</tr>
+<tr>
+<td>hktvwind</td>
+<td><a href="http://www.hktvwind.com/">http://www.hktvwind.com</a></td>
+<td>影视资源论坛</td>
+</tr>
+<tr>
+<td>飘雪动漫社</td>
+<td><a href="https://www.deainx.me/">https://www.deainx.me</a></td>
+<td>动漫资源论坛</td>
+</tr>
+<tr>
+<td>艾特早教</td>
+<td><a href="http://www.at008.com/">http://www.at008.com</a></td>
+<td>儿童早教资源</td>
+</tr>
+<tr>
+<td>国配影迷社区</td>
+<td><a href="https://club.ccmnn.com/">https://club.ccmnn.com</a></td>
+<td>影视资源论坛</td>
+</tr>
+<tr>
+<td>优优MP4</td>
+<td><a href="https://www.uump4.net/">https://www.uump4.net</a></td>
+<td>影视资源论坛</td>
+</tr>
+<tr>
+<td>牛皮兔</td>
+<td><a href="http://www.niupitu.com/">http://www.niupitu.com</a></td>
+<td>影视资源论坛</td>
+</tr>
+<tr>
+<td>90云盘网</td>
+<td><a href="http://www.90yp.net/">http://www.90yp.net</a></td>
+<td>影视资源论坛</td>
+</tr>
+<tr>
+<td>星期八</td>
+<td><a href="https://www.xinqi8888.com/">https://www.xinqi8888.com</a></td>
+<td>一些资源论坛</td>
+</tr>
+<tr>
+<td>阿里盘友</td>
+<td><a href="https://www.alipanyou.com/">https://www.alipanyou.com</a></td>
+<td>以阿里云盘资源为主的论坛</td>
+</tr>
+<tr>
+<td>我的小站</td>
+<td><a href="https://pan666.net/">https://pan666.net</a></td>
+<td>以阿里云盘资源为主的论坛</td>
+</tr>
+<tr>
+<td>PS教程论坛</td>
+<td><a href="http://bbs.16xx8.com/">http://bbs.16xx8.com</a></td>
+<td>以PS教程为主</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>网站收录</category>
+      </categories>
+      <tags>
+        <tag>论坛社区</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>游戏资源收录</title>
     <url>/youxi.html</url>
     <content><![CDATA[<center>游戏资源收录</center>
@@ -13045,3190 +16229,6 @@
       </categories>
       <tags>
         <tag>游戏资源</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>源码类资源收录</title>
-    <url>/yuanma.html</url>
-    <content><![CDATA[<center>源码类资源收录</center>
-
-
-
-<table>
-<thead>
-<tr>
-<th>资源名称</th>
-<th align="center">链接地址</th>
-<th align="center">提取码</th>
-<th align="center">备注信息</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>恶搞小程序4合1</td>
-<td align="center"><a href="https://pan.baidu.com/s/1wHUkOD8bI7OWyH8VGq-b9A#0b31">https://pan.baidu.com/s/1wHUkOD8bI7OWyH8VGq-b9A#0b31</a></td>
-<td align="center">0b31</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>便携小空调源码</td>
-<td align="center"><a href="https://wwa.lanzoui.com/iE8ACp4malc">https://wwa.lanzoui.com/iE8ACp4malc</a></td>
-<td align="center">无</td>
-<td align="center">演示站<a href="http://kongtiao.qwqxk.cn/">http://kongtiao.qwqxk.cn</a></td>
-</tr>
-<tr>
-<td>表情包小程序完整版源码 后台API+前端</td>
-<td align="center"><a href="https://xiaogao.lanzoux.com/iMBo7oxn6of">https://xiaogao.lanzoux.com/iMBo7oxn6of</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>苏云技术导航源码附加后台</td>
-<td align="center"><a href="https://pan.baidu.com/s/1ESqCw7h2jrGDXx76SmuWjQ">https://pan.baidu.com/s/1ESqCw7h2jrGDXx76SmuWjQ</a></td>
-<td align="center">f8t3</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>狗屁不通文章生成器PHP版.</td>
-<td align="center"><a href="https://github.com/wqsacy/bullshit">https://github.com/wqsacy/bullshit</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>小霸王游戏机源码</td>
-<td align="center"><a href="https://kang.lanzoui.com/ixpUwpdeiid">https://kang.lanzoui.com/ixpUwpdeiid</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>91酷站PHP在线文字转语音合成源码</td>
-<td align="center"><a href="https://wwa.lanzoux.com/iewxdm0j8kj">https://wwa.lanzoux.com/iewxdm0j8kj</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>抖音互关源码 E4A源码含数据库</td>
-<td align="center"><a href="https://wwa.lanzoui.com/iacm0pe5r6h">https://wwa.lanzoui.com/iacm0pe5r6h</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>工商注册资质代办类网站源码</td>
-<td align="center"><a href="https://dpzyw.lanzoui.com/iNAAWp8no0f">https://dpzyw.lanzoui.com/iNAAWp8no0f</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>2021最新发卡网源码</td>
-<td align="center"><a href="https://dpzyw.lanzoui.com/iRbW3p9i7xc">https://dpzyw.lanzoui.com/iRbW3p9i7xc</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>asp.net快速开发框架(eFrameWork) v4.0.5</td>
-<td align="center"><a href="https://dpzyw.lanzoui.com/iVHo5p9v02h">https://dpzyw.lanzoui.com/iVHo5p9v02h</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>疫情防控-人员健康管理平台</td>
-<td align="center"><a href="https://github.com/2020NCOV/ncov-report">https://github.com/2020NCOV/ncov-report</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>疫情防控每日上报-小程序版本</td>
-<td align="center"><a href="https://github.com/2020NCOV/ncov-report-mini-program">https://github.com/2020NCOV/ncov-report-mini-program</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>营销号生成源码</td>
-<td align="center"><a href="https://www.lanzoui.com/iAEEfgmqc9a">https://www.lanzoui.com/iAEEfgmqc9a</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>摇杆红白机网页源码</td>
-<td align="center"><a href="https://07x.lanzoui.com/iIGgNphwjzi">https://07x.lanzoui.com/iIGgNphwjzi</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>网易云歌单下载源码</td>
-<td align="center"><a href="https://www.lanzoui.com/i8wbdze">https://www.lanzoui.com/i8wbdze</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>seo自动工具</td>
-<td align="center"><a href="https://tool.8kmm.com/tools/seoauto/">https://tool.8kmm.com/tools/seoauto/</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>王中王掌上游戏机网页源码</td>
-<td align="center"><a href="https://xiaogao.lanzoui.com/iKyzfptp68d">https://xiaogao.lanzoui.com/iKyzfptp68d</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>8090经典怀旧FC小霸王网页游戏机源码增强版</td>
-<td align="center"><a href="https://xiaogao.lanzoui.com/i6SSDpj1e8h">https://xiaogao.lanzoui.com/i6SSDpj1e8h</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td><a href="https://www.dnlt.cc/thread-19499-1-1.html">PHP短网址生成源码</a></td>
-<td align="center"><a href="https://www.lanzoux.com/i80lvhc">https://www.lanzoux.com/i80lvhc</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>新型冠状病毒肺炎疫情实时图PHP源码</td>
-<td align="center"><a href="https://pan.baidu.com/s/1VHV785cqOtRzeWfN_DE2pQ">https://pan.baidu.com/s/1VHV785cqOtRzeWfN_DE2pQ</a></td>
-<td align="center">f5f6</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>开源php短网址生成</td>
-<td align="center"><a href="https://github.com/xuhuai66/pt-dwz">https://github.com/xuhuai66/pt-dwz</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>copytranslator翻译器</td>
-<td align="center"><a href="https://github.com/CopyTranslator/CopyTranslator">https://github.com/CopyTranslator/CopyTranslator</a></td>
-<td align="center">无</td>
-<td align="center">主页<a href="https://copytranslator.gitee.io/">https://copytranslator.gitee.io/</a></td>
-</tr>
-<tr>
-<td>哔哩哔哩鬼畜好声音离线+弹幕</td>
-<td align="center"><a href="https://github.com/ldqk/kichiku.icu">https://github.com/ldqk/kichiku.icu</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>Windows 11 安装序列号 / 激活码</td>
-<td align="center">Windows 11 专业版序列号 / 密钥：VK7JG-NPHTM-C97JM-9MPGT-3V66T</td>
-<td align="center">Windows 11 家庭版序列号/ 密钥：YTMG3-N6DKC-DKB77-7M9GH-8HVX7</td>
-<td align="center">只可用于安装以及选择版本，并不能实现联网在线激活</td>
-</tr>
-<tr>
-<td>百度网盘在线解析</td>
-<td align="center"><a href="https://down.zerun.asia/">https://down.zerun.asia/</a></td>
-<td align="center">无</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td>电商类采集系统</td>
-<td align="center"><a href="https://github.com/qwqcode/Nacollector">https://github.com/qwqcode/Nacollector</a></td>
-<td align="center">无</td>
-<td align="center">淘宝、天猫、苏宁、国美 等电商平台数据采集… 一键邀请 一键打包 账号登录获取Cookie 任务多线程</td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>资源收录</category>
-      </categories>
-      <tags>
-        <tag>源码类资源</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>电子书籍搜索站点收录</title>
-    <url>/dbook.html</url>
-    <content><![CDATA[<table>
-<thead>
-<tr>
-<th>站点名称</th>
-<th align="center">链接地址</th>
-<th align="center">备注信息</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>IPFS星际分享社区</td>
-<td align="center"><a href="https://ebook2.lorefree.com/">https://ebook2.lorefree.com/</a></td>
-<td align="center">中国首个应用去中心化技术（IPFS）储存的数字图书共享系统</td>
-</tr>
-<tr>
-<td>静然书屋</td>
-<td align="center"><a href="https://books.andrewjr.workers.dev/0:/">https://books.andrewjr.workers.dev/0:/</a></td>
-<td align="center">点击右上角菜单可以搜索</td>
-</tr>
-<tr>
-<td>书格</td>
-<td align="center"><a href="https://new.shuge.org/">https://new.shuge.org/</a></td>
-<td align="center">书籍库</td>
-</tr>
-<tr>
-<td>影印古籍</td>
-<td align="center"><a href="https://sou-yun.cn/eBookIndex.aspx/">https://sou-yun.cn/eBookIndex.aspx/</a></td>
-<td align="center">古籍资料</td>
-</tr>
-<tr>
-<td>计算机电子书</td>
-<td align="center"><a href="http://www.xz577.com/">http://www.xz577.com/</a></td>
-<td align="center">编程类电子书</td>
-</tr>
-<tr>
-<td>PDF之家</td>
-<td align="center"><a href="http://pdfzj.cn/">http://pdfzj.cn/</a></td>
-<td align="center">PDF下载</td>
-</tr>
-<tr>
-<td>好读</td>
-<td align="center"><a href="http://www.haodoo.net/">http://www.haodoo.net/</a></td>
-<td align="center">电子书下载</td>
-</tr>
-<tr>
-<td>itbook</td>
-<td align="center"><a href="https://itbook.download/">https://itbook.download/</a></td>
-<td align="center">电子书下载</td>
-</tr>
-<tr>
-<td>书问</td>
-<td align="center"><a href="https://www.bookask.com/">https://www.bookask.com/</a></td>
-<td align="center">书籍搜索</td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>网站收录</category>
-      </categories>
-      <tags>
-        <tag>电子书籍搜索站</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>科学上网</title>
-    <url>/vpn.html</url>
-    <content><![CDATA[<center>有关科学上网</center>
-
-<center>更新及维护请查看维护文档</center>
-
-<center>Clash 客户端 https://github.com/Fndroid/clash_for_windows_pkg/releases</center>
-
-<center>Clash Android 客户端
-https://github.com/Kr328/ClashForAndroid/releases
-</center>
-
-<center>Clash 汉化
-https://github.com/BoyceLig/Clash_Chinese_Patch/releases
-</center>
-
-<center>Qv2ray Windows/MacOS客户端
-https://github.com/Qv2ray/Qv2ray/releases</center>
-
-<center>v2rayN Windows客户端
-https://github.com/2dust/v2rayN/releases
-</center>
-
-<center>V2rayU MacOS 客户端
-https://github.com/yanue/V2rayU/releases
-</center>
-
-<center>V2rayU Android 客户端
-https://github.com/2dust/v2rayNG/releases</center>
-
-<center>ClashDotNetFramework
-https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/v1.0.4</center>
-
-
-
-
-
-<table>
-<thead>
-<tr>
-<th>订阅平台</th>
-<th align="center">地址链接</th>
-<th align="center">备注信息</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>自己搭建</td>
-<td align="center"><a href="https://github.com/zu1k/proxypool">https://github.com/zu1k/proxypool</a></td>
-<td align="center">节点池搭建</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://www.233660.xyz/">https://www.233660.xyz/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://sspool.nl/">https://sspool.nl/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://free.dswang.ga/">https://free.dswang.ga/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://fq.lonxin.net/">https://fq.lonxin.net/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://hm2019721.ml/">https://hm2019721.ml</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://github.com/skywolf627/VmessActions">https://github.com/skywolf627/VmessActions</a></td>
-<td align="center">通过GitHub的actions 自动采集节点 生成订阅信息</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://proxies.bihai.cf/">https://proxies.bihai.cf/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="http://emby.luoml.eu.org/">http://emby.luoml.eu.org/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://etproxypool.ga/">https://etproxypool.ga/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://free.kingfu.cf/">https://free.kingfu.cf/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://free886.herokuapp.com/">https://free886.herokuapp.com/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://fu.stgod.com/">https://fu.stgod.com/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://hello.stgod.com/">https://hello.stgod.com/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://hm2019721.ml/">https://hm2019721.ml/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://outseen.tk/">https://outseen.tk/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://proxy.51798.xyz/">https://proxy.51798.xyz/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://proxypool-guest997.herokuapp.com/">https://proxypool-guest997.herokuapp.com/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://proxypool.fly.dev/">https://proxypool.fly.dev/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://ss.dswang.ga:8443/">https://ss.dswang.ga:8443/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://sspool.herokuapp.com/">https://sspool.herokuapp.com/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://www.linbaoz.com/">https://www.linbaoz.com/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://zz.guicloud.xyz/">https://zz.guicloud.xyz/</a></td>
-<td align="center">节点池</td>
-</tr>
-<tr>
-<td>Clash</td>
-<td align="center"><a href="https://github.com/skywolf627/VmessActions/raw/main/clash.yml">https://github.com/skywolf627/VmessActions/raw/main/clash.yml</a></td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>Clash</td>
-<td align="center"><a href="https://subcon.dlj.tf/sub?target=clashr&amp;new_name=true&amp;url=https://raw.fastgit.org/freefq/free/master/v2&amp;insert=false&amp;config=https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini">https://subcon.dlj.tf/sub?target=clashr&amp;new_name=true&amp;url=https%3A%2F%2Fraw.fastgit.org%2Ffreefq%2Ffree%2Fmaster%2Fv2&amp;insert=false&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini</a></td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>Clash</td>
-<td align="center"><a href="https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml">https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml</a></td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>ssr</td>
-<td align="center"><a href="https://raw.fastgit.org/freefq/free/master/ssr">https://raw.fastgit.org/freefq/free/master/ssr</a></td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>v2ray</td>
-<td align="center"><a href="https://raw.fastgit.org/freefq/free/master/v2">https://raw.fastgit.org/freefq/free/master/v2</a></td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>Clash</td>
-<td align="center"><a href="https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml">https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml</a></td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>Clash</td>
-<td align="center"><a href="https://proxypoolv2.tk/clash/config">https://proxypoolv2.tk/clash/config</a></td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>Clash</td>
-<td align="center"><a href="https://raw.githubusercontent.com/rcy1314/docsify/master/0507AM.yaml">https://raw.githubusercontent.com/rcy1314/docsify/master/0507AM.yaml</a></td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>免费节点汇总</td>
-<td align="center"><a href="https://zgq-inc.github.io/overthefirewall/">https://zgq-inc.github.io/overthefirewall/</a></td>
-<td align="center">客户端及订阅信息汇总</td>
-</tr>
-<tr>
-<td>Clash</td>
-<td align="center"><a href="https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/free01.yml">https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/free01.yml</a></td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>Clash</td>
-<td align="center"><a href="https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/free02.yml">https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/free02.yml</a></td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>Clash</td>
-<td align="center"><a href="https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/free03.yml">https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/free03.yml</a></td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>Clash</td>
-<td align="center"><a href="https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/free04.yml">https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/free04.yml</a></td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>Clash</td>
-<td align="center">[<a href="https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--%20Iran-Direct%202.yml]">https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--%20Iran-Direct%202.yml]</a>(<a href="https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--">https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--</a> Iran-Direct 2.yml)</td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>Clash</td>
-<td align="center">[<a href="https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--Iran-Direct%201.yml]">https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--Iran-Direct%201.yml]</a>(<a href="https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--Iran-Direct">https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--Iran-Direct</a> 1.yml)</td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>Clash</td>
-<td align="center"><a href="https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml">https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml</a></td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>v2ray</td>
-<td align="center"><a href="https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt">https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt</a></td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>Clash</td>
-<td align="center"><a href="https://raw.githubusercontent.com/huaxinCLUB/NodeSpider/master/newYaml/mattkaydiary.yaml">https://raw.githubusercontent.com/huaxinCLUB/NodeSpider/master/newYaml/mattkaydiary.yaml</a></td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>Clash</td>
-<td align="center"><a href="https://raw.githubusercontent.com/huaxinCLUB/NodeSpider/master/newYaml/newestWB.yaml">https://raw.githubusercontent.com/huaxinCLUB/NodeSpider/master/newYaml/newestWB.yaml</a></td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>Clash</td>
-<td align="center"><a href="https://raw.githubusercontent.com/huaxinCLUB/NodeSpider/master/newYaml/newestYT.yaml">https://raw.githubusercontent.com/huaxinCLUB/NodeSpider/master/newYaml/newestYT.yaml</a></td>
-<td align="center">订阅地址</td>
-</tr>
-<tr>
-<td>Clash</td>
-<td align="center"><a href="https://raw.githubusercontent.com/oosooa/123/main/clash">https://raw.githubusercontent.com/oosooa/123/main/clash</a></td>
-<td align="center">订阅地址</td>
-</tr>
-</tbody></table>
-<table>
-<thead>
-<tr>
-<th align="center">节点订阅转换</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center"><a href="https://sub.tsutsu.cc/">https://sub.tsutsu.cc/</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://id9.cc/">https://id9.cc</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://sub.tsutsu.cc/">https://sub.tsutsu.cc</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://sub.weleven11.com/">https://sub.weleven11.com</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://www.con8.tk/">https://www.con8.tk/</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://sub.bihai.ml/">https://sub.bihai.ml/</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/clash.yml">如：   https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/clash.yml</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://sub.mcwy.cloud/">https://sub.mcwy.cloud/</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://bianyuan.xyz/">https://bianyuan.xyz/</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://acl4ssr-sub.github.io/">https://acl4ssr-sub.github.io/</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://subcon.dlj.tf/">https://subcon.dlj.tf/</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://subconv.ml/">https://subconv.ml/</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://sub.v1.mk/">https://sub.v1.mk/</a></td>
-</tr>
-</tbody></table>
-<table>
-<thead>
-<tr>
-<th align="center">付费机场推荐</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">大机场（最便宜，需代理登陆）<a href="https://大机场.com/">https://xn--mesr8b36x.com/</a></td>
-</tr>
-<tr>
-<td align="center">天航（价格适中）<a href="https://大机场.com/">https://xn--mesr8b36x.com/</a></td>
-</tr>
-<tr>
-<td align="center">潜艇（比较便宜）<a href="https://qianting666.com/auth/register?code=S0wn">https://qianting666.com/auth/register?code=S0wn</a></td>
-</tr>
-<tr>
-<td align="center">BITEB：<a href="https://biteb.me/">https://biteb.me</a> 便宜机场，有TG频道</td>
-</tr>
-<tr>
-<td align="center">流媒体（价格适中）https://流媒体.net/#/login</td>
-</tr>
-<tr>
-<td align="center">walless:<a href="https://portal.wallless.xyz/">https://portal.wallless.xyz</a></td>
-</tr>
-<tr>
-<td align="center">羊圈（价格贵但稳）<a href="https://www.mielink.com/index">https://www.mielink.com/index</a></td>
-</tr>
-<tr>
-<td align="center">50G/月：<a href="https://fly.xxl123.fun/#/register?code=oKtFmrcX">https://fly.xxl123.fun/#/register?code=oKtFmrcX</a></td>
-</tr>
-<tr>
-<td align="center">23.33G/233天：<a href="https://v2.bujidao.org/auth/register?code=P5th">https://v2.bujidao.org/auth/register?code=P5th</a></td>
-</tr>
-<tr>
-<td align="center">Element lite:<a href="https://lite.yuansu.app/">https://lite.yuansu.app</a>(30元月付不限流量，30元季付每月200G，88元永久）</td>
-</tr>
-<tr>
-<td align="center">闪电：<a href="https://sdyun.cc/auth/register?code=mK4u">https://sdyun.cc/auth/register?code=mK4u</a>  注册送10G，价格较便宜</td>
-</tr>
-</tbody></table>
-<table>
-<thead>
-<tr>
-<th align="center">节点订阅地址推荐</th>
-<th align="center"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">节点仓库</td>
-<td align="center"><a href="https://github.com/JACKUSR2089/v2ray-subscribed">https://github.com/JACKUSR2089/v2ray-subscribed</a></td>
-</tr>
-<tr>
-<td align="center">节点仓库</td>
-<td align="center"><a href="https://github.com/clashconfig/online">https://github.com/clashconfig/online</a></td>
-</tr>
-<tr>
-<td align="center">节点仓库</td>
-<td align="center"><a href="https://github.com/fly0426/fj">https://github.com/fly0426/fj</a></td>
-</tr>
-<tr>
-<td align="center">节点仓库</td>
-<td align="center"><a href="https://github.com/zyzmzyz/free-nodes">自由之梦</a></td>
-</tr>
-<tr>
-<td align="center">节点仓库</td>
-<td align="center"><a href="https://github.com/colatiger/v2ray-nodes">https://github.com/colatiger/v2ray-nodes</a></td>
-</tr>
-<tr>
-<td align="center">节点仓库</td>
-<td align="center"><a href="https://github.com/adiwzx/freenode">https://github.com/adiwzx/freenode</a></td>
-</tr>
-<tr>
-<td align="center">节点仓库</td>
-<td align="center"><a href="https://github.com/freefq/free">https://github.com/freefq/free</a></td>
-</tr>
-<tr>
-<td align="center">节点仓库</td>
-<td align="center"><a href="https://github.com/skywolf627/VmessActions">https://github.com/skywolf627/VmessActions</a></td>
-</tr>
-<tr>
-<td align="center">节点仓库</td>
-<td align="center"><a href="https://github.com/bujilangren/cangku/">不良人</a></td>
-</tr>
-<tr>
-<td align="center">节点仓库</td>
-<td align="center"><a href="https://github.com/huaxinCLUB/NodeSpider">huaxinCLU/NodeSpider</a></td>
-</tr>
-<tr>
-<td align="center">节点仓库</td>
-<td align="center"><a href="https://github.com/pojiezhiyuanjun/freev2">pojiezhiyuanjun/freev2</a></td>
-</tr>
-</tbody></table>
-<table>
-<thead>
-<tr>
-<th align="center">订阅平台</th>
-<th align="center">地址链接</th>
-<th align="center">备注信息</th>
-<th align="left"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">V2ray+winXray订阅</td>
-<td align="center"><a href="http://1.15.119.250:8888/down/2PGF5R1oAbpY">http://1.15.119.250:8888/down/2PGF5R1oAbpY</a></td>
-<td align="center"></td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="center">Clash</td>
-<td align="center"><a href="https://suo.yt/54A36Nq">https://suo.yt/54A36Nq</a></td>
-<td align="center"><a href="https://pub-api-1.bianyuan.xyz/sub?target=clash&amp;url=http://1.15.119.250:8888/down/2PGF5R1oAbpY&amp;insert=false">https://pub-api-1.bianyuan.xyz/sub?target=clash&amp;url=http%3A%2F%2F1.15.119.250%3A8888%2Fdown%2F2PGF5R1oAbpY&amp;insert=false</a></td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="center">Clash</td>
-<td align="center"><a href="https://drive.google.com/uc?export=download&amp;id=1Of4PaIcodbXTd9kEFu-bjPfG0NbcivPC">https://drive.google.com/uc?export=download&amp;id=1Of4PaIcodbXTd9kEFu-bjPfG0NbcivPC</a></td>
-<td align="center"></td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="center">V2ray/Shadowrocket/Quantumult X</td>
-<td align="center"><a href="https://drive.google.com/uc?export=download&amp;id=1LGV3ejuVDOrNcNYX6aJg9EgbnRXkcmTY">https://drive.google.com/uc?export=download&amp;id=1LGV3ejuVDOrNcNYX6aJg9EgbnRXkcmTY</a></td>
-<td align="center"></td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="center">V2ray</td>
-<td align="center"><a href="https://doc-08-54-docs.googleusercontent.com/docs/securesc/es99khpm7t8jmshjme18574s59hmd9b4/sful8v2a1m3uaie3plmffktdl3ft48k8/1627998450000/10188016012886987221/04891143713698803728/1K9dXRYbZgIze69SNxF9XbO80nuVsSgOz?e=download&amp;authuser=0">https://doc-08-54-docs.googleusercontent.com/docs/securesc/es99khpm7t8jmshjme18574s59hmd9b4/sful8v2a1m3uaie3plmffktdl3ft48k8/1627998450000/10188016012886987221/04891143713698803728/1K9dXRYbZgIze69SNxF9XbO80nuVsSgOz?e=download&amp;authuser=0</a></td>
-<td align="center"></td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="center">Clash</td>
-<td align="center"><a href="https://doc-0c-54-docs.googleusercontent.com/docs/securesc/es99khpm7t8jmshjme18574s59hmd9b4/4v3o4nkhsnjnpsnun5jtig7994b23kob/1627998450000/10188016012886987221/04891143713698803728/1DMCWuRUrZWYiUXgf19W_VkzETML-EDyg?e=download&amp;authuser=0">https://doc-0c-54-docs.googleusercontent.com/docs/securesc/es99khpm7t8jmshjme18574s59hmd9b4/4v3o4nkhsnjnpsnun5jtig7994b23kob/1627998450000/10188016012886987221/04891143713698803728/1DMCWuRUrZWYiUXgf19W_VkzETML-EDyg?e=download&amp;authuser=0</a></td>
-<td align="center"></td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="center">Clash</td>
-<td align="center"><a href="https://drive.google.com/uc?export=download&amp;id=1iMqtCNeiTUNDohlab11KuoUaIZbrSLtD">https://drive.google.com/uc?export=download&amp;id=1iMqtCNeiTUNDohlab11KuoUaIZbrSLtD</a></td>
-<td align="center"></td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="center">V2ray</td>
-<td align="center"><a href="https://drive.google.com/uc?export=download&amp;id=1Q3poPrAspYVhrgBxWN-s_W8IPUSzW7_E">https://drive.google.com/uc?export=download&amp;id=1Q3poPrAspYVhrgBxWN-s_W8IPUSzW7_E</a></td>
-<td align="center"></td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="center">V2ray/Shadowrocket/Quantumult X</td>
-<td align="center"><a href="https://drive.google.com/uc?export=download&amp;id=1Wy4HCD4aPH91MR75XwRqDXc9QyUDjGA0">https://drive.google.com/uc?export=download&amp;id=1Wy4HCD4aPH91MR75XwRqDXc9QyUDjGA0</a></td>
-<td align="center"></td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="center">Clash</td>
-<td align="center"><a href="https://drive.google.com/uc?export=download&amp;id=1xOAlRzD9v1FA3cWorsg84wvZQ3Wrtafi">https://drive.google.com/uc?export=download&amp;id=1xOAlRzD9v1FA3cWorsg84wvZQ3Wrtafi</a></td>
-<td align="center"></td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="center">Trojan/VLESS+TCP+XTLS/VMESS+WS+TLS</td>
-<td align="center"><a href="https://panel-transit-azure-f4s-hk.speedtestcustom.tk/">https://panel-transit-azure-f4s-hk.speedtestcustom.tk/</a></td>
-<td align="center"></td>
-<td align="left">公益中转</td>
-</tr>
-<tr>
-<td align="center">博客</td>
-<td align="center"><a href="https://www.mattkaydiary.com/">https://www.mattkaydiary.com/</a></td>
-<td align="center">每天更新免费节点</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="center">CLASH</td>
-<td align="center"><a href="https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0824clash.yml">https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0824clash.yml</a></td>
-<td align="center"></td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="center">CLASH</td>
-<td align="center"><a href="https://subcon.dlj.tf/sub?target=clash&amp;new_name=true&amp;url=vmess://eyJhZGQiOiI2Ny4yMS42OS4yMTgiLCJhaWQiOiI2NCIsImhvc3QiOiJ3d3cuMzUyOTUyOTEueHl6IiwiaWQiOiI2NzFmZTU2Zi1jMWUxLTRlM2UtOTFmZi05MWRkNTc2N2ZmMGYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2Zvb3RlcnMiLCJwb3J0Ijo0NDMsInBzIjo0OTQsInRscyI6InRscyIsInR5cGUiOiJkdGxzIiwidiI6IjIifQ==&amp;insert=false&amp;config=https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini">https://subcon.dlj.tf/sub?target=clash&amp;new_name=true&amp;url=vmess%3A%2F%2FeyJhZGQiOiI2Ny4yMS42OS4yMTgiLCJhaWQiOiI2NCIsImhvc3QiOiJ3d3cuMzUyOTUyOTEueHl6IiwiaWQiOiI2NzFmZTU2Zi1jMWUxLTRlM2UtOTFmZi05MWRkNTc2N2ZmMGYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2Zvb3RlcnMiLCJwb3J0Ijo0NDMsInBzIjo0OTQsInRscyI6InRscyIsInR5cGUiOiJkdGxzIiwidiI6IjIifQ%3D%3D&amp;insert=false&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini</a></td>
-<td align="center"></td>
-<td align="left"></td>
-</tr>
-</tbody></table>
-<table>
-<thead>
-<tr>
-<th align="center">一键脚本系列</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">一键bbr加速脚本</td>
-</tr>
-<tr>
-<td align="center">bash &lt;(curl -s -L <a href="https://git.io/jin-bbr">https://git.io/jin-bbr</a>)</td>
-</tr>
-<tr>
-<td align="center">一键安装ss脚本</td>
-</tr>
-<tr>
-<td align="center">bash &lt;(curl -s -L <a href="https://git.io/jin-ss">https://git.io/jin-ss</a>)</td>
-</tr>
-<tr>
-<td align="center">一键安装ssR脚本</td>
-</tr>
-<tr>
-<td align="center">bash &lt;(curl -s -L <a href="https://git.io/jin-ssR">https://git.io/jin-ssR</a>)</td>
-</tr>
-<tr>
-<td align="center">一键安装brook脚本</td>
-</tr>
-<tr>
-<td align="center">bash &lt;(curl -s -L <a href="https://git.io/jin-brook">https://git.io/jin-brook</a>)</td>
-</tr>
-<tr>
-<td align="center">一键安装v2ray脚本</td>
-</tr>
-<tr>
-<td align="center">bash &lt;(curl -s -L <a href="https://git.io/jin-v2ray">https://git.io/jin-v2ray</a>)</td>
-</tr>
-<tr>
-<td align="center">一键安装wireguard脚本</td>
-</tr>
-<tr>
-<td align="center">bash &lt;(curl -s -L <a href="https://git.io/jin-wireguard">https://git.io/jin-wireguard</a>)</td>
-</tr>
-<tr>
-<td align="center">一键安装wireguard脚本(Ubuntu 16.04)/可视化web</td>
-</tr>
-<tr>
-<td align="center">bash &lt;(curl -s -L <a href="https://git.io/jin-wireguard_web">https://git.io/jin-wireguard_web</a>)</td>
-</tr>
-<tr>
-<td align="center">一键安装v2ray sprov-ui脚本</td>
-</tr>
-<tr>
-<td align="center">bash &lt;(curl -s -L <a href="https://git.io/sprov-ui">https://git.io/sprov-ui</a>)</td>
-</tr>
-<tr>
-<td align="center">一键安装wireguard脚本(Ubuntu 18.04更高)/可视化web</td>
-</tr>
-<tr>
-<td align="center">bash &lt;(curl -s -L <a href="https://raw.githubusercontent.com/Aiyuanjiang/oxmo/jin/subspace_install.sh">https://raw.githubusercontent.com/Aiyuanjiang/oxmo/jin/subspace_install.sh</a>)</td>
-</tr>
-<tr>
-<td align="center">一键安装V2ray+cdn</td>
-</tr>
-<tr>
-<td align="center">wget -N –no-check-certificate -q -O install.sh “<a href="https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh&quot;">https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh&quot;</a> &amp;&amp; chmod +x install.sh &amp;&amp; bash install.sh</td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>分享安利</category>
-      </categories>
-      <tags>
-        <tag>科学上网</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>脚本类资源收录</title>
-    <url>/jiaoben.html</url>
-    <content><![CDATA[<center>脚本类资源收录</center>
-
-
-
-<table>
-<thead>
-<tr>
-<th>资源名称</th>
-<th align="left">链接地址</th>
-<th>获取途径</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>蓝墨云班课作业互评自动评满分</td>
-<td align="left"><a href="https://bbs.tampermonkey.net.cn/thread-465-1-1.html">https://bbs.tampermonkey.net.cn/thread-465-1-1.html</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>绕过限制搜索查看百度网盘资源</td>
-<td align="left"><a href="null">https://greasyfork.org/zh-CN/scripts/412173-绕过限制搜索查看百度网盘资源</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>超星学习通网课助手(考试专版)</td>
-<td align="left"><a href="null">https://greasyfork.org/zh-CN/scripts/418354-超星学习通网课助手-考试专版</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>超级视频助手：哔哩哔哩解锁大会员</td>
-<td align="left"><a href="null">https://greasyfork.org/zh-CN/scripts/418804-超级视频助手-哔哩哔哩解锁大会员-b站视频解析下载-a站视频解析下载-爱奇艺-腾讯-优酷-芒果等全网vip视频免费看破解去广告-免跳直接看-youtube-facebook等视频解析下载</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>百度网盘秒传链接</td>
-<td align="left"><a href="null">https://greasyfork.org/zh-CN/scripts/424574-秒传链接提取</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>ZFDev-百度网盘文件树视图</td>
-<td align="left"><a href="null">https://greasyfork.org/zh-CN/scripts/374408-zfdev-百度网盘文件树视图</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>动漫花园下载助手</td>
-<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/383159-dmhy-download-helper">https://greasyfork.org/zh-CN/scripts/383159-dmhy-download-helper</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>Github 增强 - 高速下载</td>
-<td align="left"><a href="null">https://greasyfork.org/zh-CN/scripts/412245-github-增强-高速下载</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>阿里云盘秒传</td>
-<td align="left"><a href="https://bbs.tampermonkey.net.cn/thread-427-1-1.html">https://bbs.tampermonkey.net.cn/thread-427-1-1.html</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>自动填写企业微信的疫情上报脚本</td>
-<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/397342-%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E7%9A%84%E7%96%AB%E6%83%85%E4%B8%8A%E6%8A%A5%E8%84%9A%E6%9C%AC">https://greasyfork.org/zh-CN/scripts/397342-自动填写企业微信的疫情上报脚本</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>hitsz 疫情打卡</td>
-<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/423018-hitsz-%E7%96%AB%E6%83%85%E6%89%93%E5%8D%A1">https://greasyfork.org/zh-CN/scripts/423018-hitsz-疫情打卡</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>突破天翼云下载限制脚本</td>
-<td align="left"><a href="https://github.com/oneNorth7/Cloud189_popper">https://github.com/oneNorth7/Cloud189_popper</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>douyin-autojs</td>
-<td align="left"><a href="https://github.com/unlimitbladeworks/douyin-autojs">https://github.com/unlimitbladeworks/douyin-autojs</a></td>
-<td>autojs</td>
-</tr>
-<tr>
-<td>知乎修改器</td>
-<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/423404-%E7%9F%A5%E4%B9%8E%E6%A0%B7%E5%BC%8F%E4%BF%AE%E6%94%B9%E5%99%A8">https://greasyfork.org/zh-CN/scripts/423404-知乎样式修改器</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>all-search 全搜</td>
-<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/397993-all-search-%E5%85%A8%E6%90%9C-%E4%B8%80%E4%B8%AA%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BF%AB%E6%8D%B7%E8%B7%B3%E8%BD%AC%E8%8F%9C%E5%8D%95-%E6%94%AF%E6%8C%81%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2%E8%87%AA%E5%AE%9A%E4%B9%89">https://greasyfork.org/zh-CN/scripts/397993-all-search-%E5%85%A8%E6%90%9C-%E4%B8%80%E4%B8%AA%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BF%AB%E6%8D%B7%E8%B7%B3%E8%BD%AC%E8%8F%9C%E5%8D%95-%E6%94%AF%E6%8C%81%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2%E8%87%AA%E5%AE%9A%E4%B9%89</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>高校考试网自动答题</td>
-<td align="left"><a href="https://bbs.tampermonkey.net.cn/thread-607-1-1.html">https://bbs.tampermonkey.net.cn/thread-607-1-1.html</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>去除各搜索引擎/常用网站的重定向</td>
-<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/11915-anti-redirect">https://greasyfork.org/zh-CN/scripts/11915-anti-redirect</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>谷粒-Chrome插件英雄榜</td>
-<td align="left"><a href="https://github.com/zhaoolee/ChromeAppHeroes">https://github.com/zhaoolee/ChromeAppHeroes</a></td>
-<td>谷歌插件</td>
-</tr>
-<tr>
-<td>链接助手</td>
-<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/422773-%E9%93%BE%E6%8E%A5%E5%8A%A9%E6%89%8B">https://greasyfork.org/zh-CN/scripts/422773-%E9%93%BE%E6%8E%A5%E5%8A%A9%E6%89%8B</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>Instagram 下载器</td>
-<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/406535-instagram-download-button">https://greasyfork.org/zh-CN/scripts/406535-instagram-download-button</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>豆瓣资源下载大师</td>
-<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/329484-%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD">https://greasyfork.org/zh-CN/scripts/329484-%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>Userscript+ 油猴脚本推荐</td>
-<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs">https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>【电脑 &amp; 手机 】VIP会员视频自动解析</td>
-<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/413063-%E7%94%B5%E8%84%91-%E6%89%8B%E6%9C%BA-%E5%85%A8%E7%BD%91%E5%94%AF%E4%B8%80%E5%85%A8%E8%87%AA%E5%8A%A8%E8%84%9A%E6%9C%AC-vip%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E8%87%AA%E5%8A%A8%E8%A7%A3%E6%9E%90">https://greasyfork.org/zh-CN/scripts/413063-%E7%94%B5%E8%84%91-%E6%89%8B%E6%9C%BA-%E5%85%A8%E7%BD%91%E5%94%AF%E4%B8%80%E5%85%A8%E8%87%AA%E5%8A%A8%E8%84%9A%E6%9C%AC-vip%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E8%87%AA%E5%8A%A8%E8%A7%A3%E6%9E%90</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>百度网盘下载助手</td>
-<td align="left"><a href="https://greasyfork.org/zh-CN/scripts/418182-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%AE%80%E6%98%93%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B-%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%A4%8D%E6%B4%BB%E7%89%88">https://greasyfork.org/zh-CN/scripts/418182-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%AE%80%E6%98%93%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B-%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%A4%8D%E6%B4%BB%E7%89%88</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>bilibili视频下载</td>
-<td align="left"><a href="https://github.com.cnpmjs.org/injahow/bilibili-parse/raw/master/tools/bilibili-parse-download.user.js">https://github.com.cnpmjs.org/injahow/bilibili-parse/raw/master/tools/bilibili-parse-download.user.js</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>115转存优化版</td>
-<td align="left"><a href="https://gist.github.com/Nerver4Ever/953447c9ecd330ffc0861d4cbb839369/raw/5fa16752a370725fc45da182f462e74843875500/115%E8%BD%AC%E5%AD%98%E5%8A%A9%E6%89%8Bui%E4%BC%98%E5%8C%96%E7%89%88.user.js">https://gist.github.com/Nerver4Ever/953447c9ecd330ffc0861d4cbb839369/raw/5fa16752a370725fc45da182f462e74843875500/115%25E8%25BD%25AC%25E5%25AD%2598%25E5%258A%25A9%25E6%2589%258Bui%25E4%25BC%2598%25E5%258C%2596%25E7%2589%2588.user.js</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>ScriptCat脚本猫</td>
-<td align="left"><a href="https://scriptcat.org/">https://scriptcat.org/</a></td>
-<td>脚本大全</td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>资源收录</category>
-      </categories>
-      <tags>
-        <tag>脚本类资源</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>自建云盘挂载站精选</title>
-    <url>/yunpanzhan.html</url>
-    <content><![CDATA[<center>自建云盘挂载站精选</center>
-
-<table>
-<thead>
-<tr>
-<th>自建云盘挂载站精选</th>
-<th align="center"></th>
-<th align="center"></th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>站点名称</td>
-<td align="center">链接地址</td>
-<td align="center">密码</td>
-<td>备注信息（有无失效）</td>
-</tr>
-<tr>
-<td>4s云盘</td>
-<td align="center"><a href="https://file.ssss.fun/">https://file.ssss.fun/</a></td>
-<td align="center">无</td>
-<td>挂载的微软盘</td>
-</tr>
-<tr>
-<td>从零开始动漫分享站</td>
-<td align="center"><a href="https://m.cloud.189.cn/u/330783715">https://m.cloud.189.cn/u/330783715</a></td>
-<td align="center">无</td>
-<td>需要登录天翼云</td>
-</tr>
-<tr>
-<td>阿虚同学的储物间</td>
-<td align="center"><a href="https://axutongxue.com/">https://axutongxue.com/</a></td>
-<td align="center">无</td>
-<td>使用的为教育网盘，最低100一年</td>
-</tr>
-<tr>
-<td>FXXKMAKEDING</td>
-<td align="center"><a href="https://node4.mkdmirror.workers.dev/0:/">https://node4.mkdmirror.workers.dev/0:/</a></td>
-<td align="center"></td>
-<td>各类软件汇总</td>
-</tr>
-<tr>
-<td>时光新科技</td>
-<td align="center"><a href="https://pan.x-wan.top/">https://pan.x-wan.top/</a></td>
-<td align="center"></td>
-<td>软路由大全</td>
-</tr>
-<tr>
-<td>资源汇社区的资源库</td>
-<td align="center"><a href="http://ziyuanhuishequ.ys168.com/">http://ziyuanhuishequ.ys168.com/</a></td>
-<td align="center">qunyoufuli</td>
-<td>各类教程资源</td>
-</tr>
-<tr>
-<td>姿势网盘</td>
-<td align="center"><a href="https://cloud.zsxwz.com/#/onedrive">https://cloud.zsxwz.com/#/onedrive</a></td>
-<td align="center">无</td>
-<td>挂载的onedrive</td>
-</tr>
-<tr>
-<td>IDM分享吧</td>
-<td align="center"><a href="http://idman.ys168.com/">http://idman.ys168.com/</a></td>
-<td align="center">无</td>
-<td></td>
-</tr>
-<tr>
-<td>电影收集合集</td>
-<td align="center"><a href="https://cloud.189.cn/web/share?code=u6zaIvZRrEB3">https://cloud.189.cn/web/share?code=u6zaIvZRrEB3</a></td>
-<td align="center">无</td>
-<td>天翼云盘</td>
-</tr>
-<tr>
-<td>小7素材</td>
-<td align="center"><a href="http://zymf.ys168.com/">http://zymf.ys168.com/</a></td>
-<td align="center">无</td>
-<td>教育网盘推广公众号</td>
-</tr>
-<tr>
-<td>考公资料｜资料搬运工</td>
-<td align="center"><a href="https://www.kotan.cn/posts/e742576d.html">https://www.kotan.cn/posts/e742576d.html</a></td>
-<td align="center">无</td>
-<td>百度网盘</td>
-</tr>
-<tr>
-<td>Cosersets（coser图集）</td>
-<td align="center"><a href="https://www.cosersets.com/1/main">https://www.cosersets.com/1/main</a></td>
-<td align="center">无</td>
-<td>挂载云盘（可下载图集）</td>
-</tr>
-<tr>
-<td>文武科技柜</td>
-<td align="center"><a href="https://pan.wangdu.site/">https://pan.wangdu.site/</a></td>
-<td align="center">无</td>
-<td>百度网盘</td>
-</tr>
-<tr>
-<td>2022考研资料分享</td>
-<td align="center"><a href="https://www.yuque.com/qjl988/kyzl">https://www.yuque.com/qjl988/kyzl</a></td>
-<td align="center">无</td>
-<td>百度网盘</td>
-</tr>
-<tr>
-<td>Noise资源盘</td>
-<td align="center"><a href="https://noiseyp.top/">https://noiseyp.top</a></td>
-<td align="center">无</td>
-<td>25Tonedrive盘</td>
-</tr>
-</tbody></table>
-<table>
-<thead>
-<tr>
-<th>挂载云盘程序</th>
-<th align="center"></th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>名称</td>
-<td align="center">链接</td>
-<td>备注</td>
-</tr>
-<tr>
-<td>ZPAN</td>
-<td align="center"><a href="https://saltbo.cn/zpan/">https://saltbo.cn/zpan/</a></td>
-<td>搭建文档</td>
-</tr>
-<tr>
-<td>zfile</td>
-<td align="center"><a href="http://docs.zhaojun.im/zfile/#/">http://docs.zhaojun.im/zfile/#/</a></td>
-<td>搭建文档</td>
-</tr>
-<tr>
-<td>Justlist</td>
-<td align="center"><a href="https://github.com/txperl/JustList">https://github.com/txperl/JustList</a></td>
-<td>开源地址</td>
-</tr>
-<tr>
-<td>alist</td>
-<td align="center"><a href="https://github.com/Xhofe/alist">https://github.com/Xhofe/alist</a></td>
-<td>开源地址</td>
-</tr>
-<tr>
-<td>Ashare</td>
-<td align="center"><a href="https://github.com/badyun/AShare">https://github.com/badyun/AShare</a></td>
-<td>开源地址</td>
-</tr>
-<tr>
-<td>Panlndex</td>
-<td align="center"><a href="https://github.com/libsgh/PanIndex">https://github.com/libsgh/PanIndex</a></td>
-<td>开源地址</td>
-</tr>
-<tr>
-<td>teambitionshare</td>
-<td align="center"><a href="https://github.com/BlueHtml/TeambitionShare.Net">https://github.com/BlueHtml/TeambitionShare.Net</a></td>
-<td>开源地址</td>
-</tr>
-<tr>
-<td>阿里云盘cli</td>
-<td align="center"><a href="https://github.com/wxy1343/aliyunpan">https://github.com/wxy1343/aliyunpan</a></td>
-<td>开源地址</td>
-</tr>
-<tr>
-<td>MultiDrive</td>
-<td align="center"><a href="https://github.com/aiguoli/MultiDrive">https://github.com/aiguoli/MultiDrive</a></td>
-<td>开源地址</td>
-</tr>
-<tr>
-<td>panlist</td>
-<td align="center"><a href="https://www.sitstars.com/archives/104/">https://www.sitstars.com/archives/104/</a></td>
-<td>搭建文档</td>
-</tr>
-<tr>
-<td>Andex</td>
-<td align="center"><a href="https://github.com/Ericwyn/Andex">https://github.com/Ericwyn/Andex</a></td>
-<td>开源地址</td>
-</tr>
-<tr>
-<td>JmalCloud</td>
-<td align="center"><a href="https://github.com/jamebal/jmal-cloud-view">https://github.com/jamebal/jmal-cloud-view</a></td>
-<td>开源地址</td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>网站收录</category>
-      </categories>
-      <tags>
-        <tag>云盘挂载站</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>蓝奏云盘、软件站点汇总</title>
-    <url>/lanzou.html</url>
-    <content><![CDATA[<table>
-<thead>
-<tr>
-<th>云盘、软件汇总站点</th>
-<th align="center"></th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>站点名称</td>
-<td align="center">链接地址</td>
-<td>密码</td>
-<td>备注信息（有无失效）</td>
-</tr>
-<tr>
-<td>黑客学习资料</td>
-<td align="center"><a href="https://www.lanzoui.com/b0ce8pmpc">https://www.lanzoui.com/b0ce8pmpc</a></td>
-<td>无</td>
-<td>PDF文件</td>
-</tr>
-<tr>
-<td>SOSO工具箱</td>
-<td align="center"><a href="https://sosotools.lanzoui.com/b015bjrji">https://sosotools.lanzoui.com/b015bjrji</a></td>
-<td>C90W</td>
-<td>办公表格工具</td>
-</tr>
-<tr>
-<td>北巷软件库</td>
-<td align="center"><a href="https://www.lanzoui.com/b325470">https://www.lanzoui.com/b325470</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>人工精选软件推荐</td>
-<td align="center"><a href="https://lanzoui.com/b756387">https://lanzoui.com/b756387</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>电脑软件</td>
-<td align="center"><a href="https://app.lanzoui.com/s/wp">https://app.lanzoui.com/s/wp</a></td>
-<td>无</td>
-<td>压缩文件</td>
-</tr>
-<tr>
-<td>果心豆腐酱</td>
-<td align="center"><a href="https://police.lanzoui.com/b015kfsoj">https://police.lanzoui.com/b015kfsoj</a></td>
-<td>无</td>
-<td>电脑软件抖音解析</td>
-</tr>
-<tr>
-<td>合集区</td>
-<td align="center"><a href="https://lanzoui.com/b908456">https://lanzoui.com/b908456</a></td>
-<td>无</td>
-<td>手机电脑软件汇总</td>
-</tr>
-<tr>
-<td>yoyodadada</td>
-<td align="center"><a href="https://yoyodadada.lanzoui.com/u/yoyodadada#6h71">https://yoyodadada.lanzoui.com/u/yoyodadada#6h71</a></td>
-<td>无</td>
-<td>手机电脑软件汇总</td>
-</tr>
-<tr>
-<td>B站多视频解析器</td>
-<td align="center"><a href="https://sqtb.lanzoui.com/b015c0ksh">https://sqtb.lanzoui.com/b015c0ksh</a></td>
-<td>无</td>
-<td>就一个软件，官方更新同步站</td>
-</tr>
-<tr>
-<td>无作为分享</td>
-<td align="center"><a href="https://lanzoui.com/u/wuzuowei">https://lanzoui.com/u/wuzuowei</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>精品资料电子书行业报告</td>
-<td align="center"><a href="https://wwx.lanzoux.com/b0cdvkdfa">https://wwx.lanzoux.com/b0cdvkdfa</a></td>
-<td>无</td>
-<td>一些资料</td>
-</tr>
-<tr>
-<td>公众号：黑科技玩机（实时更新）</td>
-<td align="center"><a href="https://www.lanzoui.com/b281858">https://www.lanzoui.com/b281858</a></td>
-<td>无</td>
-<td>手机电脑软件汇总</td>
-</tr>
-<tr>
-<td>比特工具</td>
-<td align="center"><a href="https://bitdock.lanzoui.com/b01592vva">https://bitdock.lanzoui.com/b01592vva</a></td>
-<td>无</td>
-<td>就一个软件，官方更新同步站</td>
-</tr>
-<tr>
-<td>建站源码</td>
-<td align="center"><a href="https://www.lanzoui.com/s/jz666">https://www.lanzoui.com/s/jz666</a></td>
-<td>无</td>
-<td>建站源码</td>
-</tr>
-<tr>
-<td>KinhDownUpdateData</td>
-<td align="center"><a href="https://lanzoui.com/s/KinhDown">https://lanzoui.com/s/KinhDown</a></td>
-<td>无</td>
-<td>KinhDown</td>
-</tr>
-<tr>
-<td>小白种草</td>
-<td align="center"><a href="https://lanzoui.com/b587435">https://lanzoui.com/b587435</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>Typecho插件</td>
-<td align="center"><a href="https://lanzoui.com/b967760">https://lanzoui.com/b967760</a></td>
-<td>无</td>
-<td>Typecho插件</td>
-</tr>
-<tr>
-<td>软件库软件游戏合集</td>
-<td align="center"><a href="https://lanzoui.com/u/rjk">https://lanzoui.com/u/rjk</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>软件合集</td>
-<td align="center"><a href="https://www.lanzoui.com/b098unlvi">https://www.lanzoui.com/b098unlvi</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>嗨分享软件合集</td>
-<td align="center"><a href="https://www.lanzoui.com/u/%E6%8B%BD%E6%8B%BD">https://www.lanzoui.com/u/%E6%8B%BD%E6%8B%BD</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>小轩VIP软件合集</td>
-<td align="center"><a href="https://www.lanzoui.com/b76826">https://www.lanzoui.com/b76826</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>软件合集</td>
-<td align="center"><a href="https://www.lanzoui.com/b098unlvi">https://www.lanzoui.com/b098unlvi</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>晓张软件大全破解合集</td>
-<td align="center"><a href="https://www.lanzoui.com/b368370">https://www.lanzoui.com/b368370</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>『BhVip』软件更新合集</td>
-<td align="center"><a href="https://www.lanzoui.com/u/%E5%BD%AA%E7%85%8CQQ1846055318">https://www.lanzoui.com/u/%E5%BD%AA%E7%85%8CQQ1846055318</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>搜题学习健身类软件合集</td>
-<td align="center"><a href="https://www.lanzoui.com/b0ejszlmf">https://www.lanzoui.com/b0ejszlmf</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>合集区</td>
-<td align="center"><a href="https://www.lanzoui.com/b908456">https://www.lanzoui.com/b908456</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>牛牛软件合集</td>
-<td align="center"><a href="https://www.lanzoui.com/u/36277009">https://www.lanzoui.com/u/36277009</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>小鹏软件合集</td>
-<td align="center"><a href="https://www.lanzoui.com/u/xiaopengi">https://www.lanzoui.com/u/xiaopengi</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>A分享-全网软件合集</td>
-<td align="center"><a href="https://www.lanzoui.com/b205552">https://www.lanzoui.com/b205552</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>软件分享合集</td>
-<td align="center"><a href="https://www.lanzoui.com/b00z6rhzg?t=0802">https://www.lanzoui.com/b00z6rhzg?t=0802</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>线报坊软件合集</td>
-<td align="center"><a href="https://www.lanzoui.com/b60364#987456">https://www.lanzoui.com/b60364#987456</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>破解游戏集合</td>
-<td align="center"><a href="https://www.lanzoui.com/b897234">https://www.lanzoui.com/b897234</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>精品软件</td>
-<td align="center"><a href="https://www.lanzoui.com/b069snbxg">https://www.lanzoui.com/b069snbxg</a></td>
-<td>无</td>
-<td>手机电脑软件汇总</td>
-</tr>
-<tr>
-<td>软件库直播软件大全</td>
-<td align="center"><a href="https://www.lanzoui.com/b05f641g#">https://www.lanzoui.com/b05f641g#</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>秋颜软件库</td>
-<td align="center"><a href="https://www.lanzoui.com/b341705">https://www.lanzoui.com/b341705</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>新世界软件合集</td>
-<td align="center"><a href="https://www.lanzoui.com/u/adminqizhu">https://www.lanzoui.com/u/adminqizhu</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>兜兜线报软件阁</td>
-<td align="center"><a href="https://www.lanzoui.com/b133841">https://www.lanzoui.com/b133841</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>牛牛软件合集</td>
-<td align="center"><a href="https://www.lanzoui.com/u/36277009">https://www.lanzoui.com/u/36277009</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>软件园旗下软件共享</td>
-<td align="center"><a href="https://www.lanzoui.com/u/anxin666">https://www.lanzoui.com/u/anxin666</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>霖淘购软件共享</td>
-<td align="center"><a href="https://www.lanzoui.com/b252370">https://www.lanzoui.com/b252370</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>小说漫画</td>
-<td align="center"><a href="https://www.lanzoui.com/b00taevfa">https://www.lanzoui.com/b00taevfa</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>破解版软件合集</td>
-<td align="center"><a href="https://lanzoui.com/b00f5v42d">https://lanzoui.com/b00f5v42d</a></td>
-<td>无</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>破解软件合集</td>
-<td align="center"><a href="https://zdjb.lanzoui.com/b010hxrdc">https://zdjb.lanzoui.com/b010hxrdc</a></td>
-<td>4pjc</td>
-<td>APK</td>
-</tr>
-<tr>
-<td>手机电脑破解软件</td>
-<td align="center"><a href="https://dazhong.lanzoui.com/b0ee9ctaj">https://dazhong.lanzoui.com/b0ee9ctaj</a></td>
-<td>无</td>
-<td>安卓手机 电脑软件</td>
-</tr>
-<tr>
-<td>安卓和少量电脑软件</td>
-<td align="center"><a href="https://zdjb.lanzoui.com/b00zmt4ne">https://zdjb.lanzoui.com/b00zmt4ne</a></td>
-<td>无</td>
-<td>APK 少量exe</td>
-</tr>
-<tr>
-<td>go破解全站app大全</td>
-<td align="center"><a href="https://gopojie.lanzoui.com/b00z78rib">https://gopojie.lanzoui.com/b00z78rib </a></td>
-<td>apaf</td>
-<td>go破解全站app大全</td>
-</tr>
-<tr>
-<td>公众号：BIM补给站</td>
-<td align="center"><a href="https://bimbjz.lanzoux.com/s/BJZ">https://bimbjz.lanzoux.com/s/BJZ</a></td>
-<td>无</td>
-<td>各类软件，win，苹果，安卓</td>
-</tr>
-<tr>
-<td>youtube 博主的</td>
-<td align="center"><a href="https://wny.lanzoui.com/b016pdopa">https://wny.lanzoui.com/b016pdopa</a></td>
-<td>4rxw</td>
-<td>手机电脑软件汇总</td>
-</tr>
-<tr>
-<td>百度/阿里/115 网盘秒传链接生成工具</td>
-<td align="center"><a href="https://asdqp.lanzoui.com/b08slkeli#h5wv">https://asdqp.lanzoui.com/b08slkeli#h5wv</a></td>
-<td>h5wv</td>
-<td></td>
-</tr>
-<tr>
-<td>安卓破解修改包整合</td>
-<td align="center"><a href="https://noise.lanzoui.com/b00ow5xpa">https://noise.lanzoui.com/b00ow5xpa</a></td>
-<td>密码:35go</td>
-<td></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>网站收录</category>
-      </categories>
-      <tags>
-        <tag>蓝奏云盘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>视频下载站收录</title>
-    <url>/videodown.html</url>
-    <content><![CDATA[<table>
-<thead>
-<tr>
-<th align="center">视频在线下载类目站推荐表</th>
-<th align="center"></th>
-<th align="center"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">站点名称</td>
-<td align="center">链接地址</td>
-<td align="center">备注信息</td>
-</tr>
-<tr>
-<td align="center">人人电影网</td>
-<td align="center"><a href="https://www.rrdyw.cc/">https://www.rrdyw.cc</a></td>
-<td align="center">提供百度盘、UC等途径下载</td>
-</tr>
-<tr>
-<td align="center">simplecd百度网盘搜索</td>
-<td align="center"><a href="http://www.simplecd.cc/">http://www.simplecd.cc/</a></td>
-<td align="center">BT下载站，可复制豆瓣ID IMDB等方式搜索下载</td>
-</tr>
-<tr>
-<td align="center">66网盘电影</td>
-<td align="center"><a href="https://www.6a6z.com/">https://www.6a6z.com/</a></td>
-<td align="center">提供百度云盘影视下载</td>
-</tr>
-<tr>
-<td align="center">变TUBE</td>
-<td align="center"><a href="https://www.biantube.com/">https://www.biantube.com/</a></td>
-<td align="center">自带youtube视频解析，把视频链接里的youtube改成biantube可免翻墙观看Youtube</td>
-</tr>
-<tr>
-<td align="center">youtube下载器</td>
-<td align="center"><a href="https://yt1s.com/zh-cn12">https://yt1s.com/zh-cn12</a></td>
-<td align="center">在线youtube解析下载</td>
-</tr>
-<tr>
-<td align="center">Yout</td>
-<td align="center"><a href="https://yout.com/">https://yout.com/</a></td>
-<td align="center">在线youtube解析下载</td>
-</tr>
-<tr>
-<td align="center">seedhub</td>
-<td align="center"><a href="http://seedhub.info/">http://seedhub.info</a></td>
-<td align="center">动漫影视种子下载站，支持4K种子</td>
-</tr>
-<tr>
-<td align="center">Savied</td>
-<td align="center"><a href="https://savieo.com/zh/">https://savieo.com/zh/</a></td>
-<td align="center">国外视频解析，在线youtube解析下载</td>
-</tr>
-<tr>
-<td align="center">唧唧</td>
-<td align="center"><a href="https://www.jijidown.com/">https://www.jijidown.com/</a></td>
-<td align="center">B站视频解析下载，可在线可软件</td>
-</tr>
-<tr>
-<td align="center">视频下载微博党</td>
-<td align="center"><a href="http://weibodang.cn/">http://weibodang.cn/</a></td>
-<td align="center">视频解析，在线视频解析下载</td>
-</tr>
-<tr>
-<td align="center">superparse</td>
-<td align="center"><a href="https://superparse.com/">https://superparse.com/</a></td>
-<td align="center">国外视频解析，在线youtube解析下载</td>
-</tr>
-<tr>
-<td align="center">savefrome</td>
-<td align="center"><a href="https://en.savefrom.net/25/">https://en.savefrom.net/25/</a></td>
-<td align="center">国外视频解析，在线youtube解析下载</td>
-</tr>
-<tr>
-<td align="center">工具箱</td>
-<td align="center"><a href="http://www.toolnb.com/tools/ins.html?no_https">http://www.toolnb.com/tools/ins.html?no_https</a></td>
-<td align="center">ins解析下载</td>
-</tr>
-<tr>
-<td align="center">reddit</td>
-<td align="center"><a href="https://www.reddit.tube/">https://www.reddit.tube/</a></td>
-<td align="center">国外视频解析</td>
-</tr>
-<tr>
-<td align="center">ouo工具</td>
-<td align="center"><a href="https://ouotool.com/dy">https://ouotool.com/dy</a></td>
-<td align="center">抖音在线去水印下载</td>
-</tr>
-<tr>
-<td align="center">fdown</td>
-<td align="center"><a href="https://www.fdown.net/index.php">https://www.fdown.net/index.php</a></td>
-<td align="center">国外视频解析,facebook下载</td>
-</tr>
-<tr>
-<td align="center">贝贝解析</td>
-<td align="center"><a href="https://xbeibeix.com/api/bilibili/">https://xbeibeix.com/api/bilibili/</a></td>
-<td align="center">B站视频解析下载，可在线可软件</td>
-</tr>
-<tr>
-<td align="center">小蜜蜂工具人</td>
-<td align="center"><a href="https://www.guoxingjun.com/">https://www.guoxingjun.com/</a></td>
-<td align="center">各类视频解析下载工具网页版</td>
-</tr>
-<tr>
-<td align="center">9itube</td>
-<td align="center"><a href="https://www.9itube.com/">https://www.9itube.com/</a></td>
-<td align="center">国外视频解析，在线youtube解析下载</td>
-</tr>
-<tr>
-<td align="center">DHTclub</td>
-<td align="center"><a href="https://www.dhtclub.com/">https://www.dhtclub.com/</a></td>
-<td align="center">完全免费的BT影视下载站</td>
-</tr>
-<tr>
-<td align="center">9xbuddy</td>
-<td align="center"><a href="https://9xbuddy.in/zh">https://9xbuddy.in/zh</a></td>
-<td align="center">限制级下载</td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>网站收录</category>
-      </categories>
-      <tags>
-        <tag>视频下载</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>论坛社区汇总收录</title>
-    <url>/luntan.html</url>
-    <content><![CDATA[<table>
-<thead>
-<tr>
-<th>八神智能天下</th>
-<th><a href="http://zntx.cc/">http://zntx.cc/</a></th>
-<th>一个破解软件（游戏）的社区，注册不需要邀请码</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>独立开发者社区</td>
-<td><a href="https://w2solo.com/">https://w2solo.com/</a></td>
-<td>独立开发者社区</td>
-</tr>
-<tr>
-<td>吾爱破解论坛</td>
-<td><a href="https://www.52pojie.cn/">https://www.52pojie.cn</a></td>
-<td>老牌的站点,很强</td>
-</tr>
-<tr>
-<td>瑞客论坛</td>
-<td><a href="https://www.ruike1.com/">https://www.ruike1.com/</a></td>
-<td>综合类</td>
-</tr>
-<tr>
-<td>天下网吧论坛</td>
-<td><a href="https://bbs.txwb.com/">https://bbs.txwb.com/</a></td>
-<td>无盘技术</td>
-</tr>
-<tr>
-<td>外网论坛</td>
-<td><a href="https://www.tvsbook.com/forums/android-tv-app.3/">https://www.tvsbook.com/forums/android-tv-app.3/</a></td>
-<td>Android电视应用程序</td>
-</tr>
-<tr>
-<td>盘乐网</td>
-<td><a href="https://www.panle.net/">https://www.panle.net/</a></td>
-<td>百度资源论坛</td>
-</tr>
-<tr>
-<td>智能电视论坛</td>
-<td><a href="https://www.znds.com/">https://www.znds.com/</a></td>
-<td>智能电视</td>
-</tr>
-<tr>
-<td>全球主机交流</td>
-<td><a href="https://hostloc.com/">https://hostloc.com/</a></td>
-<td>服务器等综合类</td>
-</tr>
-<tr>
-<td>恩山无线论坛</td>
-<td><a href="https://www.right.com.cn/forum/">https://www.right.com.cn/forum/</a></td>
-<td>软路由</td>
-</tr>
-<tr>
-<td>爱快考论坛</td>
-<td><a href="http://aikuaikao.com/">http://aikuaikao.com/</a></td>
-<td>考试学习资料</td>
-</tr>
-<tr>
-<td>乐伊分享</td>
-<td><a href="https://www.dyroy.com/">https://www.dyroy.com/</a></td>
-<td>百度云资料</td>
-</tr>
-<tr>
-<td>CG分享网</td>
-<td><a href="https://www.cgfxw.com/">https://www.cgfxw.com/</a></td>
-<td>CG类资源</td>
-</tr>
-<tr>
-<td>大牛论坛</td>
-<td><a href="https://www.dnlt.cc/">https://www.dnlt.cc</a></td>
-<td>综合类技术论坛</td>
-</tr>
-<tr>
-<td>高清MP4粉（影视交流论坛）</td>
-<td><a href="http://www.mp4fan.org/">www.MP4FAN.org</a></td>
-<td>无</td>
-</tr>
-<tr>
-<td>AliYunpanso</td>
-<td><a href="http://aliyunpanso.cn:88/">http://aliyunpanso.cn:88/</a></td>
-<td>阿里云资源</td>
-</tr>
-<tr>
-<td>云盘资源分享</td>
-<td><a href="https://www.yunpan123.com/">https://www.yunpan123.com</a></td>
-<td>阿里云资源</td>
-</tr>
-<tr>
-<td>云盘资源分享</td>
-<td><a href="https://oook.xyz/">https://oook.xyz/</a></td>
-<td>阿里云资源</td>
-</tr>
-<tr>
-<td>秋无痕论坛</td>
-<td><a href="http://bbs.realqwh.cn/">http://bbs.realqwh.cn/</a></td>
-<td>综合类影视论坛</td>
-</tr>
-<tr>
-<td>精锐网络安全</td>
-<td><a href="http://bbs.anrlm.com:8888/">http://bbs.anrlm.com:8888/</a></td>
-<td>网络安全类论坛</td>
-</tr>
-<tr>
-<td>卡饭论坛</td>
-<td><a href="https://bbs.kafan.cn/">https://bbs.kafan.cn/</a></td>
-<td>杀毒软件</td>
-</tr>
-<tr>
-<td>DMZ社区</td>
-<td><a href="http://www.dmzshequ.com/">http://www.dmzshequ.com/</a></td>
-<td>it类资源论坛</td>
-</tr>
-<tr>
-<td>我爱分享论坛</td>
-<td><a href="https://bbs.52iss.com/">https://bbs.52iss.com</a></td>
-<td>综合类技术论坛</td>
-</tr>
-<tr>
-<td>FLY社区</td>
-<td><a href="http://www.0xy.cn/">http://www.0xy.cn/</a></td>
-<td>综合类技术论坛</td>
-</tr>
-<tr>
-<td>无忧启动论坛</td>
-<td><a href="http://wuyou.net/forum.php">http://wuyou.net/forum.php</a></td>
-<td>装机封装类综合</td>
-</tr>
-<tr>
-<td>流星社区</td>
-<td><a href="http://bbs.liuxingw.com/">http://bbs.liuxingw.com/</a></td>
-<td>安卓类综合门户</td>
-</tr>
-<tr>
-<td>油猴中文网</td>
-<td><a href="https://bbs.tampermonkey.net.cn/">https://bbs.tampermonkey.net.cn/</a></td>
-<td>油猴脚本</td>
-</tr>
-<tr>
-<td>万维论坛</td>
-<td><a href="https://www.rom100.com/">https://www.rom100.com/</a></td>
-<td>手机刷机固件大全</td>
-</tr>
-<tr>
-<td>醉里挑原创</td>
-<td><a href="http://www.9000xp.com/">http://www.9000xp.com/</a></td>
-<td>文学类综合论坛</td>
-</tr>
-<tr>
-<td>百度网盘论坛</td>
-<td><a href="http://www.baoshu8.com/">http://www.baoshu8.com/</a></td>
-<td>百度类资源社区</td>
-</tr>
-<tr>
-<td>有氧周末</td>
-<td><a href="http://zhoumovip.cn/">http://zhoumovip.cn/</a></td>
-<td>摄影类资源论坛</td>
-</tr>
-<tr>
-<td>摄设论坛</td>
-<td><a href="https://sszylt.com/forum.php">https://sszylt.com/forum.php</a></td>
-<td>摄影资源论坛</td>
-</tr>
-<tr>
-<td>百步塔</td>
-<td><a href="https://www.baibuta.com/">https://www.baibuta.com/</a></td>
-<td>考试类资源社区</td>
-</tr>
-<tr>
-<td>geekhub</td>
-<td><a href="https://www.geekhub.com/">https://www.geekhub.com/</a></td>
-<td>极客玩家社区</td>
-</tr>
-<tr>
-<td>小镜头大世界</td>
-<td><a href="https://www.xjtdsj.com/">https://www.xjtdsj.com/</a></td>
-<td>摄影类资源论坛</td>
-</tr>
-<tr>
-<td>答疑啦</td>
-<td><a href="https://www.dayila.net/">https://www.dayila.net/</a></td>
-<td>考试类资源社区</td>
-</tr>
-<tr>
-<td>精易社区</td>
-<td><a href="https://bbs.125.la/">https://bbs.125.la/</a></td>
-<td>易语言资源社区</td>
-</tr>
-<tr>
-<td>不错吧源码论坛</td>
-<td><a href="http://bbs.bcb5.com/">http://bbs.bcb5.com/</a></td>
-<td>源码论坛</td>
-</tr>
-<tr>
-<td>BT种子论坛</td>
-<td><a href="https://pt.btschool.club/torrents.php">https://pt.btschool.club/torrents.php</a></td>
-<td>BT种子资源</td>
-</tr>
-<tr>
-<td>姿势论坛</td>
-<td><a href="https://bbs.zsxwz.com/">https://bbs.zsxwz.com/</a></td>
-<td>姿势小王子</td>
-</tr>
-<tr>
-<td>飞天资源论坛</td>
-<td><a href="https://feitianwu7.com/forum.php">https://feitianwu7.com/forum.php</a></td>
-<td>PS论坛</td>
-</tr>
-<tr>
-<td>资源号</td>
-<td><a href="http://www.ziyuanhao.com/index.php">http://www.ziyuanhao.com/index.php</a></td>
-<td>影视资源为主</td>
-</tr>
-<tr>
-<td>电鸭社区</td>
-<td><a href="https://eleduck.com/">https://eleduck.com/</a></td>
-<td>远程工作者的家园</td>
-</tr>
-<tr>
-<td>虎扑社区</td>
-<td><a href="https://bbs.hupu.com/">https://bbs.hupu.com/</a></td>
-<td>NBA体坛</td>
-</tr>
-<tr>
-<td>虫部落</td>
-<td><a href="https://www.chongbuluo.com/">https://www.chongbuluo.com/</a></td>
-<td>综合类收录社区</td>
-</tr>
-<tr>
-<td>黑客派</td>
-<td><a href="https://ld246.com/">https://ld246.com/</a></td>
-<td>从小众走向大众的技术社区</td>
-</tr>
-<tr>
-<td>CSDN</td>
-<td><a href="https://www.csdn.net/">https://www.csdn.net/</a></td>
-<td>专业开发者社区</td>
-</tr>
-<tr>
-<td>V2EX</td>
-<td><a href="https://www.v2ex.com/">https://www.v2ex.com/</a></td>
-<td>专业开发者社区</td>
-</tr>
-<tr>
-<td>北大未名BBS</td>
-<td><a href="https://bbs.pku.edu.cn/">https://bbs.pku.edu.cn</a></td>
-<td>北京大学校园论坛</td>
-</tr>
-<tr>
-<td>豆瓣小组</td>
-<td><a href="https://www.douban.com/group/explore">https://www.douban.com/group/explore</a></td>
-<td>豆瓣官方社区</td>
-</tr>
-<tr>
-<td>老司机</td>
-<td><a href="https://www.laosiji.com/">https://www.laosiji.com/</a></td>
-<td>汽车人的社区网站</td>
-</tr>
-<tr>
-<td>先知社区</td>
-<td><a href="https://xz.aliyun.com/">https://xz.aliyun.com/</a></td>
-<td>网络安全类论坛</td>
-</tr>
-<tr>
-<td>ZOL论坛</td>
-<td><a href="https://bbs.zol.com.cn/">https://bbs.zol.com.cn/</a></td>
-<td>中关村在线论坛</td>
-</tr>
-<tr>
-<td>chiphell</td>
-<td><a href="https://www.chiphell.com/forum.php">https://www.chiphell.com/forum.php</a></td>
-<td>电脑类分享社区</td>
-</tr>
-<tr>
-<td>51CTO论坛</td>
-<td><a href="https://bbs.51cto.com/">https://bbs.51cto.com/</a></td>
-<td>51CTO技术论坛</td>
-</tr>
-<tr>
-<td>我爱卡</td>
-<td><a href="https://bbs.51credit.com/">https://bbs.51credit.com/</a></td>
-<td>信用卡类社区</td>
-</tr>
-<tr>
-<td>人民强国论坛</td>
-<td><a href="http://bbs1.people.com.cn/board/1.html">http://bbs1.people.com.cn/board/1.html</a></td>
-<td>强国论坛</td>
-</tr>
-<tr>
-<td>失业者联盟</td>
-<td><a href="http://losergogogo.com/">http://losergogogo.com/</a></td>
-<td>职场人和职场故事</td>
-</tr>
-<tr>
-<td>1024只猴子</td>
-<td><a href="https://1024.com/">https://1024.com/</a></td>
-<td>专业开发者码农社区</td>
-</tr>
-<tr>
-<td>Ruby China</td>
-<td><a href="https://ruby-china.org/">https://ruby-china.org/</a></td>
-<td>专业开发者码农社区</td>
-</tr>
-<tr>
-<td>Emacs China</td>
-<td><a href="https://emacs-china.org/">https://emacs-china.org</a></td>
-<td>开发者技术类论坛</td>
-</tr>
-<tr>
-<td>CocoaChina</td>
-<td><a href="https://emacs-china.org/">https://emacs-china.org</a></td>
-<td>开发者技术类论坛</td>
-</tr>
-<tr>
-<td>AMZ123</td>
-<td><a href="https://www.amz123.com/forum-8.htm">https://www.amz123.com/forum-8.htm</a></td>
-<td>亚马逊跨境交流</td>
-</tr>
-<tr>
-<td>派代网</td>
-<td><a href="https://www.paidai.com/">https://www.paidai.com/</a></td>
-<td>电商类社区</td>
-</tr>
-<tr>
-<td>交易者联盟</td>
-<td><a href="http://jiaoyizhe.com/">http://jiaoyizhe.com/</a></td>
-<td>老牌社区</td>
-</tr>
-<tr>
-<td>开源中国</td>
-<td><a href="https://www.oschina.net/">https://www.oschina.net/</a></td>
-<td>专业开发者码农社区</td>
-</tr>
-<tr>
-<td>超级玩家社区</td>
-<td><a href="https://bbs.sgamer.com/">https://bbs.sgamer.com/</a></td>
-<td>游戏社区</td>
-</tr>
-<tr>
-<td>幕布精选社区</td>
-<td><a href="https://mubu.com/explore">https://mubu.com/explore</a></td>
-<td>知识分享交流</td>
-</tr>
-<tr>
-<td>乐愚社区</td>
-<td><a href="https://bbs.leyuz.net/">https://bbs.leyuz.net/</a></td>
-<td>综合类交流论坛</td>
-</tr>
-<tr>
-<td>小木虫</td>
-<td><a href="http://muchong.com/bbs/">http://muchong.com/bbs/</a></td>
-<td>综合类交流论坛</td>
-</tr>
-<tr>
-<td>AIQ</td>
-<td><a href="https://www.6aiq.com/">https://www.6aiq.com/</a></td>
-<td>人工智能技术社区</td>
-</tr>
-<tr>
-<td>穷游论坛</td>
-<td><a href="https://bbs.qyer.com/">https://bbs.qyer.com/</a></td>
-<td>穷游者的论坛</td>
-</tr>
-<tr>
-<td>看雪论坛</td>
-<td><a href="https://www.kanxue.com/">https://www.kanxue.com/</a></td>
-<td>技术交流论坛</td>
-</tr>
-<tr>
-<td>牛客网讨论区</td>
-<td><a href="https://www.nowcoder.com/discuss">https://www.nowcoder.com/discuss</a></td>
-<td>求职者交流</td>
-</tr>
-<tr>
-<td>segmentFault思否</td>
-<td><a href="https://segmentfault.com/">https://segmentfault.com/</a></td>
-<td>综合类交流论坛</td>
-</tr>
-<tr>
-<td>资源大享</td>
-<td><a href="https://www.vipsrc.com/">https://www.vipsrc.com/</a></td>
-<td>软件源码类论坛</td>
-</tr>
-<tr>
-<td>南+ South Plus</td>
-<td><a href="https://www.spring-plus.net/">https://www.spring-plus.net/</a></td>
-<td>老司机交流</td>
-</tr>
-<tr>
-<td>阿里小站</td>
-<td><a href="https://pan.yuankongjian.com/">https://pan.yuankongjian.com/</a></td>
-<td>阿里云盘资源共享论坛</td>
-</tr>
-<tr>
-<td>天翼小站</td>
-<td><a href="https://yun.hei521.cn/">https://yun.hei521.cn/</a></td>
-<td>天翼及阿里云盘资源</td>
-</tr>
-<tr>
-<td>点拨论坛</td>
-<td><a href="https://www.dianbo.org/">https://www.dianbo.org/</a></td>
-<td>视频、光盘、技术类老牌</td>
-</tr>
-<tr>
-<td>医学资料吧</td>
-<td><a href="https://www.yxzlb.com/">https://www.yxzlb.com/</a></td>
-<td>医学类论坛</td>
-</tr>
-<tr>
-<td>医学论坛网</td>
-<td><a href="http://www.cmt.com.cn/">http://www.cmt.com.cn/</a></td>
-<td>医学类论坛</td>
-</tr>
-<tr>
-<td>deepfacelap中文论坛</td>
-<td><a href="https://dfldata.xyz/forum.php">https://dfldata.xyz/forum.php</a></td>
-<td>学习deepfacelap的最佳站点</td>
-</tr>
-<tr>
-<td>KubeSphere 开源社区</td>
-<td><a href="https://kubesphere.com.cn/forum/">https://kubesphere.com.cn/forum/</a></td>
-<td>专业开发者码农社区</td>
-</tr>
-<tr>
-<td>色影无忌论坛</td>
-<td><a href="https://forum.xitek.com/">https://forum.xitek.com/</a></td>
-<td>摄影类资源论坛</td>
-</tr>
-<tr>
-<td>hassbian</td>
-<td><a href="https://bbs.hassbian.com/">https://bbs.hassbian.com</a></td>
-<td>智能家居技术论坛</td>
-</tr>
-<tr>
-<td>爱好论坛</td>
-<td><a href="https://www.aihao.cc/">https://www.aihao.cc/</a></td>
-<td>WIN系统密匙不断更</td>
-</tr>
-<tr>
-<td>51testing论坛</td>
-<td><a href="http://bbs.51testing.com/forum.php">http://bbs.51testing.com/forum.php</a></td>
-<td>专业软件测试论坛</td>
-</tr>
-<tr>
-<td>ubuntu论坛</td>
-<td><a href="https://forum.ubuntu.org.cn/">https://forum.ubuntu.org.cn/</a></td>
-<td>ubuntu系统的一切</td>
-</tr>
-<tr>
-<td>吉他中国论坛</td>
-<td><a href="https://bbs.guitarchina.com/">https://bbs.guitarchina.com/</a></td>
-<td>吉他中国论坛</td>
-</tr>
-<tr>
-<td>北极星电力论坛</td>
-<td><a href="http://www.bjxbbs.com.cn/forum.php">http://www.bjxbbs.com.cn/forum.php</a></td>
-<td>电气电网技术</td>
-</tr>
-<tr>
-<td>野火论坛</td>
-<td><a href="https://firebbs.cn/">https://firebbs.cn/</a></td>
-<td>STM32开发资料</td>
-</tr>
-<tr>
-<td>一牛网论坛</td>
-<td><a href="https://bbs.16rd.com/">https://bbs.16rd.com/</a></td>
-<td>综合技术芯片类论坛</td>
-</tr>
-<tr>
-<td>微软极客社区</td>
-<td><a href="https://bbs.pcbeta.com/">https://bbs.pcbeta.com/</a></td>
-<td>综合类系统OS技术社区</td>
-</tr>
-<tr>
-<td>自学IT吧</td>
-<td><a href="http://www.zxit8.com/">http://www.zxit8.com/</a></td>
-<td>IT技术交流论坛</td>
-</tr>
-<tr>
-<td>ITgood论坛</td>
-<td><a href="http://www.itgood.vip/forum.php">http://www.itgood.vip/forum.php</a></td>
-<td>IT技术交流论坛</td>
-</tr>
-<tr>
-<td>ITPUB论坛</td>
-<td><a href="http://www.itpub.net/forum-44-1.html">http://www.itpub.net/forum-44-1.html</a></td>
-<td>IT技术交流论坛</td>
-</tr>
-<tr>
-<td>xiuno开源程序交流论坛</td>
-<td><a href="https://xiunobbs.cn/">https://xiunobbs.cn/</a></td>
-<td>xiuno开源程序交流论坛</td>
-</tr>
-<tr>
-<td>云析IT论坛</td>
-<td><a href="https://yunqit.com/">https://yunqit.com/</a></td>
-<td>xiuno IT交流论坛</td>
-</tr>
-<tr>
-<td>NOTEWEB</td>
-<td><a href="https://www.noteweb.top/">https://www.noteweb.top/</a></td>
-<td>xiuno IT交流论坛</td>
-</tr>
-<tr>
-<td>自学编程吧</td>
-<td><a href="https://zxbc8.com/">https://zxbc8.com</a></td>
-<td>IT技术交流论坛</td>
-</tr>
-<tr>
-<td>真全栈程序员</td>
-<td><a href="https://www.fstcode.com/">https://www.fstcode.com/</a></td>
-<td>IT技术交流论坛</td>
-</tr>
-<tr>
-<td>程序员源码论坛</td>
-<td><a href="http://www.cx1314.cn/">http://www.cx1314.cn/</a></td>
-<td>IT技术交流论坛</td>
-</tr>
-<tr>
-<td>百度盘影视类资源论坛</td>
-<td><a href="https://8yunpan.com/">https://8yunpan.com</a></td>
-<td>百度盘影视类资源论坛</td>
-</tr>
-<tr>
-<td>网盘世界吧</td>
-<td><a href="http://www.wpsj8.com/">http://www.wpsj8.com/</a></td>
-<td>网盘综合类类资源论坛</td>
-</tr>
-<tr>
-<td>百度云分享论坛</td>
-<td><a href="https://www.aixuge.com/">https://www.aixuge.com/</a></td>
-<td>百度盘影视类资源论坛</td>
-</tr>
-<tr>
-<td>云资源分享论坛</td>
-<td><a href="http://www.yunpandu.com/">http://www.yunpandu.com/</a></td>
-<td>百度盘影视类资源论坛</td>
-</tr>
-<tr>
-<td>云资源分享论坛</td>
-<td><a href="https://www.wpfx8.com/">https://www.wpfx8.com/</a></td>
-<td>网盘综合类类资源论坛</td>
-</tr>
-<tr>
-<td>112网盘社区</td>
-<td><a href="http://www.112pan.com/">http://www.112pan.com/</a></td>
-<td>网盘综合类类资源论坛</td>
-</tr>
-<tr>
-<td>共享琵琶行</td>
-<td><a href="https://www.ppxclub.com/">https://www.ppxclub.com/</a></td>
-<td>综合类资源交流论坛</td>
-</tr>
-<tr>
-<td>教育盘论坛</td>
-<td><a href="https://jiaoyupan.com/">https://jiaoyupan.com/</a></td>
-<td>综合类教育考试交流论坛</td>
-</tr>
-<tr>
-<td>西西论坛</td>
-<td><a href="https://www.zhanxixi.com/">https://www.zhanxixi.com/</a></td>
-<td>百度盘影视类资源论坛</td>
-</tr>
-<tr>
-<td>吾爱程序猿</td>
-<td><a href="https://www.52programer.com/">https://www.52programer.com/</a></td>
-<td>IT技术交流论坛</td>
-</tr>
-<tr>
-<td>90云盘网论坛</td>
-<td><a href="http://90yp.com/">http://90yp.com/</a></td>
-<td>网盘综合类类资源论坛</td>
-</tr>
-<tr>
-<td>屌丝论坛</td>
-<td><a href="https://assbbs.com/">https://assbbs.com/</a></td>
-<td>嗯….</td>
-</tr>
-<tr>
-<td>创意分享论坛</td>
-<td><a href="https://www.fenxiangzq.com/">https://www.fenxiangzq.com/</a></td>
-<td>站长交流社区</td>
-</tr>
-<tr>
-<td>终点论坛</td>
-<td><a href="https://bbs.zdfx.net/">https://bbs.zdfx.net</a></td>
-<td>ACG游戏社区</td>
-</tr>
-<tr>
-<td>Dice分享社区</td>
-<td><a href="http://dice.baimianxiao.cn/">http://dice.baimianxiao.cn/</a></td>
-<td>一个新论坛</td>
-</tr>
-<tr>
-<td>HIFI音乐论坛</td>
-<td><a href="https://sacdr.net/forum.php">https://sacdr.net/forum.php</a></td>
-<td>HIFI音乐交流论坛</td>
-</tr>
-<tr>
-<td>后浪论坛</td>
-<td><a href="https://bbs.dhzy.fun/">https://bbs.dhzy.fun/</a></td>
-<td>综合类交流论坛</td>
-</tr>
-<tr>
-<td>VIP分享网论坛</td>
-<td><a href="https://bbs.vipfenxiang.com/">https://bbs.vipfenxiang.com/</a></td>
-<td>VIP分享账号论坛</td>
-</tr>
-<tr>
-<td>天天资源吧</td>
-<td><a href="https://www.ttsf6.com/">https://www.ttsf6.com/</a></td>
-<td>综合类交流论坛</td>
-</tr>
-<tr>
-<td>4414论坛</td>
-<td><a href="https://www.4414.cn/">https://www.4414.cn/</a></td>
-<td>站长交流社区</td>
-</tr>
-<tr>
-<td>站长门户圈</td>
-<td><a href="https://bbs.downzz.com/">https://bbs.downzz.com/</a></td>
-<td>站长交流社区</td>
-</tr>
-<tr>
-<td>落伍者交流社区</td>
-<td><a href="https://www.im286.net/">https://www.im286.net</a></td>
-<td>站长交流社区</td>
-</tr>
-<tr>
-<td>苹果站长论坛</td>
-<td><a href="https://www.bbspg.com/">https://www.bbspg.com</a></td>
-<td>苹果CMS站长论坛</td>
-</tr>
-<tr>
-<td>资源岛论坛</td>
-<td><a href="https://bbs.xktpx.com/">https://bbs.xktpx.com/</a></td>
-<td>综合类交流论坛</td>
-</tr>
-<tr>
-<td>品品品</td>
-<td><a href="http://www.pinmuch.com/">http://www.pinmuch.com/</a></td>
-<td>电子书类论坛</td>
-</tr>
-<tr>
-<td>free学习论坛</td>
-<td><a href="http://bbs.hrfree.cn/">http://bbs.hrfree.cn/</a></td>
-<td>HR专业学习论坛</td>
-</tr>
-<tr>
-<td>资源巴巴</td>
-<td><a href="https://www.ziyuanbaba.com/">https://www.ziyuanbaba.com/</a></td>
-<td>综合类资源下载交流论坛</td>
-</tr>
-<tr>
-<td>百度云电影论坛</td>
-<td><a href="http://www.chchzh.com/">http://www.chchzh.com</a></td>
-<td>百度盘影视类资源论坛</td>
-</tr>
-<tr>
-<td>东西资源论坛</td>
-<td><a href="http://www.dxzylt.net/">http://www.dxzylt.net/</a></td>
-<td>音乐HIFI类资源论坛</td>
-</tr>
-<tr>
-<td>久爱论坛</td>
-<td><a href="https://www.jizy8.com/">https://www.jizy8.com/</a></td>
-<td>游戏辅助类论坛</td>
-</tr>
-<tr>
-<td>溜达TXT电子书论坛</td>
-<td><a href="https://www.ldtxt.net/">https://www.ldtxt.net/</a></td>
-<td>TXT电子书论坛</td>
-</tr>
-<tr>
-<td>TXT电子书论坛</td>
-<td><a href="https://www.zm233.net/">https://www.zm233.net/</a></td>
-<td>TXT电子书论坛</td>
-</tr>
-<tr>
-<td>泡泡TXT电子书论坛</td>
-<td><a href="https://www.pp233.net/">https://www.pp233.net/</a></td>
-<td>TXT电子书论坛</td>
-</tr>
-<tr>
-<td>随心破解论坛</td>
-<td><a href="http://sxpojie.cn/">http://sxpojie.cn</a></td>
-<td>游戏辅助类论坛</td>
-</tr>
-<tr>
-<td>破走论坛</td>
-<td><a href="https://www.pozou.com/">https://www.pozou.com/</a></td>
-<td>游戏辅助类论坛</td>
-</tr>
-<tr>
-<td>周五论坛</td>
-<td><a href="https://zhouwu123.com/">https://zhouwu123.com</a></td>
-<td>游戏辅助类论坛</td>
-</tr>
-<tr>
-<td>MAC用户论坛</td>
-<td><a href="https://learnku.com/mac">https://learnku.com/mac</a></td>
-<td>MAC用户论坛</td>
-</tr>
-<tr>
-<td>MAC树交流社区</td>
-<td><a href="https://www.appleshu.net/forum.php">https://www.appleshu.net/forum.php</a></td>
-<td>MAC用户论坛</td>
-</tr>
-<tr>
-<td>三维3D技术论坛</td>
-<td><a href="http://www.narkii.com/club/">http://www.narkii.com/club/</a></td>
-<td>三维3D技术论坛</td>
-</tr>
-<tr>
-<td>视界论坛</td>
-<td><a href="https://bbs.outfu.com/">https://bbs.outfu.com/</a></td>
-<td>阿里云盘资源</td>
-</tr>
-<tr>
-<td>恩山无线论坛</td>
-<td><a href="https://www.right.com.cn/">https://www.right.com.cn/</a></td>
-<td>硬件学习</td>
-</tr>
-<tr>
-<td>pipecraft社区</td>
-<td><a href="https://discuss.cn.pipecraft.net/">https://discuss.cn.pipecraft.net/</a></td>
-<td>RSS综合讨论社区</td>
-</tr>
-<tr>
-<td>抛砖问答</td>
-<td><a href="https://pzwd.net/">https://pzwd.net/</a></td>
-<td>非商业性质的，独立的，开放的，程序员的问答社区</td>
-</tr>
-<tr>
-<td>HiFiNi</td>
-<td><a href="https://www.hifini.com/">https://www.hifini.com/</a></td>
-<td>HiFiNi 是一个由音乐爱好者维护的分享平台, 旨在解决问题互帮互助</td>
-</tr>
-<tr>
-<td>聚客盒</td>
-<td><a href="https://jukebox.pipecraft.net/">https://jukebox.pipecraft.net/</a></td>
-<td>聚客盒 - 聚合程序员博客的宝盒，是一个非商业性质的，独立的，开放的，程序员社区。</td>
-</tr>
-<tr>
-<td>搬砖技术社区</td>
-<td><a href="https://0xffff.one/">https://0xffff.one/</a></td>
-<td>0xffff.</td>
-</tr>
-<tr>
-<td>摸鱼派</td>
-<td><a href="https://fishpi.cn/">https://fishpi.cn</a></td>
-<td>一个属于程序员的摸鱼社区</td>
-</tr>
-<tr>
-<td>非人类论坛</td>
-<td><a href="https://loc.cc/">https://loc.cc</a></td>
-<td>域名爱好者的论坛</td>
-</tr>
-<tr>
-<td>阿里云网盘资源免费分享论坛</td>
-<td><a href="https://alifree.net/">https://alifree.net/</a></td>
-<td>阿里云网盘资源分享论坛</td>
-</tr>
-<tr>
-<td>云盘分享论坛</td>
-<td><a href="https://www.ypshare.com/">https://www.ypshare.com/</a></td>
-<td>资源分享论坛，推荐书籍区</td>
-</tr>
-<tr>
-<td>excelhome</td>
-<td><a href="https://club.excelhome.net/">https://club.excelhome.net/</a></td>
-<td>专业的Excel学习论坛</td>
-</tr>
-<tr>
-<td>萝卜头论坛</td>
-<td><a href="https://bbs.luobotou.org/">https://bbs.luobotou.org</a></td>
-<td>软件IT论坛</td>
-</tr>
-<tr>
-<td>吾爱知道</td>
-<td><a href="http://www.qkoufu.com/">http://www.qkoufu.com</a></td>
-<td>问答社区</td>
-</tr>
-<tr>
-<td>独目不成林</td>
-<td><a href="https://bbs.5mmm.top/">https://bbs.5mmm.top</a></td>
-<td>考研课程类论坛</td>
-</tr>
-<tr>
-<td>批处理之家</td>
-<td><a href="http://www.bathome.net/">http://www.bathome.net</a></td>
-<td>BAT及power shell技术讨论</td>
-</tr>
-<tr>
-<td>G2怀旧论坛</td>
-<td><a href="https://www.g2hj.com/">https://www.g2hj.com</a></td>
-<td>影视资源论坛</td>
-</tr>
-<tr>
-<td>网盘分享吧</td>
-<td><a href="https://www.wpfx8.com/">https://www.wpfx8.com</a></td>
-<td>网盘资源论坛</td>
-</tr>
-<tr>
-<td>云中漫步</td>
-<td><a href="https://www.yunzmb.com/">https://www.yunzmb.com</a></td>
-<td>影视资源论坛</td>
-</tr>
-<tr>
-<td>慢慢游社区</td>
-<td><a href="https://www.mmybt.com/">https://www.mmybt.com</a></td>
-<td>影视资源论坛</td>
-</tr>
-<tr>
-<td>hd高清乐园</td>
-<td><a href="https://www.hdsay.net/">https://www.hdsay.net</a></td>
-<td>影视资源论坛</td>
-</tr>
-<tr>
-<td>hktvwind</td>
-<td><a href="http://www.hktvwind.com/">http://www.hktvwind.com</a></td>
-<td>影视资源论坛</td>
-</tr>
-<tr>
-<td>飘雪动漫社</td>
-<td><a href="https://www.deainx.me/">https://www.deainx.me</a></td>
-<td>动漫资源论坛</td>
-</tr>
-<tr>
-<td>艾特早教</td>
-<td><a href="http://www.at008.com/">http://www.at008.com</a></td>
-<td>儿童早教资源</td>
-</tr>
-<tr>
-<td>国配影迷社区</td>
-<td><a href="https://club.ccmnn.com/">https://club.ccmnn.com</a></td>
-<td>影视资源论坛</td>
-</tr>
-<tr>
-<td>优优MP4</td>
-<td><a href="https://www.uump4.net/">https://www.uump4.net</a></td>
-<td>影视资源论坛</td>
-</tr>
-<tr>
-<td>牛皮兔</td>
-<td><a href="http://www.niupitu.com/">http://www.niupitu.com</a></td>
-<td>影视资源论坛</td>
-</tr>
-<tr>
-<td>90云盘网</td>
-<td><a href="http://www.90yp.net/">http://www.90yp.net</a></td>
-<td>影视资源论坛</td>
-</tr>
-<tr>
-<td>星期八</td>
-<td><a href="https://www.xinqi8888.com/">https://www.xinqi8888.com</a></td>
-<td>一些资源论坛</td>
-</tr>
-<tr>
-<td>阿里盘友</td>
-<td><a href="https://www.alipanyou.com/">https://www.alipanyou.com</a></td>
-<td>以阿里云盘资源为主的论坛</td>
-</tr>
-<tr>
-<td>我的小站</td>
-<td><a href="https://pan666.net/">https://pan666.net</a></td>
-<td>以阿里云盘资源为主的论坛</td>
-</tr>
-<tr>
-<td>PS教程论坛</td>
-<td><a href="http://bbs.16xx8.com/">http://bbs.16xx8.com</a></td>
-<td>以PS教程为主</td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>网站收录</category>
-      </categories>
-      <tags>
-        <tag>论坛社区</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>设计新媒体类网站指南</title>
-    <url>/shejidaohang.html</url>
-    <content><![CDATA[<table>
-<thead>
-<tr>
-<th align="center">设计、媒体制作类网站（无顺序排名）</th>
-<th align="center"></th>
-<th align="center"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">站点名称</td>
-<td align="center">链接地址</td>
-<td align="center">备注信息</td>
-</tr>
-<tr>
-<td align="center">零扣分C4D</td>
-<td align="center"><a href="http://www.kf00.com/">http://www.kf00.com/</a></td>
-<td align="center">C4D素材资源站</td>
-</tr>
-<tr>
-<td align="center">PS自学网</td>
-<td align="center"><a href="https://www.16xx8.com/">https://www.16xx8.com/</a></td>
-<td align="center">PS素材资源</td>
-</tr>
-<tr>
-<td align="center">CG爱好者</td>
-<td align="center"><a href="http://www.cgahz.com/">http://www.cgahz.com/</a></td>
-<td align="center">模版视频素材</td>
-</tr>
-<tr>
-<td align="center">韬客AE</td>
-<td align="center"><a href="https://www.talkae.com/">https://www.talkae.com/</a></td>
-<td align="center">AE模版、插件</td>
-</tr>
-<tr>
-<td align="center">TVtalk</td>
-<td align="center"><a href="https://www.tvtalk.cn/">https://www.tvtalk.cn/</a></td>
-<td align="center">影视制作行业交流</td>
-</tr>
-<tr>
-<td align="center">doyoudo</td>
-<td align="center"><a href="http://www.doyoudo.com/">http://www.doyoudo.com/</a></td>
-<td align="center">快速学习课程大全</td>
-</tr>
-<tr>
-<td align="center">汇同CG</td>
-<td align="center"><a href="https://www.htzyw.com/">https://www.htzyw.com/</a></td>
-<td align="center">CG类资源平台（AE模版等）</td>
-</tr>
-<tr>
-<td align="center">CAD吧</td>
-<td align="center"><a href="https://www.c4dba.com/">https://www.c4dba.com/</a></td>
-<td align="center">专业学习C4D平台</td>
-</tr>
-<tr>
-<td align="center">书生CG资源站</td>
-<td align="center"><a href="https://c4dsky.com/">https://c4dsky.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">CG资源网</td>
-<td align="center"><a href="https://www.cgzyw.com/">https://www.cgzyw.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">追影吧</td>
-<td align="center"><a href="https://www.aepr8.com/">https://www.aepr8.com/</a></td>
-<td align="center">AE模版、PR插件</td>
-</tr>
-<tr>
-<td align="center">后期资源网</td>
-<td align="center"><a href="https://www.vfx123.com/">https://www.vfx123.com/</a></td>
-<td align="center">FCPX资源站</td>
-</tr>
-<tr>
-<td align="center">明小子资源网</td>
-<td align="center"><a href="https://www.mingxiaozi.com/">https://www.mingxiaozi.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">PR模版网</td>
-<td align="center"><a href="https://prmuban.com/">https://prmuban.com/</a></td>
-<td align="center">PR插件、预设</td>
-</tr>
-<tr>
-<td align="center">CG自学网</td>
-<td align="center"><a href="https://www.cgzixue.cn/">https://www.cgzixue.cn/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">videoocoplilot中文站</td>
-<td align="center"><a href="https://videocopilot.net.cn/">https://videocopilot.net.cn/</a></td>
-<td align="center">AE模版、PR插件</td>
-</tr>
-<tr>
-<td align="center">菜鸟C4D</td>
-<td align="center"><a href="https://www.c4dcn.com/">https://www.c4dcn.com/</a></td>
-<td align="center">专业学习C4D平台</td>
-</tr>
-<tr>
-<td align="center">Lookae大众脸</td>
-<td align="center"><a href="https://www.lookae.com/">https://www.lookae.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">灵动网</td>
-<td align="center"><a href="https://www.ldvfx.com/">https://www.ldvfx.com/</a></td>
-<td align="center">影视后期加油站</td>
-</tr>
-<tr>
-<td align="center">shareae</td>
-<td align="center"><a href="http://www.shareae.cn/">http://www.shareae.cn/</a></td>
-<td align="center">AE模版、插件</td>
-</tr>
-<tr>
-<td align="center">西橘</td>
-<td align="center"><a href="http://www.cgdown.com/">http://www.cgdown.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">动态设计C4D</td>
-<td align="center"><a href="http://www.momentor.tv/">http://www.momentor.tv/</a></td>
-<td align="center">专业学习C4D平台</td>
-</tr>
-<tr>
-<td align="center">剪辑库</td>
-<td align="center"><a href="https://www.editku.com/">https://www.editku.com/</a></td>
-<td align="center">模版视频素材</td>
-</tr>
-<tr>
-<td align="center">CGUFO</td>
-<td align="center"><a href="https://www.cgufo.com/">https://www.cgufo.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">牛片网</td>
-<td align="center"><a href="https://www.6pian.cn/">https://www.6pian.cn/</a></td>
-<td align="center">视频制作项目交易</td>
-</tr>
-<tr>
-<td align="center">素材鱼</td>
-<td align="center"><a href="http://www.scyu.com/">http://www.scyu.com/</a></td>
-<td align="center">付费类模版素材网</td>
-</tr>
-<tr>
-<td align="center">包图网</td>
-<td align="center"><a href="https://ibaotu.com/">https://ibaotu.com/</a></td>
-<td align="center">付费类模版素材网</td>
-</tr>
-<tr>
-<td align="center">五分钱特效</td>
-<td align="center"><a href="https://www.vfxcool.com/">https://www.vfxcool.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">93CG网</td>
-<td align="center"><a href="https://www.93cg.com/">https://www.93cg.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">AE模版站</td>
-<td align="center"><a href="https://www.adobeae.com/">https://www.adobeae.com/</a></td>
-<td align="center">AE模版、插件</td>
-</tr>
-<tr>
-<td align="center">R站</td>
-<td align="center"><a href="https://www.btbat.com/">https://www.btbat.com/</a></td>
-<td align="center">三维类学习资源素材站</td>
-</tr>
-<tr>
-<td align="center">逍遥影视</td>
-<td align="center"><a href="https://www.vfxreel.net/">https://www.vfxreel.net/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">分享短视频</td>
-<td align="center"><a href="http://www.sharenice.net/">http://www.sharenice.net/</a></td>
-<td align="center">短视频搬运素材</td>
-</tr>
-<tr>
-<td align="center">影库创作</td>
-<td align="center"><a href="https://www.moviercool.com/">https://www.moviercool.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">绿幕素材</td>
-<td align="center"><a href="http://shijueju.com/">http://shijueju.com/</a></td>
-<td align="center">绿幕素材</td>
-</tr>
-<tr>
-<td align="center">点亮吧</td>
-<td align="center"><a href="http://www.dianliang8.com/">http://www.dianliang8.com</a></td>
-<td align="center">混剪视频素材站</td>
-</tr>
-<tr>
-<td align="center">动视素材</td>
-<td align="center"><a href="http://www.dongmv.com/">http://www.dongmv.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">CG资源站</td>
-<td align="center"><a href="https://www.cger.com/">https://www.cger.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">MACW</td>
-<td align="center"><a href="https://v.macw.com/">https://v.macw.com/</a></td>
-<td align="center">AE模版、MAC资源</td>
-</tr>
-<tr>
-<td align="center">橙创意后期</td>
-<td align="center"><a href="https://ccy-hq.com/">https://ccy-hq.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">视频制作资源库</td>
-<td align="center"><a href="http://przhuanchang.com/">http://przhuanchang.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">夏天CG资源站</td>
-<td align="center"><a href="https://videosummer.com/">https://videosummer.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">傲视网</td>
-<td align="center"><a href="http://www.aoao365.com/">http://www.aoao365.com/</a></td>
-<td align="center">视频模版站</td>
-</tr>
-<tr>
-<td align="center">CG素材网</td>
-<td align="center"><a href="https://www.cgsucai.com/">https://www.cgsucai.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">黑镜资源网</td>
-<td align="center"><a href="https://cg66.cn/">https://cg66.cn/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">帧资源</td>
-<td align="center"><a href="http://www.zhenzy.com/">http://www.zhenzy.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">PR自学网</td>
-<td align="center"><a href="http://www.przixue.com/">http://www.przixue.com/</a></td>
-<td align="center">PR模版、预设素材资源</td>
-</tr>
-<tr>
-<td align="center">PR素材网</td>
-<td align="center"><a href="https://www.prsucai.com/">https://www.prsucai.com/</a></td>
-<td align="center">PR模版、预设素材资源</td>
-</tr>
-<tr>
-<td align="center">云桥网络</td>
-<td align="center"><a href="http://www.yunqiaonet.com/">http://www.yunqiaonet.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">VFXcamp</td>
-<td align="center"><a href="https://www.vfxcamp.com/">https://www.vfxcamp.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">Vlog小站</td>
-<td align="center"><a href="https://www.vlogxz.com/">https://www.vlogxz.com/</a></td>
-<td align="center">短视频运营交流站</td>
-</tr>
-<tr>
-<td align="center">久爱后期网</td>
-<td align="center"><a href="https://www.freehpcg.com/">https://www.freehpcg.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">后期粉</td>
-<td align="center"><a href="https://wcoolae.com/">https://wcoolae.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">达芬奇模版网</td>
-<td align="center"><a href="https://drmuban.com/">https://drmuban.com/</a></td>
-<td align="center">达芬奇模版素材</td>
-</tr>
-<tr>
-<td align="center">CG志</td>
-<td align="center"><a href="https://cgzhi.com/">https://cgzhi.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">AE素材资源站</td>
-<td align="center"><a href="https://www.aeziyuan.com/">https://www.aeziyuan.com/</a></td>
-<td align="center">AE模版、插件</td>
-</tr>
-<tr>
-<td align="center">CGJOY</td>
-<td align="center"><a href="https://www.cgjoy.com/">https://www.cgjoy.com/</a></td>
-<td align="center">三维类学习资源素材站</td>
-</tr>
-<tr>
-<td align="center">零点网</td>
-<td align="center"><a href="https://www.2amok.com/">https://www.2amok.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">爱给网</td>
-<td align="center"><a href="https://www.aigei.com/">https://www.aigei.com/</a></td>
-<td align="center">综合类素材资源站</td>
-</tr>
-<tr>
-<td align="center">AEPOND</td>
-<td align="center"><a href="https://www.aepond.com/">https://www.aepond.com/</a></td>
-<td align="center">AE模版、PR插件</td>
-</tr>
-<tr>
-<td align="center">我要自学网</td>
-<td align="center"><a href="https://www.51zxw.net/">https://www.51zxw.net/</a></td>
-<td align="center">综合类教程资源站</td>
-</tr>
-<tr>
-<td align="center">影视工业网</td>
-<td align="center"><a href="https://107cine.com/">https://107cine.com/</a></td>
-<td align="center">影视工业网</td>
-</tr>
-<tr>
-<td align="center">优设</td>
-<td align="center"><a href="https://uiiiuiii.com/">https://uiiiuiii.com/</a></td>
-<td align="center">综合类设计素材教程资源站</td>
-</tr>
-<tr>
-<td align="center">一品素材网</td>
-<td align="center"><a href="https://www.yipinsucai.com/">https://www.yipinsucai.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">笔图网</td>
-<td align="center"><a href="https://bitu360.com/">https://bitu360.com/</a></td>
-<td align="center">办公素材资源站</td>
-</tr>
-<tr>
-<td align="center">CG学习资源网</td>
-<td align="center"><a href="http://iiidea.cn/">http://iiidea.cn/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">趣猫资源网</td>
-<td align="center"><a href="https://www.mgzyfx.com/">https://www.mgzyfx.com/</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">光影7号</td>
-<td align="center"><a href="http://www.video7cg.com/">http://www.video7cg.com</a></td>
-<td align="center">CG类资源平台</td>
-</tr>
-<tr>
-<td align="center">千图网</td>
-<td align="center"><a href="https://www.58pic.com/">https://www.58pic.com/</a></td>
-<td align="center">综合类素材资源站</td>
-</tr>
-<tr>
-<td align="center">千库网</td>
-<td align="center"><a href="https://588ku.com/">https://588ku.com/</a></td>
-<td align="center">综合类素材资源站</td>
-</tr>
-<tr>
-<td align="center">摄图网</td>
-<td align="center"><a href="https://699pic.com/">https://699pic.com/</a></td>
-<td align="center">综合类素材资源站</td>
-</tr>
-<tr>
-<td align="center">立体派</td>
-<td align="center"><a href="http://www.ltpmx.com/index.html">http://www.ltpmx.com/index.html</a></td>
-<td align="center">C4D模型素材</td>
-</tr>
-<tr>
-<td align="center">好知网</td>
-<td align="center"><a href="http://www.howzhi.com/">http://www.howzhi.com/</a></td>
-<td align="center">综合类教程资源站</td>
-</tr>
-<tr>
-<td align="center">花瓣</td>
-<td align="center"><a href="https://huaban.com/">https://huaban.com/</a></td>
-<td align="center">设计师灵感图库</td>
-</tr>
-<tr>
-<td align="center">pinterest</td>
-<td align="center"><a href="https://www.pinterest.com/">https://www.pinterest.com/</a></td>
-<td align="center">最好的（没有之一）设计师灵感图库</td>
-</tr>
-<tr>
-<td align="center">设计开开眼</td>
-<td align="center"><a href="https://www.designuuu.com/">https://www.designuuu.com/</a></td>
-<td align="center">设计作品鉴赏</td>
-</tr>
-<tr>
-<td align="center">520设计网</td>
-<td align="center"><a href="https://www.sj520.cn/">https://www.sj520.cn/</a></td>
-<td align="center">综合类设计素材教程资源站</td>
-</tr>
-<tr>
-<td align="center">时觉ME</td>
-<td align="center"><a href="http://shijue.me/">http://shijue.me/</a></td>
-<td align="center">设计作品分享、发现、售卖</td>
-</tr>
-<tr>
-<td align="center">Veer图库</td>
-<td align="center"><a href="https://www.veer.com/">https://www.veer.com/</a></td>
-<td align="center">正版商用图库</td>
-</tr>
-<tr>
-<td align="center">设计小咖</td>
-<td align="center"><a href="https://www.iamxk.com/">https://www.iamxk.com/</a></td>
-<td align="center">设计素材资源站</td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>网站收录</category>
-      </categories>
-      <tags>
-        <tag>设计新媒体</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>软件类资源收录</title>
-    <url>/ruanjian.html</url>
-    <content><![CDATA[<center>软件类资源收录</center>
-
-<table>
-<thead>
-<tr>
-<th>资源链接共享表（请勿随意删除）失效资源请标记反馈后再删除–整理：资源干货收录群组</th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>资源名称</td>
-<td>链接地址</td>
-<td>提取码</td>
-<td>备注信息</td>
-</tr>
-<tr>
-<td>cleanmymac x for mac(专业系统清理)免激活码 V4.0.4中文激活版</td>
-<td><a href="https://pan.baidu.com/s/1JZl4h2bxr-W61n0mBHDg9A">https://pan.baidu.com/s/1JZl4h2bxr-W61n0mBHDg9A</a></td>
-<td>w3fh</td>
-<td></td>
-</tr>
-<tr>
-<td>Adobe全家桶（含教程）</td>
-<td><a href="https://pan.baidu.com/s/1r_eKiR48MVpUVNV-wMFRqw">https://pan.baidu.com/s/1r_eKiR48MVpUVNV-wMFRqw</a></td>
-<td>k9b6</td>
-<td></td>
-</tr>
-<tr>
-<td>论文查重工具</td>
-<td><a href="https://pan.baidu.com/s/15CUEEpddoIjoHqwWVJC3lA">https://pan.baidu.com/s/15CUEEpddoIjoHqwWVJC3lA</a></td>
-<td>kyo2</td>
-<td></td>
-</tr>
-<tr>
-<td>各版本office破解</td>
-<td><a href="https://pan.baidu.com/s/1ubibLjjtLLCC_c01KKJ5ag">https://pan.baidu.com/s/1ubibLjjtLLCC_c01KKJ5ag</a></td>
-<td>wmtd</td>
-<td></td>
-</tr>
-<tr>
-<td>得到 APP 课程下载工具</td>
-<td><a href="https://github.com/yann0917/dedao-dl/releases/tag/v1.0.1">https://github.com/yann0917/dedao-dl/releases/tag/v1.0.1</a></td>
-<td>无</td>
-<td></td>
-</tr>
-<tr>
-<td>cdr软件安装包</td>
-<td><a href="https://share.weiyun.com/5wWM7Ca">https://share.weiyun.com/5wWM7Ca</a></td>
-<td>82xi</td>
-<td></td>
-</tr>
-<tr>
-<td>cdr插件合集</td>
-<td><a href="https://pan.baidu.com/s/1WfaKL_G1hZywjckDFwsL4A">https://pan.baidu.com/s/1WfaKL_G1hZywjckDFwsL4A</a></td>
-<td>n4f3</td>
-<td></td>
-</tr>
-<tr>
-<td>m3u8批量下载器</td>
-<td><a href="https://pan.baidu.com/s/1ASTs3UeTlytoZEn1i94mNw#list/path=%2F">https://pan.baidu.com/s/1ASTs3UeTlytoZEn1i94mNw#list/path=%2F</a></td>
-<td>dywy</td>
-<td></td>
-</tr>
-<tr>
-<td>高清杂志网杂志下载</td>
-<td><a href="https://www.lanzoui.com/iavakvc">https://www.lanzoui.com/iavakvc</a></td>
-<td>无</td>
-<td></td>
-</tr>
-<tr>
-<td>CrossOver for Mac v19.0.1</td>
-<td><a href="https://pan.baidu.com/s/1X8B3Knkx4elMmoWaOxut3g#list/path=%2F">https://pan.baidu.com/s/1X8B3Knkx4elMmoWaOxut3g#list/path=%2F</a></td>
-<td>rjbq</td>
-<td></td>
-</tr>
-<tr>
-<td>批量真人配音软件V2.6</td>
-<td><a href="https://wws.lanzoux.com/iaE8mfj34ja#5fpv">https://wws.lanzoux.com/iaE8mfj34ja#5fpv</a></td>
-<td>5fpv</td>
-<td></td>
-</tr>
-<tr>
-<td>科大讯飞语音合成系统 V5.0绿色便携版</td>
-<td><a href="https://cloud.189.cn/t/N326Vn2IjiQj">https://cloud.189.cn/t/N326Vn2IjiQj</a></td>
-<td>无</td>
-<td></td>
-</tr>
-<tr>
-<td>讯飞语音识别提取版</td>
-<td><a href="https://www.lanzoux.com/iy7g0fowgif">https://www.lanzoux.com/iy7g0fowgif</a></td>
-<td>无</td>
-<td></td>
-</tr>
-<tr>
-<td>云视助手-视频批量下载助手</td>
-<td><a href="https://nxzhdj.lanzoux.com/b0djkgire">https://nxzhdj.lanzoux.com/b0djkgire</a></td>
-<td>无</td>
-<td></td>
-</tr>
-<tr>
-<td>webdav小秘1.0.0</td>
-<td><a href="https://lightzhan.lanzoui.com/b015wjsri">https://lightzhan.lanzoui.com/b015wjsri</a></td>
-<td>无</td>
-<td></td>
-</tr>
-<tr>
-<td>百度网盘7天VIP理论无限获取</td>
-<td><a href="https://wwi.lanzoui.com/ivDCspgopoj">https://wwi.lanzoui.com/ivDCspgopoj</a></td>
-<td>密码：xej    解压码：小二君真帅</td>
-<td>pc软件，易语言爬取联合活动，官方白嫖最为致命</td>
-</tr>
-<tr>
-<td>微信视频号下载工具</td>
-<td><a href="https://noise.lanzoui.com/itbYxptz74f">https://noise.lanzoui.com/itbYxptz74f</a></td>
-<td>无</td>
-<td></td>
-</tr>
-<tr>
-<td>云萌Windows10激活工具</td>
-<td><a href="https://cmwtat.cloudmoe.com/cn.html">https://cmwtat.cloudmoe.com/cn.html</a></td>
-<td>无</td>
-<td></td>
-</tr>
-<tr>
-<td>蜜蜂短视频去水印</td>
-<td><a href="https://video.ciding.cc/">https://video.ciding.cc/</a></td>
-<td>无</td>
-<td>比较全面的短视频去水印工具。</td>
-</tr>
-<tr>
-<td>云视助手-视频批量下载助手</td>
-<td><a href="https://nxzhdj.lanzoux.com/b0djkgire">https://nxzhdj.lanzoux.com/b0djkgire</a></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>阿里云盘小白羊版v1.6.6</td>
-<td><a href="https://wwr.lanzoui.com/iSfdJpzctof">https://wwr.lanzoui.com/iSfdJpzctof</a></td>
-<td>无</td>
-<td>开源地址：<a href="https://github.com/liupan1890/aliyunpan">https://github.com/liupan1890/aliyunpan</a></td>
-</tr>
-<tr>
-<td>百度网盘7天VIP理论无限获取升级版</td>
-<td><a href="https://wwi.lanzoui.com/iUQwuq7rz9e">https://wwi.lanzoui.com/iUQwuq7rz9e</a></td>
-<td>解压码：资源研讨社</td>
-<td>增加了软件内看活动时间的功能，避免了多次试错码</td>
-</tr>
-<tr>
-<td>Bandizip v7.17 号称解压速度最快的压缩和解压缩文件管理器。</td>
-<td><a href="https://pan.baidu.com/s/1ueyq311qIvrGrlyboE7fNA">https://pan.baidu.com/s/1ueyq311qIvrGrlyboE7fNA</a></td>
-<td>ppsq</td>
-<td>安装后根目录下激活专业版补丁</td>
-</tr>
-<tr>
-<td>阿里后台批量发起订单辅助工具</td>
-<td><a href="https://pan.baidu.com/share/init?surl=BbG1GLzEOou7yd6GZDKVWw">https://pan.baidu.com/share/init?surl=BbG1GLzEOou7yd6GZDKVWw</a></td>
-<td>aC4K</td>
-<td></td>
-</tr>
-<tr>
-<td>鬼谷八荒+初始无敌存档+修改器</td>
-<td><a href="https://pan.baidu.com/s/1FsWW_YZhh8Cb7xYmTmg9wg"> https://pan.baidu.com/s/1FsWW_YZhh8Cb7xYmTmg9wg</a></td>
-<td>fhtz</td>
-<td></td>
-</tr>
-<tr>
-<td>抖音视频批量无水印解析和自动下载工具</td>
-<td><a href="https://github.com/X-Lucifer/Douyin/releases/tag/2.0">https://github.com/X-Lucifer/Douyin/releases/tag/2.0</a></td>
-<td>无</td>
-<td></td>
-</tr>
-<tr>
-<td>度盘扩容教程</td>
-<td><a href="https://pan.baidu.com/share/init?surl=7rNv69loiM1AfiN3w__BHw">https://pan.baidu.com/share/init?surl=7rNv69loiM1AfiN3w__BHw</a></td>
-<td>JG77</td>
-<td></td>
-</tr>
-<tr>
-<td>Office Tool Plus</td>
-<td><a href="https://otp.landian.vip/zh-cn/">https://otp.landian.vip/zh-cn/</a></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>KMS</td>
-<td><a href="https://kms.cangshui.net/">https://kms.cangshui.net/</a></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>番茄影视</td>
-<td>fq88.app</td>
-<td></td>
-<td>一个不错的影视软件</td>
-</tr>
-<tr>
-<td>电脑声音转文字、文字转语音、图片转文字、视频取字幕、翻译、等</td>
-<td><a href="https://pan.baidu.com/s/1dMcH9aHgTS1gZWzgfu_eVQ">https://pan.baidu.com/s/1dMcH9aHgTS1gZWzgfu_eVQ</a></td>
-<td>d658</td>
-<td></td>
-</tr>
-<tr>
-<td>皮茶熊APP（暂时只支持安卓 ios正在申请）</td>
-<td><a href="https://psinu-1306302283-cn-bj-01.hkg.meijutt.top/Server/APK/psinu-v2.apk">https://psinu-1306302283-cn-bj-01.hkg.meijutt.top/Server/APK/psinu-v2.apk</a></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>MT管理器</td>
-<td><a href="https://binmt.lanzoui.com/b01bivkzc">https://binmt.lanzoui.com/b01bivkzc</a></td>
-<td>安卓神器</td>
-<td></td>
-</tr>
-<tr>
-<td>电影先生</td>
-<td><a href="http://dyxs11.com/doc/app/">http://dyxs11.com/doc/app/</a></td>
-<td></td>
-<td>目前只支持安卓下载，也可在线网址观看</td>
-</tr>
-<tr>
-<td>波点音乐</td>
-<td><a href="https://h5app.kuwo.cn/m/bodian/download.html">https://h5app.kuwo.cn/m/bodian/download.html</a></td>
-<td></td>
-<td>tx出品、3000万＋曲库、免费、画面简洁、专属音乐短片</td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>资源收录</category>
-      </categories>
-      <tags>
-        <tag>软件类资源</tag>
       </tags>
   </entry>
 </search>
