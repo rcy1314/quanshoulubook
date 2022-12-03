@@ -87,7 +87,7 @@ deploy:
     gitHub: https://github.com/rcy1314/quanshoulubook.git
   # [,branch]为可选项，表示部署的分支
   #2020年10月后github新建仓库默认分支改为main
-     branch: gh-pages                                                                                 
+                                                                                
 search:
   path: search.xml
   field: post
